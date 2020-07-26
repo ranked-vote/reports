@@ -1,0 +1,94 @@
+{
+  "info": {
+    "name": "Congressional District 2 - Republican",
+    "date": "2020-07-14",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2020/07",
+    "office": "cd02-primary-rep",
+    "officeName": "Congressional District 2 - Republican",
+    "jurisdictionName": "Maine",
+    "electionName": "Primary Election",
+    "loaderParams": {
+      "files": "cg2-1.xlsx;cg2-2.xlsx;cg2-3.xlsx;cg2-4.xlsx;cg2-uocava.xlsx"
+    }
+  },
+  "ballotCount": 46805,
+  "candidates": [
+    {
+      "name": "Dale John Crafts",
+      "write_in": false
+    },
+    {
+      "name": "Eric L. Brakey",
+      "write_in": false
+    },
+    {
+      "name": "Adrienne Bennett",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 19337
+        },
+        {
+          "allocatee": 2,
+          "votes": 13468
+        },
+        {
+          "allocatee": 1,
+          "votes": 9542
+        },
+        {
+          "allocatee": "X",
+          "votes": 4458
+        }
+      ],
+      "undervote": 4271,
+      "overvote": 187,
+      "continuingBallots": 42347,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 22888
+        },
+        {
+          "allocatee": 2,
+          "votes": 16207
+        },
+        {
+          "allocatee": "X",
+          "votes": 7710
+        }
+      ],
+      "undervote": 7483,
+      "overvote": 227,
+      "continuingBallots": 39095,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 3551
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "count": 2739
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 3252
+        }
+      ]
+    }
+  ]
+}

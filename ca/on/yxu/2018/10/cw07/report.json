@@ -1,0 +1,50 @@
+{
+  "info": {
+    "name": "Ward 7 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw07",
+    "officeName": "Ward 7 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "9 Councillor Ward 7.rcr"
+    }
+  },
+  "ballotCount": 8607,
+  "candidates": [
+    {
+      "name": "Joe Kolenko",
+      "write_in": false
+    },
+    {
+      "name": "Josh Morgan",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 6117
+        },
+        {
+          "allocatee": 0,
+          "votes": 2020
+        },
+        {
+          "allocatee": "X",
+          "votes": 470
+        }
+      ],
+      "undervote": 462,
+      "overvote": 8,
+      "continuingBallots": 8137,
+      "transfers": []
+    }
+  ]
+}

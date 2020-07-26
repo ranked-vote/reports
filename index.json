@@ -1,0 +1,668 @@
+{
+  "elections": [
+    {
+      "path": "us/me/2020/07",
+      "jurisdictionName": "Maine",
+      "electionName": "Primary Election",
+      "date": "2020-07-14",
+      "contests": [
+        {
+          "office": "cd02-primary-rep",
+          "officeName": "Congressional District 2 - Republican",
+          "name": "Congressional District 2 - Republican",
+          "winner": "Dale John Crafts",
+          "numCandidates": 3,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2019/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated Municipal Election",
+      "date": "2019-11-05",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "London N. Breed",
+          "numCandidates": 6,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "Dean Preston",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "city-atty",
+          "officeName": "City Attorney",
+          "name": "City Attorney",
+          "winner": "Dennis J. Herrera",
+          "numCandidates": 1,
+          "numRounds": 1
+        },
+        {
+          "office": "da",
+          "officeName": "District Attorney",
+          "name": "District Attorney",
+          "winner": "Chesa Boudin",
+          "numCandidates": 4,
+          "numRounds": 3
+        },
+        {
+          "office": "defender",
+          "officeName": "Public Defender",
+          "name": "Public Defender",
+          "winner": "Manohar “Mano” Raju",
+          "numCandidates": 1,
+          "numRounds": 1
+        },
+        {
+          "office": "sheriff",
+          "officeName": "Sheriff",
+          "name": "Sheriff",
+          "winner": "Paul Miyamoto",
+          "numCandidates": 1,
+          "numRounds": 1
+        },
+        {
+          "office": "treasurer",
+          "officeName": "Treasurer",
+          "name": "Treasurer",
+          "winner": "José Cisneros",
+          "numCandidates": 1,
+          "numRounds": 1
+        }
+      ]
+    },
+    {
+      "path": "us/me/2018/11",
+      "jurisdictionName": "Maine",
+      "electionName": "General Election",
+      "date": "2018-11-06",
+      "contests": [
+        {
+          "office": "cd02",
+          "officeName": "Congressional District 2",
+          "name": "Congressional District 2",
+          "winner": "Bruce Poliquin",
+          "numCandidates": 7,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2018/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "General Election",
+      "date": "2018-11-06",
+      "contests": [
+        {
+          "office": "assessor",
+          "officeName": "Assessor-Recorder",
+          "name": "Assessor-Recorder",
+          "winner": "Carmen Chu",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "defender",
+          "officeName": "Public Defender",
+          "name": "Public Defender",
+          "winner": "Jeff Adachi",
+          "numCandidates": 1,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d02",
+          "officeName": "Board of Supervisors, District 2",
+          "name": "Board of Supervisors, District 2",
+          "winner": "Catherine Stefani",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d04",
+          "officeName": "Board of Supervisors, District 4",
+          "name": "Board of Supervisors, District 4",
+          "winner": "Gordon Mar",
+          "numCandidates": 8,
+          "numRounds": 5
+        },
+        {
+          "office": "supervisor-d06",
+          "officeName": "Board of Supervisors, District 6",
+          "name": "Board of Supervisors, District 6",
+          "winner": "Matt Haney",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d08",
+          "officeName": "Board of Supervisors, District 8",
+          "name": "Board of Supervisors, District 8",
+          "winner": "Rafael Mandelman",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d10",
+          "officeName": "Board of Supervisors, District 10",
+          "name": "Board of Supervisors, District 10",
+          "winner": "Shamann Walton",
+          "numCandidates": 6,
+          "numRounds": 4
+        }
+      ]
+    },
+    {
+      "path": "ca/on/yxu/2018/10",
+      "jurisdictionName": "London, Ontario",
+      "electionName": "Municipal Election",
+      "date": "2018-10-22",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Ed Holder",
+          "numCandidates": 14,
+          "numRounds": 11
+        },
+        {
+          "office": "cw01",
+          "officeName": "Ward 1 Councilor",
+          "name": "Ward 1 Councilor",
+          "winner": "Michael Van Holst",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "cw02",
+          "officeName": "Ward 2 Councilor",
+          "name": "Ward 2 Councilor",
+          "winner": "Shawn Lewis",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "cw03",
+          "officeName": "Ward 3 Councilor",
+          "name": "Ward 3 Councilor",
+          "winner": "Mo Mohamed Salih",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "cw04",
+          "officeName": "Ward 4 Councilor",
+          "name": "Ward 4 Councilor",
+          "winner": "Jesse Helmer",
+          "numCandidates": 5,
+          "numRounds": 1
+        },
+        {
+          "office": "cw05",
+          "officeName": "Ward 5 Councilor",
+          "name": "Ward 5 Councilor",
+          "winner": "Maureen Cassidy",
+          "numCandidates": 6,
+          "numRounds": 4
+        },
+        {
+          "office": "cw06",
+          "officeName": "Ward 6 Councilor",
+          "name": "Ward 6 Councilor",
+          "winner": "Phil Squire",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "cw07",
+          "officeName": "Ward 7 Councilor",
+          "name": "Ward 7 Councilor",
+          "winner": "Josh Morgan",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "cw08",
+          "officeName": "Ward 8 Councilor",
+          "name": "Ward 8 Councilor",
+          "winner": "Steve Lehman",
+          "numCandidates": 9,
+          "numRounds": 6
+        },
+        {
+          "office": "cw09",
+          "officeName": "Ward 9 Councilor",
+          "name": "Ward 9 Councilor",
+          "winner": "Anna Hopkins",
+          "numCandidates": 5,
+          "numRounds": 2
+        },
+        {
+          "office": "cw10",
+          "officeName": "Ward 10 Councilor",
+          "name": "Ward 10 Councilor",
+          "winner": "Paul Van Meerbergen",
+          "numCandidates": 5,
+          "numRounds": 1
+        },
+        {
+          "office": "cw11",
+          "officeName": "Ward 11 Councilor",
+          "name": "Ward 11 Councilor",
+          "winner": "Stephen Turner",
+          "numCandidates": 6,
+          "numRounds": 1
+        },
+        {
+          "office": "cw12",
+          "officeName": "Ward 12 Councilor",
+          "name": "Ward 12 Councilor",
+          "winner": "Elizabeth Peloza",
+          "numCandidates": 6,
+          "numRounds": 2
+        },
+        {
+          "office": "cw13",
+          "officeName": "Ward 13 Councilor",
+          "name": "Ward 13 Councilor",
+          "winner": "Arielle Kayabaga",
+          "numCandidates": 8,
+          "numRounds": 6
+        },
+        {
+          "office": "cw14",
+          "officeName": "Ward 14 Councilor",
+          "name": "Ward 14 Councilor",
+          "winner": "Steve Hillier",
+          "numCandidates": 4,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
+      "path": "us/me/2018/06",
+      "jurisdictionName": "Maine",
+      "electionName": "Primary Election",
+      "date": "2018-06-12",
+      "contests": [
+        {
+          "office": "cd02-primary-dem",
+          "officeName": "Congressional District 2 - Democrat",
+          "name": "Congressional District 2 - Democrat",
+          "winner": "Jared F. Golden",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "gov",
+          "officeName": "Governor",
+          "name": "Governor",
+          "winner": "Janet T. Mills",
+          "numCandidates": 8,
+          "numRounds": 4
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2018/06",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated Statewide Primary Election",
+      "date": "2018-06-05",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "London Breed",
+          "numCandidates": 8,
+          "numRounds": 4
+        },
+        {
+          "office": "supervisor-d08",
+          "officeName": "Board of Supervisors, District 8",
+          "name": "Board of Supervisors, District 8",
+          "winner": "Rafael Mandelman",
+          "numCandidates": 3,
+          "numRounds": 1
+        }
+      ]
+    },
+    {
+      "path": "us/nm/saf/2018/03",
+      "jurisdictionName": "Santa Fe",
+      "electionName": "Regular Municipal Election",
+      "date": "2018-03-06",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Alan Webber",
+          "numCandidates": 5,
+          "numRounds": 3
+        },
+        {
+          "office": "dc1",
+          "officeName": "District 1 Councilor",
+          "name": "District 1 Councilor",
+          "winner": "Signe I. Lindell",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "dc2",
+          "officeName": "District 2 Councilor",
+          "name": "District 2 Councilor",
+          "winner": "Carol Romero-Wirth",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "dc3",
+          "officeName": "District 3 Councilor",
+          "name": "District 3 Councilor",
+          "winner": "Roman “Tiger” Abeyta",
+          "numCandidates": 1,
+          "numRounds": 1
+        },
+        {
+          "office": "dc4",
+          "officeName": "District 4 Councilor",
+          "name": "District 4 Councilor",
+          "winner": "Joanne Vigil Coppler",
+          "numCandidates": 3,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2016/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2016-11-08",
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "officeName": "Board of Supervisors, District 1",
+          "name": "Board of Supervisors, District 1",
+          "winner": "Sandra Lee Fewer",
+          "numCandidates": 10,
+          "numRounds": 7
+        },
+        {
+          "office": "supervisor-d03",
+          "officeName": "Board of Supervisors, District 3",
+          "name": "Board of Supervisors, District 3",
+          "winner": "Aaron Peskin",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "London Breed",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d07",
+          "officeName": "Board of Supervisors, District 7",
+          "name": "Board of Supervisors, District 7",
+          "winner": "Norman Yee",
+          "numCandidates": 5,
+          "numRounds": 4
+        },
+        {
+          "office": "supervisor-d09",
+          "officeName": "Board of Supervisors, District 9",
+          "name": "Board of Supervisors, District 9",
+          "winner": "Hillary Ronen",
+          "numCandidates": 4,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d11",
+          "officeName": "Board of Supervisors, District 11",
+          "name": "Board of Supervisors, District 11",
+          "winner": "Ahsha Safai",
+          "numCandidates": 5,
+          "numRounds": 3
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2015/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated Municipal Election",
+      "date": "2015-11-03",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Ed Lee",
+          "numCandidates": 6,
+          "numRounds": 1
+        },
+        {
+          "office": "sheriff",
+          "officeName": "Sheriff",
+          "name": "Sheriff",
+          "winner": "Vicki Hennessy",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d03",
+          "officeName": "Board of Supervisors, District 3",
+          "name": "Board of Supervisors, District 3",
+          "winner": "Aaron Peskin",
+          "numCandidates": 3,
+          "numRounds": 1
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2014/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2014-11-04",
+      "contests": [
+        {
+          "office": "supervisor-d10",
+          "officeName": "Board of Supervisors, District 10",
+          "name": "Board of Supervisors, District 10",
+          "winner": "Malia Cohen",
+          "numCandidates": 5,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2012/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2012-11-06",
+      "contests": [
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "London Breed",
+          "numCandidates": 8,
+          "numRounds": 5
+        },
+        {
+          "office": "supervisor-d07",
+          "officeName": "Board of Supervisors, District 7",
+          "name": "Board of Supervisors, District 7",
+          "winner": "Norman Yee",
+          "numCandidates": 9,
+          "numRounds": 7
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2011/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated Municipal Election",
+      "date": "2011-11-08",
+      "contests": [
+        {
+          "office": "da",
+          "officeName": "District Attorney",
+          "name": "District Attorney",
+          "winner": "George Gascón",
+          "numCandidates": 5,
+          "numRounds": 3
+        },
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Ed Lee",
+          "numCandidates": 16,
+          "numRounds": 18
+        },
+        {
+          "office": "sheriff",
+          "officeName": "Sheriff",
+          "name": "Sheriff",
+          "winner": "Ross Mirkarimi",
+          "numCandidates": 4,
+          "numRounds": 3
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2010/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2010-11-02",
+      "contests": [
+        {
+          "office": "supervisor-d02",
+          "officeName": "Board of Supervisors, District 2",
+          "name": "Board of Supervisors, District 2",
+          "winner": "Mark Farrell",
+          "numCandidates": 6,
+          "numRounds": 3
+        },
+        {
+          "office": "supervisor-d06",
+          "officeName": "Board of Supervisors, District 6",
+          "name": "Board of Supervisors, District 6",
+          "winner": "Jane Kim",
+          "numCandidates": 14,
+          "numRounds": 13
+        },
+        {
+          "office": "supervisor-d08",
+          "officeName": "Board of Supervisors, District 8",
+          "name": "Board of Supervisors, District 8",
+          "winner": "Scott Wiener",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d10",
+          "officeName": "Board of Supervisors, District 10",
+          "name": "Board of Supervisors, District 10",
+          "winner": "Malia Cohen",
+          "numCandidates": 21,
+          "numRounds": 20
+        }
+      ]
+    },
+    {
+      "path": "us/vt/btv/2009/03",
+      "jurisdictionName": "Burlington",
+      "electionName": "Mayoral Election",
+      "date": "2009-03-03",
+      "contests": [
+        {
+          "office": "mayor",
+          "officeName": "Mayor",
+          "name": "Mayor",
+          "winner": "Bob Kiss",
+          "numCandidates": 6,
+          "numRounds": 3
+        }
+      ]
+    },
+    {
+      "path": "us/ca/sfo/2008/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2008-11-04",
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "officeName": "Board of Supervisors, District 1",
+          "name": "Board of Supervisors, District 1",
+          "winner": "Eric Mar",
+          "numCandidates": 9,
+          "numRounds": 6
+        },
+        {
+          "office": "supervisor-d03",
+          "officeName": "Board of Supervisors, District 3",
+          "name": "Board of Supervisors, District 3",
+          "winner": "David Chiu",
+          "numCandidates": 9,
+          "numRounds": 7
+        },
+        {
+          "office": "supervisor-d04",
+          "officeName": "Board of Supervisors, District 4",
+          "name": "Board of Supervisors, District 4",
+          "winner": "Carmen Chu",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "Ross Mirkarimi",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d07",
+          "officeName": "Board of Supervisors, District 7",
+          "name": "Board of Supervisors, District 7",
+          "winner": "Sean R. Elsbernd",
+          "numCandidates": 3,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d09",
+          "officeName": "Board of Supervisors, District 9",
+          "name": "Board of Supervisors, District 9",
+          "winner": "David Campos",
+          "numCandidates": 7,
+          "numRounds": 4
+        },
+        {
+          "office": "supervisor-d11",
+          "officeName": "Board of Supervisors, District 11",
+          "name": "Board of Supervisors, District 11",
+          "winner": "John Avalos",
+          "numCandidates": 8,
+          "numRounds": 6
+        }
+      ]
+    }
+  ]
+}

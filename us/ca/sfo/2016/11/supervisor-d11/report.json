@@ -1,0 +1,185 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 11",
+    "date": "2016-11-08",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2016/11",
+    "office": "supervisor-d11",
+    "officeName": "Board of Supervisors, District 11",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "20161206_ballotimage.txt",
+      "contest": "14",
+      "masterLookup": "20161206_masterlookup.txt"
+    }
+  },
+  "ballotCount": 28010,
+  "candidates": [
+    {
+      "name": "Ahsha Safai",
+      "write_in": false
+    },
+    {
+      "name": "Magdalena De Guzman",
+      "write_in": false
+    },
+    {
+      "name": "Francisco Herrera",
+      "write_in": false
+    },
+    {
+      "name": "Berta Hernandez",
+      "write_in": false
+    },
+    {
+      "name": "Kim Alvarenga",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 9466
+        },
+        {
+          "allocatee": 4,
+          "votes": 8670
+        },
+        {
+          "allocatee": 1,
+          "votes": 3019
+        },
+        {
+          "allocatee": 2,
+          "votes": 2618
+        },
+        {
+          "allocatee": 3,
+          "votes": 1607
+        },
+        {
+          "allocatee": "X",
+          "votes": 2630
+        }
+      ],
+      "undervote": 2457,
+      "overvote": 173,
+      "continuingBallots": 25380,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 9697
+        },
+        {
+          "allocatee": 4,
+          "votes": 8961
+        },
+        {
+          "allocatee": 1,
+          "votes": 3497
+        },
+        {
+          "allocatee": 2,
+          "votes": 3058
+        },
+        {
+          "allocatee": "X",
+          "votes": 2797
+        }
+      ],
+      "undervote": 2618,
+      "overvote": 179,
+      "continuingBallots": 25213,
+      "transfers": [
+        {
+          "from": 3,
+          "to": 0,
+          "count": 231
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "count": 478
+        },
+        {
+          "from": 3,
+          "to": 2,
+          "count": 440
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "count": 291
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 167
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 11222
+        },
+        {
+          "allocatee": 4,
+          "votes": 10809
+        },
+        {
+          "allocatee": "X",
+          "votes": 5979
+        }
+      ],
+      "undervote": 5774,
+      "overvote": 205,
+      "continuingBallots": 22031,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 856
+        },
+        {
+          "from": 1,
+          "to": 4,
+          "count": 938
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 1703
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 669
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 910
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 1479
+        }
+      ]
+    }
+  ]
+}

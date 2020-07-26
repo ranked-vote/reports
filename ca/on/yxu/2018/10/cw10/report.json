@@ -1,0 +1,74 @@
+{
+  "info": {
+    "name": "Ward 10 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw10",
+    "officeName": "Ward 10 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "12 Councillor Ward 10.rcr"
+    }
+  },
+  "ballotCount": 8555,
+  "candidates": [
+    {
+      "name": "Gary Manley",
+      "write_in": false
+    },
+    {
+      "name": "Kevin May",
+      "write_in": false
+    },
+    {
+      "name": "Virginia Ridley",
+      "write_in": false
+    },
+    {
+      "name": "Thomas Risley",
+      "write_in": false
+    },
+    {
+      "name": "Paul Van Meerbergen",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 4402
+        },
+        {
+          "allocatee": 2,
+          "votes": 3040
+        },
+        {
+          "allocatee": 1,
+          "votes": 404
+        },
+        {
+          "allocatee": 0,
+          "votes": 298
+        },
+        {
+          "allocatee": 3,
+          "votes": 140
+        },
+        {
+          "allocatee": "X",
+          "votes": 271
+        }
+      ],
+      "undervote": 232,
+      "overvote": 39,
+      "continuingBallots": 8284,
+      "transfers": []
+    }
+  ]
+}

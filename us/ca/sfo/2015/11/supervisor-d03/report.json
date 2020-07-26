@@ -1,0 +1,64 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 3",
+    "date": "2015-11-03",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2015/11",
+    "office": "supervisor-d03",
+    "officeName": "Board of Supervisors, District 3",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "ballotImage": "20151119_ballotimage.txt",
+      "contest": "3",
+      "masterLookup": "20151119_masterlookup.txt"
+    }
+  },
+  "ballotCount": 17554,
+  "candidates": [
+    {
+      "name": "Aaron Peskin",
+      "write_in": false
+    },
+    {
+      "name": "Wilma Pang",
+      "write_in": false
+    },
+    {
+      "name": "Julie Christensen",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 8767
+        },
+        {
+          "allocatee": 2,
+          "votes": 7267
+        },
+        {
+          "allocatee": 1,
+          "votes": 660
+        },
+        {
+          "allocatee": "X",
+          "votes": 860
+        }
+      ],
+      "undervote": 819,
+      "overvote": 41,
+      "continuingBallots": 16694,
+      "transfers": []
+    }
+  ]
+}

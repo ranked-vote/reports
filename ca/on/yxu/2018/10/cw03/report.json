@@ -1,0 +1,50 @@
+{
+  "info": {
+    "name": "Ward 3 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw03",
+    "officeName": "Ward 3 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "4 Councillor Ward 3.rcr"
+    }
+  },
+  "ballotCount": 4934,
+  "candidates": [
+    {
+      "name": "Harry Prince",
+      "write_in": false
+    },
+    {
+      "name": "Mo Mohamed Salih",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 3421
+        },
+        {
+          "allocatee": 0,
+          "votes": 1281
+        },
+        {
+          "allocatee": "X",
+          "votes": 232
+        }
+      ],
+      "undervote": 227,
+      "overvote": 5,
+      "continuingBallots": 4702,
+      "transfers": []
+    }
+  ]
+}

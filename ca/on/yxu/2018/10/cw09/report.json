@@ -1,0 +1,139 @@
+{
+  "info": {
+    "name": "Ward 9 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw09",
+    "officeName": "Ward 9 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "11 Councillor Ward 9.rcr"
+    }
+  },
+  "ballotCount": 9732,
+  "candidates": [
+    {
+      "name": "Ben Charlebois",
+      "write_in": false
+    },
+    {
+      "name": "Anna Hopkins",
+      "write_in": false
+    },
+    {
+      "name": "Matt Millar",
+      "write_in": false
+    },
+    {
+      "name": "Kyle Thompson",
+      "write_in": false
+    },
+    {
+      "name": "Veronica Marie Warner",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 4498
+        },
+        {
+          "allocatee": 2,
+          "votes": 2355
+        },
+        {
+          "allocatee": 3,
+          "votes": 1424
+        },
+        {
+          "allocatee": 0,
+          "votes": 903
+        },
+        {
+          "allocatee": 4,
+          "votes": 240
+        },
+        {
+          "allocatee": "X",
+          "votes": 312
+        }
+      ],
+      "undervote": 287,
+      "overvote": 25,
+      "continuingBallots": 9420,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 4950
+        },
+        {
+          "allocatee": 2,
+          "votes": 2606
+        },
+        {
+          "allocatee": 3,
+          "votes": 1536
+        },
+        {
+          "allocatee": "X",
+          "votes": 640
+        }
+      ],
+      "undervote": 613,
+      "overvote": 27,
+      "continuingBallots": 9092,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 381
+        },
+        {
+          "from": 0,
+          "to": 2,
+          "count": 206
+        },
+        {
+          "from": 0,
+          "to": 3,
+          "count": 75
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 241
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "count": 71
+        },
+        {
+          "from": 4,
+          "to": 2,
+          "count": 45
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 37
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 87
+        }
+      ]
+    }
+  ]
+}

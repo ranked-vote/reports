@@ -1,0 +1,74 @@
+{
+  "info": {
+    "name": "Ward 4 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw04",
+    "officeName": "Ward 4 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "5 Councillor Ward 4.rcr"
+    }
+  },
+  "ballotCount": 5225,
+  "candidates": [
+    {
+      "name": "Connor Garrett",
+      "write_in": false
+    },
+    {
+      "name": "Jesse Helmer",
+      "write_in": false
+    },
+    {
+      "name": "Xuemei Jiang",
+      "write_in": false
+    },
+    {
+      "name": "Tricia Lystar",
+      "write_in": false
+    },
+    {
+      "name": "Stephen William Orser",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 2559
+        },
+        {
+          "allocatee": 4,
+          "votes": 1191
+        },
+        {
+          "allocatee": 3,
+          "votes": 1003
+        },
+        {
+          "allocatee": 0,
+          "votes": 180
+        },
+        {
+          "allocatee": 2,
+          "votes": 130
+        },
+        {
+          "allocatee": "X",
+          "votes": 162
+        }
+      ],
+      "undervote": 139,
+      "overvote": 23,
+      "continuingBallots": 5063,
+      "transfers": []
+    }
+  ]
+}

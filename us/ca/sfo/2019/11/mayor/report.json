@@ -1,0 +1,95 @@
+{
+  "info": {
+    "name": "Mayor",
+    "date": "2019-11-05",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2019/11",
+    "office": "mayor",
+    "officeName": "Mayor",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "contest": "334",
+      "cvr": "CVR_Export_20191125163446.zip"
+    }
+  },
+  "ballotCount": 206117,
+  "candidates": [
+    {
+      "name": "Joel Ventresca",
+      "write_in": false
+    },
+    {
+      "name": "Wilma Pang",
+      "write_in": false
+    },
+    {
+      "name": "Robert L. Jordan, Jr.",
+      "write_in": false
+    },
+    {
+      "name": "Paul Ybarra Robertson",
+      "write_in": false
+    },
+    {
+      "name": "Ellen Lee Zhou",
+      "write_in": false
+    },
+    {
+      "name": "London N. Breed",
+      "write_in": false
+    },
+    {
+      "name": "Write-in",
+      "write_in": true
+    },
+    {
+      "name": "Marc Roth",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 5,
+          "votes": 125695
+        },
+        {
+          "allocatee": 4,
+          "votes": 24897
+        },
+        {
+          "allocatee": 0,
+          "votes": 12952
+        },
+        {
+          "allocatee": 3,
+          "votes": 7578
+        },
+        {
+          "allocatee": 6,
+          "votes": 4984
+        },
+        {
+          "allocatee": 1,
+          "votes": 4791
+        },
+        {
+          "allocatee": 2,
+          "votes": 2432
+        },
+        {
+          "allocatee": "X",
+          "votes": 22788
+        }
+      ],
+      "undervote": 22610,
+      "overvote": 178,
+      "continuingBallots": 183329,
+      "transfers": []
+    }
+  ]
+}

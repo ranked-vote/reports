@@ -1,0 +1,215 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 7",
+    "date": "2016-11-08",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2016/11",
+    "office": "supervisor-d07",
+    "officeName": "Board of Supervisors, District 7",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "20161206_ballotimage.txt",
+      "contest": "12",
+      "masterLookup": "20161206_masterlookup.txt"
+    }
+  },
+  "ballotCount": 39486,
+  "candidates": [
+    {
+      "name": "Joel Engardio",
+      "write_in": false
+    },
+    {
+      "name": "John Farrell",
+      "write_in": false
+    },
+    {
+      "name": "Mike Young",
+      "write_in": false
+    },
+    {
+      "name": "Norman Yee",
+      "write_in": false
+    },
+    {
+      "name": "Ben Matranga",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 14179
+        },
+        {
+          "allocatee": 0,
+          "votes": 7645
+        },
+        {
+          "allocatee": 4,
+          "votes": 6498
+        },
+        {
+          "allocatee": 1,
+          "votes": 4948
+        },
+        {
+          "allocatee": 2,
+          "votes": 2004
+        },
+        {
+          "allocatee": "X",
+          "votes": 4212
+        }
+      ],
+      "undervote": 4084,
+      "overvote": 128,
+      "continuingBallots": 35274,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 14672
+        },
+        {
+          "allocatee": 0,
+          "votes": 7976
+        },
+        {
+          "allocatee": 4,
+          "votes": 6833
+        },
+        {
+          "allocatee": 1,
+          "votes": 5556
+        },
+        {
+          "allocatee": "X",
+          "votes": 4449
+        }
+      ],
+      "undervote": 4319,
+      "overvote": 130,
+      "continuingBallots": 35037,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 0,
+          "count": 331
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 608
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 493
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 335
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 237
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 15796
+        },
+        {
+          "allocatee": 0,
+          "votes": 9600
+        },
+        {
+          "allocatee": 4,
+          "votes": 8667
+        },
+        {
+          "allocatee": "X",
+          "votes": 5423
+        }
+      ],
+      "undervote": 5282,
+      "overvote": 141,
+      "continuingBallots": 34063,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 1624
+        },
+        {
+          "from": 1,
+          "to": 3,
+          "count": 1124
+        },
+        {
+          "from": 1,
+          "to": 4,
+          "count": 1834
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 974
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 17692
+        },
+        {
+          "allocatee": 0,
+          "votes": 12815
+        },
+        {
+          "allocatee": "X",
+          "votes": 8979
+        }
+      ],
+      "undervote": 8826,
+      "overvote": 153,
+      "continuingBallots": 30507,
+      "transfers": [
+        {
+          "from": 4,
+          "to": 0,
+          "count": 3215
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 1896
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 3556
+        }
+      ]
+    }
+  ]
+}

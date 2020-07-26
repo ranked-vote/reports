@@ -1,0 +1,136 @@
+{
+  "info": {
+    "name": "Congressional District 2",
+    "date": "2018-11-06",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2018/11",
+    "office": "cd02",
+    "officeName": "Congressional District 2",
+    "jurisdictionName": "Maine",
+    "electionName": "General Election",
+    "loaderParams": {
+      "files": "Nov18CVRExportFINAL1.xlsx;Nov18CVRExportFINAL2.xlsx;Nov18CVRExportFINAL3.xlsx;AUXCVRProofedCVR95RepCD2.xlsx;RepCD2-8final.xlsx;UOCAVA-AUX-CVRRepCD2.xlsx;UOCAVA-FINALRepCD2.xlsx;UOCAVA2CVRRepCD2.xlsx"
+    }
+  },
+  "ballotCount": 296077,
+  "candidates": [
+    {
+      "name": "Bruce Poliquin",
+      "write_in": false
+    },
+    {
+      "name": "Bruce Rep Poliquin",
+      "write_in": false
+    },
+    {
+      "name": "Jared F. Golden",
+      "write_in": false
+    },
+    {
+      "name": "Tiffany L. Bond",
+      "write_in": false
+    },
+    {
+      "name": "Jared F. Dem Golden",
+      "write_in": false
+    },
+    {
+      "name": "William R.s. Hoar",
+      "write_in": false
+    },
+    {
+      "name": "Jared F.  Dem Golden",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 133793
+        },
+        {
+          "allocatee": 2,
+          "votes": 131003
+        },
+        {
+          "allocatee": 3,
+          "votes": 16552
+        },
+        {
+          "allocatee": 5,
+          "votes": 6875
+        },
+        {
+          "allocatee": 4,
+          "votes": 944
+        },
+        {
+          "allocatee": 1,
+          "votes": 391
+        },
+        {
+          "allocatee": 6,
+          "votes": 66
+        },
+        {
+          "allocatee": "X",
+          "votes": 6453
+        }
+      ],
+      "undervote": 6018,
+      "overvote": 435,
+      "continuingBallots": 289624,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 133793
+        },
+        {
+          "allocatee": 2,
+          "votes": 131003
+        },
+        {
+          "allocatee": "X",
+          "votes": 31281
+        }
+      ],
+      "undervote": 30692,
+      "overvote": 589,
+      "continuingBallots": 264796,
+      "transfers": [
+        {
+          "from": 1,
+          "to": "X",
+          "count": 391
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 16552
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 944
+        },
+        {
+          "from": 5,
+          "to": "X",
+          "count": 6875
+        },
+        {
+          "from": 6,
+          "to": "X",
+          "count": 66
+        }
+      ]
+    }
+  ]
+}

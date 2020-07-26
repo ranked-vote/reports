@@ -1,0 +1,176 @@
+{
+  "info": {
+    "name": "Mayor",
+    "date": "2018-03-06",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/nm/saf",
+    "electionPath": "2018/03",
+    "office": "mayor",
+    "officeName": "Mayor",
+    "jurisdictionName": "Santa Fe",
+    "electionName": "Regular Municipal Election",
+    "loaderParams": {
+      "contest": "1",
+      "cvr": "CVR_Export_20180306233748.zip"
+    }
+  },
+  "ballotCount": 20670,
+  "candidates": [
+    {
+      "name": "Peter N. Ives",
+      "write_in": false
+    },
+    {
+      "name": "Alan Webber",
+      "write_in": false
+    },
+    {
+      "name": "Kate I. Noble",
+      "write_in": false
+    },
+    {
+      "name": "Joseph M. Maestas",
+      "write_in": false
+    },
+    {
+      "name": "Ronald S. Trujillo",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 8083
+        },
+        {
+          "allocatee": 4,
+          "votes": 5026
+        },
+        {
+          "allocatee": 2,
+          "votes": 4616
+        },
+        {
+          "allocatee": 3,
+          "votes": 1652
+        },
+        {
+          "allocatee": 0,
+          "votes": 1253
+        },
+        {
+          "allocatee": "X",
+          "votes": 40
+        }
+      ],
+      "undervote": 40,
+      "overvote": 0,
+      "continuingBallots": 20630,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 9105
+        },
+        {
+          "allocatee": 4,
+          "votes": 5664
+        },
+        {
+          "allocatee": 2,
+          "votes": 5578
+        },
+        {
+          "allocatee": "X",
+          "votes": 323
+        }
+      ],
+      "undervote": 323,
+      "overvote": 0,
+      "continuingBallots": 20347,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 449
+        },
+        {
+          "from": 0,
+          "to": 2,
+          "count": 384
+        },
+        {
+          "from": 0,
+          "to": 4,
+          "count": 267
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 153
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "count": 573
+        },
+        {
+          "from": 3,
+          "to": 2,
+          "count": 578
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "count": 371
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 130
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 13117
+        },
+        {
+          "allocatee": 4,
+          "votes": 6709
+        },
+        {
+          "allocatee": "X",
+          "votes": 844
+        }
+      ],
+      "undervote": 844,
+      "overvote": 0,
+      "continuingBallots": 19826,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 1,
+          "count": 4012
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 1045
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 521
+        }
+      ]
+    }
+  ]
+}

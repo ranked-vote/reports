@@ -1,0 +1,51 @@
+{
+  "info": {
+    "name": "District 1 Councilor",
+    "date": "2018-03-06",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/nm/saf",
+    "electionPath": "2018/03",
+    "office": "dc1",
+    "officeName": "District 1 Councilor",
+    "jurisdictionName": "Santa Fe",
+    "electionName": "Regular Municipal Election",
+    "loaderParams": {
+      "contest": "2",
+      "cvr": "CVR_Export_20180306233748.zip"
+    }
+  },
+  "ballotCount": 7217,
+  "candidates": [
+    {
+      "name": "Signe I. Lindell",
+      "write_in": false
+    },
+    {
+      "name": "Marie Campos",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 4628
+        },
+        {
+          "allocatee": 1,
+          "votes": 2142
+        },
+        {
+          "allocatee": "X",
+          "votes": 447
+        }
+      ],
+      "undervote": 447,
+      "overvote": 0,
+      "continuingBallots": 6770,
+      "transfers": []
+    }
+  ]
+}

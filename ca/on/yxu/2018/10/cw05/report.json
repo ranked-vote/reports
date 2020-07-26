@@ -1,0 +1,250 @@
+{
+  "info": {
+    "name": "Ward 5 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw05",
+    "officeName": "Ward 5 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "7 Councillor Ward 5.rcr"
+    }
+  },
+  "ballotCount": 9299,
+  "candidates": [
+    {
+      "name": "Maureen Cassidy",
+      "write_in": false
+    },
+    {
+      "name": "Shiv Chokhani",
+      "write_in": false
+    },
+    {
+      "name": "Shane Clarke",
+      "write_in": false
+    },
+    {
+      "name": "Charles Knott",
+      "write_in": false
+    },
+    {
+      "name": "Stephanie Marentette Di Battista",
+      "write_in": false
+    },
+    {
+      "name": "Randy Warden",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 3120
+        },
+        {
+          "allocatee": 5,
+          "votes": 2659
+        },
+        {
+          "allocatee": 3,
+          "votes": 1492
+        },
+        {
+          "allocatee": 4,
+          "votes": 844
+        },
+        {
+          "allocatee": 2,
+          "votes": 801
+        },
+        {
+          "allocatee": 1,
+          "votes": 88
+        },
+        {
+          "allocatee": "X",
+          "votes": 295
+        }
+      ],
+      "undervote": 255,
+      "overvote": 40,
+      "continuingBallots": 9004,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 3132
+        },
+        {
+          "allocatee": 5,
+          "votes": 2677
+        },
+        {
+          "allocatee": 3,
+          "votes": 1503
+        },
+        {
+          "allocatee": 4,
+          "votes": 861
+        },
+        {
+          "allocatee": 2,
+          "votes": 809
+        },
+        {
+          "allocatee": "X",
+          "votes": 317
+        }
+      ],
+      "undervote": 277,
+      "overvote": 40,
+      "continuingBallots": 8982,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 12
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "count": 8
+        },
+        {
+          "from": 1,
+          "to": 3,
+          "count": 11
+        },
+        {
+          "from": 1,
+          "to": 4,
+          "count": 17
+        },
+        {
+          "from": 1,
+          "to": 5,
+          "count": 18
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 3410
+        },
+        {
+          "allocatee": 5,
+          "votes": 2807
+        },
+        {
+          "allocatee": 3,
+          "votes": 1618
+        },
+        {
+          "allocatee": 4,
+          "votes": 937
+        },
+        {
+          "allocatee": "X",
+          "votes": 527
+        }
+      ],
+      "undervote": 487,
+      "overvote": 40,
+      "continuingBallots": 8772,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 0,
+          "count": 278
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 115
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 76
+        },
+        {
+          "from": 2,
+          "to": 5,
+          "count": 130
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 210
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 3922
+        },
+        {
+          "allocatee": 5,
+          "votes": 3818
+        },
+        {
+          "allocatee": "X",
+          "votes": 1559
+        }
+      ],
+      "undervote": 1515,
+      "overvote": 44,
+      "continuingBallots": 7740,
+      "transfers": [
+        {
+          "from": 3,
+          "to": 0,
+          "count": 295
+        },
+        {
+          "from": 3,
+          "to": 5,
+          "count": 679
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 644
+        },
+        {
+          "from": 4,
+          "to": 0,
+          "count": 217
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "count": 332
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 388
+        }
+      ]
+    }
+  ]
+}

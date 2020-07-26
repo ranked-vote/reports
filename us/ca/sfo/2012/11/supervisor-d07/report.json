@@ -1,0 +1,516 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 7",
+    "date": "2012-11-06",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2012/11",
+    "office": "supervisor-d07",
+    "officeName": "Board of Supervisors, District 7",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "D7-BallotImage.txt",
+      "contest": "23",
+      "masterLookup": "D7-MasterLookup.txt",
+      "zipFile": "D7.zip"
+    }
+  },
+  "ballotCount": 35351,
+  "candidates": [
+    {
+      "name": "F. X. Francis Xavier Crowley",
+      "write_in": false
+    },
+    {
+      "name": "Robert J. Squeri",
+      "write_in": false
+    },
+    {
+      "name": "Lynn Gavin",
+      "write_in": false
+    },
+    {
+      "name": "Michael Garcia",
+      "write_in": false
+    },
+    {
+      "name": "Glenn Rogers",
+      "write_in": false
+    },
+    {
+      "name": "Julian P. Lagos",
+      "write_in": false
+    },
+    {
+      "name": "Norman Yee",
+      "write_in": false
+    },
+    {
+      "name": "Joel Engardio",
+      "write_in": false
+    },
+    {
+      "name": "Andrew Bley",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 9182
+        },
+        {
+          "allocatee": 0,
+          "votes": 7746
+        },
+        {
+          "allocatee": 3,
+          "votes": 5512
+        },
+        {
+          "allocatee": 7,
+          "votes": 4168
+        },
+        {
+          "allocatee": 1,
+          "votes": 1545
+        },
+        {
+          "allocatee": 5,
+          "votes": 1091
+        },
+        {
+          "allocatee": 8,
+          "votes": 825
+        },
+        {
+          "allocatee": 2,
+          "votes": 719
+        },
+        {
+          "allocatee": 4,
+          "votes": 597
+        },
+        {
+          "allocatee": "X",
+          "votes": 3966
+        }
+      ],
+      "undervote": 3785,
+      "overvote": 181,
+      "continuingBallots": 31385,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 9251
+        },
+        {
+          "allocatee": 0,
+          "votes": 7807
+        },
+        {
+          "allocatee": 3,
+          "votes": 5556
+        },
+        {
+          "allocatee": 7,
+          "votes": 4208
+        },
+        {
+          "allocatee": 1,
+          "votes": 1592
+        },
+        {
+          "allocatee": 5,
+          "votes": 1172
+        },
+        {
+          "allocatee": 8,
+          "votes": 925
+        },
+        {
+          "allocatee": 2,
+          "votes": 803
+        },
+        {
+          "allocatee": "X",
+          "votes": 4037
+        }
+      ],
+      "undervote": 3856,
+      "overvote": 181,
+      "continuingBallots": 31314,
+      "transfers": [
+        {
+          "from": 4,
+          "to": 0,
+          "count": 61
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "count": 47
+        },
+        {
+          "from": 4,
+          "to": 2,
+          "count": 84
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 44
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "count": 81
+        },
+        {
+          "from": 4,
+          "to": 6,
+          "count": 69
+        },
+        {
+          "from": 4,
+          "to": 7,
+          "count": 40
+        },
+        {
+          "from": 4,
+          "to": 8,
+          "count": 100
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 9375
+        },
+        {
+          "allocatee": 0,
+          "votes": 7883
+        },
+        {
+          "allocatee": 3,
+          "votes": 5642
+        },
+        {
+          "allocatee": 7,
+          "votes": 4292
+        },
+        {
+          "allocatee": 1,
+          "votes": 1624
+        },
+        {
+          "allocatee": 5,
+          "votes": 1329
+        },
+        {
+          "allocatee": 8,
+          "votes": 1072
+        },
+        {
+          "allocatee": "X",
+          "votes": 4134
+        }
+      ],
+      "undervote": 3951,
+      "overvote": 183,
+      "continuingBallots": 31217,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 0,
+          "count": 76
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 32
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 86
+        },
+        {
+          "from": 2,
+          "to": 5,
+          "count": 157
+        },
+        {
+          "from": 2,
+          "to": 6,
+          "count": 124
+        },
+        {
+          "from": 2,
+          "to": 7,
+          "count": 84
+        },
+        {
+          "from": 2,
+          "to": 8,
+          "count": 147
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 97
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 9538
+        },
+        {
+          "allocatee": 0,
+          "votes": 8050
+        },
+        {
+          "allocatee": 3,
+          "votes": 5773
+        },
+        {
+          "allocatee": 7,
+          "votes": 4422
+        },
+        {
+          "allocatee": 1,
+          "votes": 1699
+        },
+        {
+          "allocatee": 5,
+          "votes": 1440
+        },
+        {
+          "allocatee": "X",
+          "votes": 4429
+        }
+      ],
+      "undervote": 4244,
+      "overvote": 185,
+      "continuingBallots": 30922,
+      "transfers": [
+        {
+          "from": 8,
+          "to": 0,
+          "count": 167
+        },
+        {
+          "from": 8,
+          "to": 1,
+          "count": 75
+        },
+        {
+          "from": 8,
+          "to": 3,
+          "count": 131
+        },
+        {
+          "from": 8,
+          "to": 5,
+          "count": 111
+        },
+        {
+          "from": 8,
+          "to": 6,
+          "count": 163
+        },
+        {
+          "from": 8,
+          "to": 7,
+          "count": 130
+        },
+        {
+          "from": 8,
+          "to": "X",
+          "count": 295
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 10197
+        },
+        {
+          "allocatee": 0,
+          "votes": 8624
+        },
+        {
+          "allocatee": 3,
+          "votes": 6296
+        },
+        {
+          "allocatee": 7,
+          "votes": 4843
+        },
+        {
+          "allocatee": "X",
+          "votes": 5391
+        }
+      ],
+      "undervote": 5199,
+      "overvote": 192,
+      "continuingBallots": 29960,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 420
+        },
+        {
+          "from": 1,
+          "to": 3,
+          "count": 345
+        },
+        {
+          "from": 1,
+          "to": 6,
+          "count": 244
+        },
+        {
+          "from": 1,
+          "to": 7,
+          "count": 248
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 442
+        },
+        {
+          "from": 5,
+          "to": 0,
+          "count": 154
+        },
+        {
+          "from": 5,
+          "to": 3,
+          "count": 178
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "count": 415
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "count": 173
+        },
+        {
+          "from": 5,
+          "to": "X",
+          "count": 520
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 11184
+        },
+        {
+          "allocatee": 0,
+          "votes": 9709
+        },
+        {
+          "allocatee": 3,
+          "votes": 7473
+        },
+        {
+          "allocatee": "X",
+          "votes": 6985
+        }
+      ],
+      "undervote": 6789,
+      "overvote": 196,
+      "continuingBallots": 28366,
+      "transfers": [
+        {
+          "from": 7,
+          "to": 0,
+          "count": 1085
+        },
+        {
+          "from": 7,
+          "to": 3,
+          "count": 1177
+        },
+        {
+          "from": 7,
+          "to": 6,
+          "count": 987
+        },
+        {
+          "from": 7,
+          "to": "X",
+          "count": 1594
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 6,
+          "votes": 12505
+        },
+        {
+          "allocatee": 0,
+          "votes": 12373
+        },
+        {
+          "allocatee": "X",
+          "votes": 10473
+        }
+      ],
+      "undervote": 10268,
+      "overvote": 205,
+      "continuingBallots": 24878,
+      "transfers": [
+        {
+          "from": 3,
+          "to": 0,
+          "count": 2664
+        },
+        {
+          "from": 3,
+          "to": 6,
+          "count": 1321
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 3488
+        }
+      ]
+    }
+  ]
+}

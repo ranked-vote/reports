@@ -1,0 +1,58 @@
+{
+  "info": {
+    "name": "Ward 1 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw01",
+    "officeName": "Ward 1 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "2 Councillor Ward 1.rcr"
+    }
+  },
+  "ballotCount": 5280,
+  "candidates": [
+    {
+      "name": "Melanie O'brien",
+      "write_in": false
+    },
+    {
+      "name": "Bud Polhill",
+      "write_in": false
+    },
+    {
+      "name": "Michael Van Holst",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 2,
+          "votes": 2581
+        },
+        {
+          "allocatee": 0,
+          "votes": 1332
+        },
+        {
+          "allocatee": 1,
+          "votes": 1179
+        },
+        {
+          "allocatee": "X",
+          "votes": 188
+        }
+      ],
+      "undervote": 165,
+      "overvote": 23,
+      "continuingBallots": 5092,
+      "transfers": []
+    }
+  ]
+}

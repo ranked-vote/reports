@@ -1,0 +1,51 @@
+{
+  "info": {
+    "name": "Treasurer",
+    "date": "2019-11-05",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2019/11",
+    "office": "treasurer",
+    "officeName": "Treasurer",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "contest": "349",
+      "cvr": "CVR_Export_20191125163446.zip"
+    }
+  },
+  "ballotCount": 206117,
+  "candidates": [
+    {
+      "name": "José Cisneros",
+      "write_in": false
+    },
+    {
+      "name": "Write-in",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 154387
+        },
+        {
+          "allocatee": 1,
+          "votes": 1429
+        },
+        {
+          "allocatee": "X",
+          "votes": 50301
+        }
+      ],
+      "undervote": 50120,
+      "overvote": 181,
+      "continuingBallots": 155816,
+      "transfers": []
+    }
+  ]
+}

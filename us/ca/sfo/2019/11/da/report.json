@@ -1,0 +1,176 @@
+{
+  "info": {
+    "name": "District Attorney",
+    "date": "2019-11-05",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2019/11",
+    "office": "da",
+    "officeName": "District Attorney",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "contest": "339",
+      "cvr": "CVR_Export_20191125163446.zip"
+    }
+  },
+  "ballotCount": 206117,
+  "candidates": [
+    {
+      "name": "Suzy Loftus",
+      "write_in": false
+    },
+    {
+      "name": "Leif Dautch",
+      "write_in": false
+    },
+    {
+      "name": "Nancy Tung",
+      "write_in": false
+    },
+    {
+      "name": "Chesa Boudin",
+      "write_in": false
+    },
+    {
+      "name": "Write-in",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 68745
+        },
+        {
+          "allocatee": 0,
+          "votes": 59910
+        },
+        {
+          "allocatee": 2,
+          "votes": 37299
+        },
+        {
+          "allocatee": 1,
+          "votes": 27004
+        },
+        {
+          "allocatee": 4,
+          "votes": 1113
+        },
+        {
+          "allocatee": "X",
+          "votes": 12046
+        }
+      ],
+      "undervote": 11856,
+      "overvote": 190,
+      "continuingBallots": 194071,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 73654
+        },
+        {
+          "allocatee": 0,
+          "votes": 66592
+        },
+        {
+          "allocatee": 2,
+          "votes": 46839
+        },
+        {
+          "allocatee": "X",
+          "votes": 19032
+        }
+      ],
+      "undervote": 18791,
+      "overvote": 241,
+      "continuingBallots": 187085,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 6485
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "count": 9331
+        },
+        {
+          "from": 1,
+          "to": 3,
+          "count": 4768
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 6420
+        },
+        {
+          "from": 4,
+          "to": 0,
+          "count": 197
+        },
+        {
+          "from": 4,
+          "to": 2,
+          "count": 209
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 141
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 566
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 87006
+        },
+        {
+          "allocatee": 0,
+          "votes": 84018
+        },
+        {
+          "allocatee": "X",
+          "votes": 35093
+        }
+      ],
+      "undervote": 34759,
+      "overvote": 334,
+      "continuingBallots": 171024,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 0,
+          "count": 17426
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 13352
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 16061
+        }
+      ]
+    }
+  ]
+}

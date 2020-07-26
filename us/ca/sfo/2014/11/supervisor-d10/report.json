@@ -1,0 +1,146 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 10",
+    "date": "2014-11-04",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2014/11",
+    "office": "supervisor-d10",
+    "officeName": "Board of Supervisors, District 10",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "D10_BallotImage.txt",
+      "contest": "33",
+      "masterLookup": "D10_MasterLookup.txt",
+      "zipFile": "D10.zip"
+    }
+  },
+  "ballotCount": 16342,
+  "candidates": [
+    {
+      "name": "Shawn M. Richard",
+      "write_in": false
+    },
+    {
+      "name": "Malia Cohen",
+      "write_in": false
+    },
+    {
+      "name": "Ed Donaldson",
+      "write_in": false
+    },
+    {
+      "name": "Marlene Tran",
+      "write_in": false
+    },
+    {
+      "name": "Tony Kelly",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 7176
+        },
+        {
+          "allocatee": 4,
+          "votes": 3701
+        },
+        {
+          "allocatee": 3,
+          "votes": 2725
+        },
+        {
+          "allocatee": 0,
+          "votes": 995
+        },
+        {
+          "allocatee": 2,
+          "votes": 809
+        },
+        {
+          "allocatee": "X",
+          "votes": 936
+        }
+      ],
+      "undervote": 825,
+      "overvote": 111,
+      "continuingBallots": 15406,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 7719
+        },
+        {
+          "allocatee": 4,
+          "votes": 4259
+        },
+        {
+          "allocatee": 3,
+          "votes": 2947
+        },
+        {
+          "allocatee": "X",
+          "votes": 1417
+        }
+      ],
+      "undervote": 1295,
+      "overvote": 122,
+      "continuingBallots": 14925,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 345
+        },
+        {
+          "from": 0,
+          "to": 3,
+          "count": 140
+        },
+        {
+          "from": 0,
+          "to": 4,
+          "count": 277
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 233
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 198
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 82
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 281
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 248
+        }
+      ]
+    }
+  ]
+}

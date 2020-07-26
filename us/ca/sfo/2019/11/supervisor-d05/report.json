@@ -1,0 +1,141 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 5",
+    "date": "2019-11-05",
+    "dataFormat": "nist_sp_1500",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2019/11",
+    "office": "supervisor-d05",
+    "officeName": "Board of Supervisors, District 5",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "contest": "353",
+      "cvr": "CVR_Export_20191125163446.zip"
+    }
+  },
+  "ballotCount": 24765,
+  "candidates": [
+    {
+      "name": "Ryan Lam",
+      "write_in": false
+    },
+    {
+      "name": "Dean Preston",
+      "write_in": false
+    },
+    {
+      "name": "Nomvula O'meara",
+      "write_in": false
+    },
+    {
+      "name": "Vallie Brown",
+      "write_in": false
+    },
+    {
+      "name": "Write-in",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 11188
+        },
+        {
+          "allocatee": 1,
+          "votes": 11149
+        },
+        {
+          "allocatee": 0,
+          "votes": 940
+        },
+        {
+          "allocatee": 4,
+          "votes": 303
+        },
+        {
+          "allocatee": 2,
+          "votes": 266
+        },
+        {
+          "allocatee": "X",
+          "votes": 919
+        }
+      ],
+      "undervote": 904,
+      "overvote": 15,
+      "continuingBallots": 23846,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 11742
+        },
+        {
+          "allocatee": 3,
+          "votes": 11549
+        },
+        {
+          "allocatee": "X",
+          "votes": 1474
+        }
+      ],
+      "undervote": 1454,
+      "overvote": 20,
+      "continuingBallots": 23291,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 359
+        },
+        {
+          "from": 0,
+          "to": 3,
+          "count": 264
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 317
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 117
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 70
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 79
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "count": 117
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 27
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 159
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "info": {
+    "name": "Ward 2 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw02",
+    "officeName": "Ward 2 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "3 Councillor Ward 2.rcr"
+    }
+  },
+  "ballotCount": 5565,
+  "candidates": [
+    {
+      "name": "Bill Armstrong",
+      "write_in": false
+    },
+    {
+      "name": "Alan Jackson",
+      "write_in": false
+    },
+    {
+      "name": "Shawn Lewis",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 2,
+          "votes": 3483
+        },
+        {
+          "allocatee": 0,
+          "votes": 1799
+        },
+        {
+          "allocatee": 1,
+          "votes": 163
+        },
+        {
+          "allocatee": "X",
+          "votes": 120
+        }
+      ],
+      "undervote": 104,
+      "overvote": 16,
+      "continuingBallots": 5445,
+      "transfers": []
+    }
+  ]
+}

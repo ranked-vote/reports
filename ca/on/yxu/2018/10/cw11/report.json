@@ -1,0 +1,82 @@
+{
+  "info": {
+    "name": "Ward 11 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw11",
+    "officeName": "Ward 11 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "13 Councillor Ward 11.rcr"
+    }
+  },
+  "ballotCount": 8375,
+  "candidates": [
+    {
+      "name": "Paul-Michael Anderson",
+      "write_in": false
+    },
+    {
+      "name": "Eric H Deleeuw",
+      "write_in": false
+    },
+    {
+      "name": "Menno Meijer",
+      "write_in": false
+    },
+    {
+      "name": "Rachel Powell",
+      "write_in": false
+    },
+    {
+      "name": "Stephen Turner",
+      "write_in": false
+    },
+    {
+      "name": "Vicki Van Linden",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 4255
+        },
+        {
+          "allocatee": 3,
+          "votes": 1803
+        },
+        {
+          "allocatee": 5,
+          "votes": 671
+        },
+        {
+          "allocatee": 0,
+          "votes": 509
+        },
+        {
+          "allocatee": 2,
+          "votes": 419
+        },
+        {
+          "allocatee": 1,
+          "votes": 209
+        },
+        {
+          "allocatee": "X",
+          "votes": 509
+        }
+      ],
+      "undervote": 482,
+      "overvote": 27,
+      "continuingBallots": 7866,
+      "transfers": []
+    }
+  ]
+}

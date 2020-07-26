@@ -1,0 +1,403 @@
+{
+  "info": {
+    "name": "Ward 13 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw13",
+    "officeName": "Ward 13 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "15 Councillor Ward 13.rcr"
+    }
+  },
+  "ballotCount": 5993,
+  "candidates": [
+    {
+      "name": "Ben Benedict",
+      "write_in": false
+    },
+    {
+      "name": "John Fyfe-Millar",
+      "write_in": false
+    },
+    {
+      "name": "Jonathan Hughes",
+      "write_in": false
+    },
+    {
+      "name": "Arielle Kayabaga",
+      "write_in": false
+    },
+    {
+      "name": "David Lundquist",
+      "write_in": false
+    },
+    {
+      "name": "Rod Morley",
+      "write_in": false
+    },
+    {
+      "name": "Gil Warren",
+      "write_in": false
+    },
+    {
+      "name": "Kevin Wilbee",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 1668
+        },
+        {
+          "allocatee": 1,
+          "votes": 1561
+        },
+        {
+          "allocatee": 2,
+          "votes": 788
+        },
+        {
+          "allocatee": 7,
+          "votes": 695
+        },
+        {
+          "allocatee": 0,
+          "votes": 357
+        },
+        {
+          "allocatee": 6,
+          "votes": 350
+        },
+        {
+          "allocatee": 4,
+          "votes": 238
+        },
+        {
+          "allocatee": 5,
+          "votes": 57
+        },
+        {
+          "allocatee": "X",
+          "votes": 279
+        }
+      ],
+      "undervote": 243,
+      "overvote": 36,
+      "continuingBallots": 5714,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 1707
+        },
+        {
+          "allocatee": 1,
+          "votes": 1620
+        },
+        {
+          "allocatee": 2,
+          "votes": 823
+        },
+        {
+          "allocatee": 7,
+          "votes": 745
+        },
+        {
+          "allocatee": 0,
+          "votes": 391
+        },
+        {
+          "allocatee": 6,
+          "votes": 358
+        },
+        {
+          "allocatee": "X",
+          "votes": 349
+        }
+      ],
+      "undervote": 313,
+      "overvote": 36,
+      "continuingBallots": 5644,
+      "transfers": [
+        {
+          "from": 4,
+          "to": 0,
+          "count": 28
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "count": 53
+        },
+        {
+          "from": 4,
+          "to": 2,
+          "count": 26
+        },
+        {
+          "from": 4,
+          "to": 3,
+          "count": 32
+        },
+        {
+          "from": 4,
+          "to": 6,
+          "count": 4
+        },
+        {
+          "from": 4,
+          "to": 7,
+          "count": 46
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 49
+        },
+        {
+          "from": 5,
+          "to": 0,
+          "count": 6
+        },
+        {
+          "from": 5,
+          "to": 1,
+          "count": 6
+        },
+        {
+          "from": 5,
+          "to": 2,
+          "count": 9
+        },
+        {
+          "from": 5,
+          "to": 3,
+          "count": 7
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "count": 4
+        },
+        {
+          "from": 5,
+          "to": 7,
+          "count": 4
+        },
+        {
+          "from": 5,
+          "to": "X",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 1811
+        },
+        {
+          "allocatee": 1,
+          "votes": 1666
+        },
+        {
+          "allocatee": 2,
+          "votes": 877
+        },
+        {
+          "allocatee": 7,
+          "votes": 780
+        },
+        {
+          "allocatee": 0,
+          "votes": 417
+        },
+        {
+          "allocatee": "X",
+          "votes": 442
+        }
+      ],
+      "undervote": 406,
+      "overvote": 36,
+      "continuingBallots": 5551,
+      "transfers": [
+        {
+          "from": 6,
+          "to": 0,
+          "count": 26
+        },
+        {
+          "from": 6,
+          "to": 1,
+          "count": 46
+        },
+        {
+          "from": 6,
+          "to": 2,
+          "count": 54
+        },
+        {
+          "from": 6,
+          "to": 3,
+          "count": 104
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "count": 35
+        },
+        {
+          "from": 6,
+          "to": "X",
+          "count": 93
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 1909
+        },
+        {
+          "allocatee": 1,
+          "votes": 1720
+        },
+        {
+          "allocatee": 2,
+          "votes": 974
+        },
+        {
+          "allocatee": 7,
+          "votes": 831
+        },
+        {
+          "allocatee": "X",
+          "votes": 559
+        }
+      ],
+      "undervote": 520,
+      "overvote": 39,
+      "continuingBallots": 5434,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 54
+        },
+        {
+          "from": 0,
+          "to": 2,
+          "count": 97
+        },
+        {
+          "from": 0,
+          "to": 3,
+          "count": 98
+        },
+        {
+          "from": 0,
+          "to": 7,
+          "count": 51
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 117
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 2032
+        },
+        {
+          "allocatee": 1,
+          "votes": 1952
+        },
+        {
+          "allocatee": 2,
+          "votes": 1100
+        },
+        {
+          "allocatee": "X",
+          "votes": 909
+        }
+      ],
+      "undervote": 870,
+      "overvote": 39,
+      "continuingBallots": 5084,
+      "transfers": [
+        {
+          "from": 7,
+          "to": 1,
+          "count": 232
+        },
+        {
+          "from": 7,
+          "to": 2,
+          "count": 126
+        },
+        {
+          "from": 7,
+          "to": 3,
+          "count": 123
+        },
+        {
+          "from": 7,
+          "to": "X",
+          "count": 350
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 3,
+          "votes": 2325
+        },
+        {
+          "allocatee": 1,
+          "votes": 2186
+        },
+        {
+          "allocatee": "X",
+          "votes": 1482
+        }
+      ],
+      "undervote": 1443,
+      "overvote": 39,
+      "continuingBallots": 4511,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 1,
+          "count": 234
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 293
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 573
+        }
+      ]
+    }
+  ]
+}

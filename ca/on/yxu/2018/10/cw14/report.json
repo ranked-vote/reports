@@ -1,0 +1,117 @@
+{
+  "info": {
+    "name": "Ward 14 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw14",
+    "officeName": "Ward 14 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "16 Councillor Ward 14.rcr"
+    }
+  },
+  "ballotCount": 5492,
+  "candidates": [
+    {
+      "name": "Steve Hillier",
+      "write_in": false
+    },
+    {
+      "name": "Annette Swalwell",
+      "write_in": false
+    },
+    {
+      "name": "Allan Tipping",
+      "write_in": false
+    },
+    {
+      "name": "Jared Zaifman",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 2044
+        },
+        {
+          "allocatee": 3,
+          "votes": 1857
+        },
+        {
+          "allocatee": 2,
+          "votes": 681
+        },
+        {
+          "allocatee": 1,
+          "votes": 647
+        },
+        {
+          "allocatee": "X",
+          "votes": 263
+        }
+      ],
+      "undervote": 243,
+      "overvote": 20,
+      "continuingBallots": 5229,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 2522
+        },
+        {
+          "allocatee": 3,
+          "votes": 2128
+        },
+        {
+          "allocatee": "X",
+          "votes": 842
+        }
+      ],
+      "undervote": 821,
+      "overvote": 21,
+      "continuingBallots": 4650,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 245
+        },
+        {
+          "from": 1,
+          "to": 3,
+          "count": 139
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 263
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 233
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 132
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 316
+        }
+      ]
+    }
+  ]
+}

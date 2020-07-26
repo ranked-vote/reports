@@ -1,0 +1,204 @@
+{
+  "info": {
+    "name": "Mayor",
+    "date": "2009-03-03",
+    "dataFormat": "us_vt_btv",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/vt/btv",
+    "electionPath": "2009/03",
+    "office": "mayor",
+    "officeName": "Mayor",
+    "jurisdictionName": "Burlington",
+    "electionName": "Mayoral Election",
+    "loaderParams": {
+      "archive": "2009 Mayor Reports.zip",
+      "ballots": "Reports/2009 Burlington Mayor Final Piles Report.txt"
+    }
+  },
+  "ballotCount": 8980,
+  "candidates": [
+    {
+      "name": "Bob Kiss",
+      "write_in": false
+    },
+    {
+      "name": "Andy Montroll",
+      "write_in": false
+    },
+    {
+      "name": "James Simpson",
+      "write_in": false
+    },
+    {
+      "name": "Dan Smith",
+      "write_in": false
+    },
+    {
+      "name": "Kurt Wright",
+      "write_in": false
+    },
+    {
+      "name": "Write-in",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 2951
+        },
+        {
+          "allocatee": 0,
+          "votes": 2585
+        },
+        {
+          "allocatee": 1,
+          "votes": 2063
+        },
+        {
+          "allocatee": 3,
+          "votes": 1306
+        },
+        {
+          "allocatee": 5,
+          "votes": 36
+        },
+        {
+          "allocatee": 2,
+          "votes": 35
+        },
+        {
+          "allocatee": "X",
+          "votes": 4
+        }
+      ],
+      "undervote": 0,
+      "overvote": 4,
+      "continuingBallots": 8976,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 3294
+        },
+        {
+          "allocatee": 0,
+          "votes": 2981
+        },
+        {
+          "allocatee": 1,
+          "votes": 2554
+        },
+        {
+          "allocatee": "X",
+          "votes": 151
+        }
+      ],
+      "undervote": 147,
+      "overvote": 4,
+      "continuingBallots": 8829,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 0,
+          "count": 19
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 6
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 6
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 4
+        },
+        {
+          "from": 3,
+          "to": 0,
+          "count": 370
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "count": 472
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "count": 332
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 132
+        },
+        {
+          "from": 5,
+          "to": 0,
+          "count": 7
+        },
+        {
+          "from": 5,
+          "to": 1,
+          "count": 13
+        },
+        {
+          "from": 5,
+          "to": 4,
+          "count": 5
+        },
+        {
+          "from": 5,
+          "to": "X",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 4313
+        },
+        {
+          "allocatee": 4,
+          "votes": 4060
+        },
+        {
+          "allocatee": "X",
+          "votes": 607
+        }
+      ],
+      "undervote": 602,
+      "overvote": 5,
+      "continuingBallots": 8373,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 1332
+        },
+        {
+          "from": 1,
+          "to": 4,
+          "count": 766
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 456
+        }
+      ]
+    }
+  ]
+}

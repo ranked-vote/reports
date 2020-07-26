@@ -1,0 +1,117 @@
+{
+  "info": {
+    "name": "Congressional District 2 - Democrat",
+    "date": "2018-06-12",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2018/06",
+    "office": "cd02-primary-dem",
+    "officeName": "Congressional District 2 - Democrat",
+    "jurisdictionName": "Maine",
+    "electionName": "Primary Election",
+    "loaderParams": {
+      "files": "congressd2-1.xlsx;congressd2-2.xlsx;congressd2-3.xlsx;congressd2-4.xlsx"
+    }
+  },
+  "ballotCount": 50845,
+  "candidates": [
+    {
+      "name": "Craig R. Olson",
+      "write_in": false
+    },
+    {
+      "name": "Jared F. Golden",
+      "write_in": false
+    },
+    {
+      "name": "Lucas R. St. Clair",
+      "write_in": false
+    },
+    {
+      "name": "Jonathan S. Fulford",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 20987
+        },
+        {
+          "allocatee": 2,
+          "votes": 17742
+        },
+        {
+          "allocatee": 0,
+          "votes": 3993
+        },
+        {
+          "allocatee": 3,
+          "votes": 2489
+        },
+        {
+          "allocatee": "X",
+          "votes": 5634
+        }
+      ],
+      "undervote": 5526,
+      "overvote": 108,
+      "continuingBallots": 45211,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 23611
+        },
+        {
+          "allocatee": 2,
+          "votes": 19853
+        },
+        {
+          "allocatee": "X",
+          "votes": 7381
+        }
+      ],
+      "undervote": 7247,
+      "overvote": 134,
+      "continuingBallots": 43464,
+      "transfers": [
+        {
+          "from": 0,
+          "to": 1,
+          "count": 1513
+        },
+        {
+          "from": 0,
+          "to": 2,
+          "count": 1452
+        },
+        {
+          "from": 0,
+          "to": "X",
+          "count": 1028
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "count": 1111
+        },
+        {
+          "from": 3,
+          "to": 2,
+          "count": 659
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 719
+        }
+      ]
+    }
+  ]
+}

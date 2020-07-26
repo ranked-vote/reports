@@ -1,0 +1,56 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 5",
+    "date": "2016-11-08",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2016/11",
+    "office": "supervisor-d05",
+    "officeName": "Board of Supervisors, District 5",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "20161206_ballotimage.txt",
+      "contest": "11",
+      "masterLookup": "20161206_masterlookup.txt"
+    }
+  },
+  "ballotCount": 45531,
+  "candidates": [
+    {
+      "name": "Dean Preston",
+      "write_in": false
+    },
+    {
+      "name": "London Breed",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 21399
+        },
+        {
+          "allocatee": 0,
+          "votes": 19610
+        },
+        {
+          "allocatee": "X",
+          "votes": 4522
+        }
+      ],
+      "undervote": 4472,
+      "overvote": 50,
+      "continuingBallots": 41009,
+      "transfers": []
+    }
+  ]
+}

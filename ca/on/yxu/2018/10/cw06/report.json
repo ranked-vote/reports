@@ -1,0 +1,50 @@
+{
+  "info": {
+    "name": "Ward 6 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw06",
+    "officeName": "Ward 6 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "8 Councillor Ward 6.rcr"
+    }
+  },
+  "ballotCount": 5983,
+  "candidates": [
+    {
+      "name": "Mike Bloxam",
+      "write_in": false
+    },
+    {
+      "name": "Phil Squire",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 3959
+        },
+        {
+          "allocatee": 0,
+          "votes": 1738
+        },
+        {
+          "allocatee": "X",
+          "votes": 286
+        }
+      ],
+      "undervote": 278,
+      "overvote": 8,
+      "continuingBallots": 5697,
+      "transfers": []
+    }
+  ]
+}

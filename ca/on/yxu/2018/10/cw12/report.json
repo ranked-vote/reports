@@ -1,0 +1,167 @@
+{
+  "info": {
+    "name": "Ward 12 Councilor",
+    "date": "2018-10-22",
+    "dataFormat": "dominion_rcr",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "ca/on/yxu",
+    "electionPath": "2018/10",
+    "office": "cw12",
+    "officeName": "Ward 12 Councilor",
+    "jurisdictionName": "London, Ontario",
+    "electionName": "Municipal Election",
+    "loaderParams": {
+      "rcr": "14 Councillor Ward 12.rcr"
+    }
+  },
+  "ballotCount": 6757,
+  "candidates": [
+    {
+      "name": "Gord Evans",
+      "write_in": false
+    },
+    {
+      "name": "Jesse Haidar",
+      "write_in": false
+    },
+    {
+      "name": "Faisal Mahmood",
+      "write_in": false
+    },
+    {
+      "name": "Rowa Mohamed",
+      "write_in": false
+    },
+    {
+      "name": "Elizabeth Peloza",
+      "write_in": false
+    },
+    {
+      "name": "Eric Weniger",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 2763
+        },
+        {
+          "allocatee": 5,
+          "votes": 1850
+        },
+        {
+          "allocatee": 0,
+          "votes": 980
+        },
+        {
+          "allocatee": 3,
+          "votes": 623
+        },
+        {
+          "allocatee": 2,
+          "votes": 198
+        },
+        {
+          "allocatee": 1,
+          "votes": 132
+        },
+        {
+          "allocatee": "X",
+          "votes": 211
+        }
+      ],
+      "undervote": 160,
+      "overvote": 51,
+      "continuingBallots": 6546,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 4,
+          "votes": 3139
+        },
+        {
+          "allocatee": 5,
+          "votes": 1978
+        },
+        {
+          "allocatee": 0,
+          "votes": 1061
+        },
+        {
+          "allocatee": "X",
+          "votes": 579
+        }
+      ],
+      "undervote": 526,
+      "overvote": 53,
+      "continuingBallots": 6178,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 11
+        },
+        {
+          "from": 1,
+          "to": 4,
+          "count": 26
+        },
+        {
+          "from": 1,
+          "to": 5,
+          "count": 9
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 86
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 12
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 50
+        },
+        {
+          "from": 2,
+          "to": 5,
+          "count": 26
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 110
+        },
+        {
+          "from": 3,
+          "to": 0,
+          "count": 58
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "count": 300
+        },
+        {
+          "from": 3,
+          "to": 5,
+          "count": 93
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 172
+        }
+      ]
+    }
+  ]
+}

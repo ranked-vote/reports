@@ -1,0 +1,132 @@
+{
+  "info": {
+    "name": "Mayor",
+    "date": "2015-11-03",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2015/11",
+    "office": "mayor",
+    "officeName": "Mayor",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated Municipal Election",
+    "loaderParams": {
+      "ballotImage": "20151119_ballotimage.txt",
+      "contest": "1",
+      "masterLookup": "20151119_masterlookup.txt"
+    }
+  },
+  "ballotCount": 203069,
+  "candidates": [
+    {
+      "name": "Francisco Herrera",
+      "write_in": false
+    },
+    {
+      "name": "Ed Lee",
+      "write_in": false
+    },
+    {
+      "name": "Reed Martin",
+      "write_in": false
+    },
+    {
+      "name": "Amy Farah Weiss",
+      "write_in": false
+    },
+    {
+      "name": "Kent Graham",
+      "write_in": false
+    },
+    {
+      "name": "Stuart Schuffman",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - John E. Fitch",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - Karla Gottschalk (a.k.a Belle Starr)",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - Robert L. Jordan, Jr.",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - Daniel C Kappler",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - Ignacio L. Nunez",
+      "write_in": true
+    },
+    {
+      "name": "Write-In - Michael Petrelis",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 105771
+        },
+        {
+          "allocatee": 0,
+          "votes": 28805
+        },
+        {
+          "allocatee": 3,
+          "votes": 23236
+        },
+        {
+          "allocatee": 5,
+          "votes": 18347
+        },
+        {
+          "allocatee": 4,
+          "votes": 8827
+        },
+        {
+          "allocatee": 2,
+          "votes": 4660
+        },
+        {
+          "allocatee": 12,
+          "votes": 37
+        },
+        {
+          "allocatee": 9,
+          "votes": 7
+        },
+        {
+          "allocatee": 8,
+          "votes": 6
+        },
+        {
+          "allocatee": 10,
+          "votes": 6
+        },
+        {
+          "allocatee": 7,
+          "votes": 5
+        },
+        {
+          "allocatee": "X",
+          "votes": 13362
+        }
+      ],
+      "undervote": 12741,
+      "overvote": 621,
+      "continuingBallots": 189707,
+      "transfers": []
+    }
+  ]
+}

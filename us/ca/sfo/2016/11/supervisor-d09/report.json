@@ -1,0 +1,72 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 9",
+    "date": "2016-11-08",
+    "dataFormat": "us_ca_sfo",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2016/11",
+    "office": "supervisor-d09",
+    "officeName": "Board of Supervisors, District 9",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "ballotImage": "20161206_ballotimage.txt",
+      "contest": "13",
+      "masterLookup": "20161206_masterlookup.txt"
+    }
+  },
+  "ballotCount": 34945,
+  "candidates": [
+    {
+      "name": "Melissa San Miguel",
+      "write_in": false
+    },
+    {
+      "name": "Hillary Ronen",
+      "write_in": false
+    },
+    {
+      "name": "Iswari España",
+      "write_in": false
+    },
+    {
+      "name": "Joshua Arce",
+      "write_in": false
+    },
+    {
+      "name": "Write-In",
+      "write_in": true
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 18396
+        },
+        {
+          "allocatee": 3,
+          "votes": 9648
+        },
+        {
+          "allocatee": 0,
+          "votes": 3465
+        },
+        {
+          "allocatee": 2,
+          "votes": 545
+        },
+        {
+          "allocatee": "X",
+          "votes": 2891
+        }
+      ],
+      "undervote": 2764,
+      "overvote": 127,
+      "continuingBallots": 32054,
+      "transfers": []
+    }
+  ]
+}
