@@ -211,5 +211,39 @@
         }
       ]
     }
+  ],
+  "winner": 3,
+  "numCandidates": 5,
+  "totalVotes": [
+    {
+      "candidate": 3,
+      "firstRoundVotes": 14179,
+      "transferVotes": 3513,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 0,
+      "firstRoundVotes": 7645,
+      "transferVotes": 5170,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 4,
+      "firstRoundVotes": 6498,
+      "transferVotes": 2169,
+      "roundEliminated": 3
+    },
+    {
+      "candidate": 1,
+      "firstRoundVotes": 4948,
+      "transferVotes": 608,
+      "roundEliminated": 2
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 2004,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    }
   ]
 }

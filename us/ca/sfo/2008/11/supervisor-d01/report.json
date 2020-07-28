@@ -505,5 +505,69 @@
         }
       ]
     }
+  ],
+  "winner": 0,
+  "numCandidates": 9,
+  "totalVotes": [
+    {
+      "candidate": 0,
+      "firstRoundVotes": 11649,
+      "transferVotes": 1503,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 4,
+      "firstRoundVotes": 9753,
+      "transferVotes": 3052,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 1,
+      "firstRoundVotes": 4218,
+      "transferVotes": 196,
+      "roundEliminated": 5
+    },
+    {
+      "candidate": 3,
+      "firstRoundVotes": 998,
+      "transferVotes": 298,
+      "roundEliminated": 5
+    },
+    {
+      "candidate": 8,
+      "firstRoundVotes": 537,
+      "transferVotes": 236,
+      "roundEliminated": 5
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 614,
+      "transferVotes": 77,
+      "roundEliminated": 4
+    },
+    {
+      "candidate": 7,
+      "firstRoundVotes": 363,
+      "transferVotes": 54,
+      "roundEliminated": 3
+    },
+    {
+      "candidate": 6,
+      "firstRoundVotes": 325,
+      "transferVotes": 21,
+      "roundEliminated": 2
+    },
+    {
+      "candidate": 5,
+      "firstRoundVotes": 257,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    },
+    {
+      "candidate": 9,
+      "firstRoundVotes": 42,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    }
   ]
 }

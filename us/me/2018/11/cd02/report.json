@@ -21,10 +21,6 @@
       "write_in": false
     },
     {
-      "name": "Bruce Rep Poliquin",
-      "write_in": false
-    },
-    {
       "name": "Jared F. Golden",
       "write_in": false
     },
@@ -33,15 +29,7 @@
       "write_in": false
     },
     {
-      "name": "Jared F. Dem Golden",
-      "write_in": false
-    },
-    {
-      "name": "William R.s. Hoar",
-      "write_in": false
-    },
-    {
-      "name": "Jared F.  Dem Golden",
+      "name": "William R.S. Hoar",
       "write_in": false
     }
   ],
@@ -50,31 +38,19 @@
       "allocations": [
         {
           "allocatee": 0,
-          "votes": 133793
-        },
-        {
-          "allocatee": 2,
-          "votes": 131003
-        },
-        {
-          "allocatee": 3,
-          "votes": 16552
-        },
-        {
-          "allocatee": 5,
-          "votes": 6875
-        },
-        {
-          "allocatee": 4,
-          "votes": 944
+          "votes": 134184
         },
         {
           "allocatee": 1,
-          "votes": 391
+          "votes": 132013
         },
         {
-          "allocatee": 6,
-          "votes": 66
+          "allocatee": 2,
+          "votes": 16552
+        },
+        {
+          "allocatee": 3,
+          "votes": 6875
         },
         {
           "allocatee": "X",
@@ -89,48 +65,81 @@
     {
       "allocations": [
         {
-          "allocatee": 0,
-          "votes": 133793
+          "allocatee": 1,
+          "votes": 142440
         },
         {
-          "allocatee": 2,
-          "votes": 131003
+          "allocatee": 0,
+          "votes": 138931
         },
         {
           "allocatee": "X",
-          "votes": 31281
+          "votes": 14706
         }
       ],
-      "undervote": 30692,
-      "overvote": 589,
-      "continuingBallots": 264796,
+      "undervote": 14173,
+      "overvote": 533,
+      "continuingBallots": 281371,
       "transfers": [
         {
-          "from": 1,
+          "from": 2,
+          "to": 0,
+          "count": 3117
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 7862
+        },
+        {
+          "from": 2,
           "to": "X",
-          "count": 391
+          "count": 5573
+        },
+        {
+          "from": 3,
+          "to": 0,
+          "count": 1630
+        },
+        {
+          "from": 3,
+          "to": 1,
+          "count": 2565
         },
         {
           "from": 3,
           "to": "X",
-          "count": 16552
-        },
-        {
-          "from": 4,
-          "to": "X",
-          "count": 944
-        },
-        {
-          "from": 5,
-          "to": "X",
-          "count": 6875
-        },
-        {
-          "from": 6,
-          "to": "X",
-          "count": 66
+          "count": 2680
         }
       ]
+    }
+  ],
+  "winner": 1,
+  "numCandidates": 4,
+  "totalVotes": [
+    {
+      "candidate": 1,
+      "firstRoundVotes": 132013,
+      "transferVotes": 10427,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 0,
+      "firstRoundVotes": 134184,
+      "transferVotes": 4747,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 16552,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    },
+    {
+      "candidate": 3,
+      "firstRoundVotes": 6875,
+      "transferVotes": 0,
+      "roundEliminated": 1
     }
   ]
 }

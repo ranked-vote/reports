@@ -60,5 +60,27 @@
       "continuingBallots": 25330,
       "transfers": []
     }
+  ],
+  "winner": 1,
+  "numCandidates": 3,
+  "totalVotes": [
+    {
+      "candidate": 1,
+      "firstRoundVotes": 14288,
+      "transferVotes": 0,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 0,
+      "firstRoundVotes": 6267,
+      "transferVotes": 0,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 4775,
+      "transferVotes": 0,
+      "roundEliminated": null
+    }
   ]
 }
