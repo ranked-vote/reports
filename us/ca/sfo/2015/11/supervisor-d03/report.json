@@ -62,6 +62,7 @@
     }
   ],
   "winner": 0,
+  "condorcet": 0,
   "numCandidates": 3,
   "totalVotes": [
     {
@@ -82,5 +83,125 @@
       "transferVotes": 0,
       "roundEliminated": null
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.54343325,
+          "count": 16416
+        },
+        {
+          "frac": 0.77860695,
+          "count": 12864
+        }
+      ],
+      [
+        {
+          "frac": 0.45656675,
+          "count": 16416
+        },
+        null,
+        {
+          "frac": 0.75345415,
+          "count": 12087
+        }
+      ],
+      [
+        {
+          "frac": 0.22139303,
+          "count": 12864
+        },
+        {
+          "frac": 0.24654588,
+          "count": 12087
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.20987795,
+          "count": 8767
+        },
+        {
+          "frac": 0.2646287,
+          "count": 8767
+        },
+        {
+          "frac": 0.5254933,
+          "count": 8767
+        }
+      ],
+      [
+        {
+          "frac": 0.17187285,
+          "count": 7267
+        },
+        null,
+        {
+          "frac": 0.3010871,
+          "count": 7267
+        },
+        {
+          "frac": 0.52704006,
+          "count": 7267
+        }
+      ],
+      [
+        {
+          "frac": 0.23333333,
+          "count": 660
+        },
+        {
+          "frac": 0.34545454,
+          "count": 660
+        },
+        null,
+        {
+          "frac": 0.4212121,
+          "count": 660
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    0
   ]
 }

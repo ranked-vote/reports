@@ -48,6 +48,7 @@
     }
   ],
   "winner": 1,
+  "condorcet": 1,
   "numCandidates": 2,
   "totalVotes": [
     {
@@ -62,5 +63,78 @@
       "transferVotes": 0,
       "roundEliminated": null
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      1,
+      0
+    ],
+    "cols": [
+      1,
+      0
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.7275627,
+          "count": 4702
+        }
+      ],
+      [
+        {
+          "frac": 0.27243727,
+          "count": 4702
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      1,
+      0
+    ],
+    "cols": [
+      1,
+      0,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.26658872,
+          "count": 3421
+        },
+        {
+          "frac": 0.7334113,
+          "count": 3421
+        }
+      ],
+      [
+        {
+          "frac": 0.25214675,
+          "count": 1281
+        },
+        null,
+        {
+          "frac": 0.7478532,
+          "count": 1281
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      1,
+      0,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    1
   ]
 }

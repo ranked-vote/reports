@@ -56,6 +56,7 @@
     }
   ],
   "winner": 2,
+  "condorcet": 2,
   "numCandidates": 3,
   "totalVotes": [
     {
@@ -76,5 +77,125 @@
       "transferVotes": 0,
       "roundEliminated": null
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      2,
+      0,
+      1
+    ],
+    "cols": [
+      2,
+      0,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.65627044,
+          "count": 4585
+        },
+        {
+          "frac": 0.6879494,
+          "count": 4589
+        }
+      ],
+      [
+        {
+          "frac": 0.34372956,
+          "count": 4585
+        },
+        null,
+        {
+          "frac": 0.55683815,
+          "count": 3985
+        }
+      ],
+      [
+        {
+          "frac": 0.31205055,
+          "count": 4589
+        },
+        {
+          "frac": 0.44316185,
+          "count": 3985
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      2,
+      0,
+      1
+    ],
+    "cols": [
+      2,
+      0,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.34366524,
+          "count": 2581
+        },
+        {
+          "frac": 0.22743122,
+          "count": 2581
+        },
+        {
+          "frac": 0.42890352,
+          "count": 2581
+        }
+      ],
+      [
+        {
+          "frac": 0.43243244,
+          "count": 1332
+        },
+        null,
+        {
+          "frac": 0.18993995,
+          "count": 1332
+        },
+        {
+          "frac": 0.37762764,
+          "count": 1332
+        }
+      ],
+      [
+        {
+          "frac": 0.3630195,
+          "count": 1179
+        },
+        {
+          "frac": 0.20695505,
+          "count": 1179
+        },
+        null,
+        {
+          "frac": 0.43002546,
+          "count": 1179
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      2,
+      0,
+      1,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    2
   ]
 }

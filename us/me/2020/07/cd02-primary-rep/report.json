@@ -92,6 +92,7 @@
     }
   ],
   "winner": 0,
+  "condorcet": 0,
   "numCandidates": 3,
   "totalVotes": [
     {
@@ -112,5 +113,141 @@
       "transferVotes": 0,
       "roundEliminated": 1
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.5854457,
+          "count": 39095
+        },
+        {
+          "frac": 0.65556717,
+          "count": 38350
+        }
+      ],
+      [
+        {
+          "frac": 0.4145543,
+          "count": 39095
+        },
+        null,
+        {
+          "frac": 0.5807516,
+          "count": 34860
+        }
+      ],
+      [
+        {
+          "frac": 0.34443286,
+          "count": 38350
+        },
+        {
+          "frac": 0.41924843,
+          "count": 34860
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.350468,
+          "count": 19337
+        },
+        {
+          "frac": 0.2623468,
+          "count": 19337
+        },
+        {
+          "frac": 0.3871852,
+          "count": 19337
+        }
+      ],
+      [
+        {
+          "frac": 0.43094742,
+          "count": 13468
+        },
+        null,
+        {
+          "frac": 0.27227503,
+          "count": 13468
+        },
+        {
+          "frac": 0.29677755,
+          "count": 13468
+        }
+      ],
+      [
+        {
+          "frac": 0.3721442,
+          "count": 9542
+        },
+        {
+          "frac": 0.28704673,
+          "count": 9542
+        },
+        null,
+        {
+          "frac": 0.34080905,
+          "count": 9542
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      "X"
+    ],
+    "entries": [
+      [
+        {
+          "frac": 0.3721442,
+          "count": 9542
+        },
+        {
+          "frac": 0.28704673,
+          "count": 9542
+        },
+        {
+          "frac": 0.34080905,
+          "count": 9542
+        }
+      ]
+    ]
+  },
+  "smithSet": [
+    0
   ]
 }

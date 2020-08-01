@@ -56,6 +56,7 @@
     }
   ],
   "winner": 2,
+  "condorcet": 2,
   "numCandidates": 3,
   "totalVotes": [
     {
@@ -76,5 +77,125 @@
       "transferVotes": 0,
       "roundEliminated": null
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      2,
+      0,
+      1
+    ],
+    "cols": [
+      2,
+      0,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.6574195,
+          "count": 5371
+        },
+        {
+          "frac": 0.8954263,
+          "count": 4504
+        }
+      ],
+      [
+        {
+          "frac": 0.34258053,
+          "count": 5371
+        },
+        null,
+        {
+          "frac": 0.7487881,
+          "count": 3507
+        }
+      ],
+      [
+        {
+          "frac": 0.10457371,
+          "count": 4504
+        },
+        {
+          "frac": 0.25121185,
+          "count": 3507
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      2,
+      0,
+      1
+    ],
+    "cols": [
+      2,
+      0,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.23743899,
+          "count": 3483
+        },
+        {
+          "frac": 0.20614412,
+          "count": 3483
+        },
+        {
+          "frac": 0.55641687,
+          "count": 3483
+        }
+      ],
+      [
+        {
+          "frac": 0.3057254,
+          "count": 1799
+        },
+        null,
+        {
+          "frac": 0.17120622,
+          "count": 1799
+        },
+        {
+          "frac": 0.52306837,
+          "count": 1799
+        }
+      ],
+      [
+        {
+          "frac": 0.29447854,
+          "count": 163
+        },
+        {
+          "frac": 0.25153375,
+          "count": 163
+        },
+        null,
+        {
+          "frac": 0.45398772,
+          "count": 163
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      2,
+      0,
+      1,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    2
   ]
 }

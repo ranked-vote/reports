@@ -62,6 +62,7 @@
     }
   ],
   "winner": 0,
+  "condorcet": 0,
   "numCandidates": 3,
   "totalVotes": [
     {
@@ -82,5 +83,125 @@
       "transferVotes": 0,
       "roundEliminated": null
     }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.6514715,
+          "count": 181922
+        },
+        {
+          "frac": 0.8799889,
+          "count": 154669
+        }
+      ],
+      [
+        {
+          "frac": 0.3485285,
+          "count": 181922
+        },
+        null,
+        {
+          "frac": 0.6362127,
+          "count": 125895
+        }
+      ],
+      [
+        {
+          "frac": 0.12001112,
+          "count": 154669
+        },
+        {
+          "frac": 0.3637873,
+          "count": 125895
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.16453607,
+          "count": 113349
+        },
+        {
+          "frac": 0.30668995,
+          "count": 113349
+        },
+        {
+          "frac": 0.52877396,
+          "count": 113349
+        }
+      ],
+      [
+        {
+          "frac": 0.370374,
+          "count": 61446
+        },
+        null,
+        {
+          "frac": 0.122481525,
+          "count": 61446
+        },
+        {
+          "frac": 0.5071445,
+          "count": 61446
+        }
+      ],
+      [
+        {
+          "frac": 0.46828562,
+          "count": 11036
+        },
+        {
+          "frac": 0.17750996,
+          "count": 11036
+        },
+        null,
+        {
+          "frac": 0.35420442,
+          "count": 11036
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    0
   ]
 }
