@@ -298,16 +298,16 @@
           "office": "cd02-primary-dem",
           "officeName": "Congressional District 2 - Democrat",
           "name": "Congressional District 2 - Democrat",
-          "winner": "Jared F.  Golden",
-          "numCandidates": 8,
+          "winner": "Jared F. Golden",
+          "numCandidates": 4,
           "numRounds": 2
         },
         {
           "office": "gov",
           "officeName": "Governor",
           "name": "Governor",
-          "winner": "Janet T.  Mills",
-          "numCandidates": 15,
+          "winner": "Janet T. Mills",
+          "numCandidates": 8,
           "numRounds": 4
         }
       ]

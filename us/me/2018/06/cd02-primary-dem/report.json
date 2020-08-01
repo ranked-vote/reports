@@ -17,31 +17,15 @@
   "ballotCount": 50845,
   "candidates": [
     {
-      "name": "Craig R.  Olson",
-      "write_in": false
-    },
-    {
-      "name": "Jared F.  Golden",
-      "write_in": false
-    },
-    {
-      "name": "Lucas R.  St. Clair",
-      "write_in": false
-    },
-    {
-      "name": "Jonathan S.  Fulford",
-      "write_in": false
-    },
-    {
-      "name": "Lucas R. St. Clair",
-      "write_in": false
-    },
-    {
       "name": "Craig R. Olson",
       "write_in": false
     },
     {
       "name": "Jared F. Golden",
+      "write_in": false
+    },
+    {
+      "name": "Lucas R. St. Clair",
       "write_in": false
     },
     {
@@ -54,35 +38,19 @@
       "allocations": [
         {
           "allocatee": 1,
-          "votes": 20899
+          "votes": 20987
         },
         {
           "allocatee": 2,
-          "votes": 17648
+          "votes": 17742
         },
         {
           "allocatee": 0,
-          "votes": 3927
+          "votes": 3993
         },
         {
           "allocatee": 3,
-          "votes": 2448
-        },
-        {
-          "allocatee": 4,
-          "votes": 94
-        },
-        {
-          "allocatee": 6,
-          "votes": 88
-        },
-        {
-          "allocatee": 5,
-          "votes": 66
-        },
-        {
-          "allocatee": 7,
-          "votes": 41
+          "votes": 2489
         },
         {
           "allocatee": "X",
@@ -98,122 +66,78 @@
       "allocations": [
         {
           "allocatee": 1,
-          "votes": 23482
+          "votes": 23611
         },
         {
           "allocatee": 2,
-          "votes": 19724
+          "votes": 19853
         },
         {
           "allocatee": "X",
-          "votes": 7639
+          "votes": 7381
         }
       ],
-      "undervote": 7505,
+      "undervote": 7247,
       "overvote": 134,
-      "continuingBallots": 43206,
+      "continuingBallots": 43464,
       "transfers": [
         {
           "from": 0,
           "to": 1,
-          "count": 1489
+          "count": 1513
         },
         {
           "from": 3,
           "to": 1,
-          "count": 1094
+          "count": 1111
         },
         {
           "from": 0,
           "to": 2,
-          "count": 1428
+          "count": 1452
         },
         {
           "from": 3,
           "to": 2,
-          "count": 648
+          "count": 659
         },
         {
           "from": 0,
           "to": "X",
-          "count": 1010
+          "count": 1028
         },
         {
           "from": 3,
           "to": "X",
-          "count": 706
-        },
-        {
-          "from": 4,
-          "to": "X",
-          "count": 94
-        },
-        {
-          "from": 5,
-          "to": "X",
-          "count": 66
-        },
-        {
-          "from": 6,
-          "to": "X",
-          "count": 88
-        },
-        {
-          "from": 7,
-          "to": "X",
-          "count": 41
+          "count": 719
         }
       ]
     }
   ],
   "winner": 1,
-  "numCandidates": 8,
+  "numCandidates": 4,
   "totalVotes": [
     {
       "candidate": 1,
-      "firstRoundVotes": 20899,
-      "transferVotes": 2583,
+      "firstRoundVotes": 20987,
+      "transferVotes": 2624,
       "roundEliminated": null
     },
     {
       "candidate": 2,
-      "firstRoundVotes": 17648,
-      "transferVotes": 2076,
+      "firstRoundVotes": 17742,
+      "transferVotes": 2111,
       "roundEliminated": null
     },
     {
       "candidate": 0,
-      "firstRoundVotes": 3927,
+      "firstRoundVotes": 3993,
       "transferVotes": 0,
       "roundEliminated": 1
     },
     {
       "candidate": 3,
-      "firstRoundVotes": 2448,
-      "transferVotes": 0,
-      "roundEliminated": 1
-    },
-    {
-      "candidate": 4,
-      "firstRoundVotes": 94,
-      "transferVotes": 0,
-      "roundEliminated": 1
-    },
-    {
-      "candidate": 6,
-      "firstRoundVotes": 88,
-      "transferVotes": 0,
-      "roundEliminated": 1
-    },
-    {
-      "candidate": 5,
-      "firstRoundVotes": 66,
-      "transferVotes": 0,
-      "roundEliminated": 1
-    },
-    {
-      "candidate": 7,
-      "firstRoundVotes": 41,
+      "firstRoundVotes": 2489,
       "transferVotes": 0,
       "roundEliminated": 1
     }
