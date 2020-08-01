@@ -98,9 +98,29 @@
           "count": 2633
         },
         {
+          "from": 3,
+          "to": 0,
+          "count": 791
+        },
+        {
+          "from": 4,
+          "to": 0,
+          "count": 2
+        },
+        {
           "from": 1,
           "to": 2,
           "count": 1966
+        },
+        {
+          "from": 3,
+          "to": 2,
+          "count": 287
+        },
+        {
+          "from": 4,
+          "to": 2,
+          "count": 1
         },
         {
           "from": 1,
@@ -109,28 +129,8 @@
         },
         {
           "from": 3,
-          "to": 0,
-          "count": 791
-        },
-        {
-          "from": 3,
-          "to": 2,
-          "count": 287
-        },
-        {
-          "from": 3,
           "to": "X",
           "count": 724
-        },
-        {
-          "from": 4,
-          "to": 0,
-          "count": 2
-        },
-        {
-          "from": 4,
-          "to": 2,
-          "count": 1
         },
         {
           "from": 4,

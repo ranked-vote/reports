@@ -222,22 +222,22 @@
       "transfers": [
         {
           "from": 14,
-          "to": 1,
-          "count": 1
-        },
-        {
-          "from": 14,
           "to": 3,
           "count": 2
         },
         {
           "from": 14,
-          "to": 10,
+          "to": 1,
           "count": 1
         },
         {
           "from": 14,
           "to": 13,
+          "count": 1
+        },
+        {
+          "from": 14,
+          "to": 10,
           "count": 1
         },
         {
@@ -312,32 +312,12 @@
       "transfers": [
         {
           "from": 7,
-          "to": 0,
-          "count": 10
-        },
-        {
-          "from": 7,
-          "to": 1,
-          "count": 19
-        },
-        {
-          "from": 7,
-          "to": 2,
-          "count": 6
-        },
-        {
-          "from": 7,
           "to": 3,
           "count": 12
         },
         {
           "from": 7,
-          "to": 4,
-          "count": 5
-        },
-        {
-          "from": 7,
-          "to": 5,
+          "to": 1,
           "count": 19
         },
         {
@@ -347,18 +327,8 @@
         },
         {
           "from": 7,
-          "to": 8,
-          "count": 3
-        },
-        {
-          "from": 7,
-          "to": 9,
-          "count": 13
-        },
-        {
-          "from": 7,
-          "to": 10,
-          "count": 2
+          "to": 2,
+          "count": 6
         },
         {
           "from": 7,
@@ -367,13 +337,43 @@
         },
         {
           "from": 7,
-          "to": 12,
+          "to": 13,
+          "count": 16
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "count": 3
+        },
+        {
+          "from": 7,
+          "to": 0,
+          "count": 10
+        },
+        {
+          "from": 7,
+          "to": 9,
+          "count": 13
+        },
+        {
+          "from": 7,
+          "to": 5,
+          "count": 19
+        },
+        {
+          "from": 7,
+          "to": 10,
           "count": 2
         },
         {
           "from": 7,
-          "to": 13,
-          "count": 16
+          "to": 4,
+          "count": 5
+        },
+        {
+          "from": 7,
+          "to": 12,
+          "count": 2
         },
         {
           "from": 7,
@@ -443,7 +443,7 @@
       "transfers": [
         {
           "from": 12,
-          "to": 0,
+          "to": 3,
           "count": 11
         },
         {
@@ -453,43 +453,13 @@
         },
         {
           "from": 12,
-          "to": 2,
-          "count": 8
-        },
-        {
-          "from": 12,
-          "to": 3,
-          "count": 11
-        },
-        {
-          "from": 12,
-          "to": 4,
-          "count": 11
-        },
-        {
-          "from": 12,
-          "to": 5,
-          "count": 9
-        },
-        {
-          "from": 12,
           "to": 6,
           "count": 12
         },
         {
           "from": 12,
-          "to": 8,
-          "count": 9
-        },
-        {
-          "from": 12,
-          "to": 9,
-          "count": 4
-        },
-        {
-          "from": 12,
-          "to": 10,
-          "count": 3
+          "to": 2,
+          "count": 8
         },
         {
           "from": 12,
@@ -500,6 +470,36 @@
           "from": 12,
           "to": 13,
           "count": 14
+        },
+        {
+          "from": 12,
+          "to": 8,
+          "count": 9
+        },
+        {
+          "from": 12,
+          "to": 0,
+          "count": 11
+        },
+        {
+          "from": 12,
+          "to": 9,
+          "count": 4
+        },
+        {
+          "from": 12,
+          "to": 5,
+          "count": 9
+        },
+        {
+          "from": 12,
+          "to": 4,
+          "count": 11
+        },
+        {
+          "from": 12,
+          "to": 10,
+          "count": 3
         },
         {
           "from": 12,
@@ -565,8 +565,8 @@
       "transfers": [
         {
           "from": 10,
-          "to": 0,
-          "count": 6
+          "to": 3,
+          "count": 28
         },
         {
           "from": 10,
@@ -575,38 +575,8 @@
         },
         {
           "from": 10,
-          "to": 2,
-          "count": 6
-        },
-        {
-          "from": 10,
-          "to": 3,
-          "count": 28
-        },
-        {
-          "from": 10,
-          "to": 4,
-          "count": 7
-        },
-        {
-          "from": 10,
-          "to": 5,
-          "count": 7
-        },
-        {
-          "from": 10,
           "to": 6,
           "count": 19
-        },
-        {
-          "from": 10,
-          "to": 8,
-          "count": 8
-        },
-        {
-          "from": 10,
-          "to": 9,
-          "count": 12
         },
         {
           "from": 10,
@@ -615,8 +585,38 @@
         },
         {
           "from": 10,
+          "to": 2,
+          "count": 6
+        },
+        {
+          "from": 10,
           "to": 13,
           "count": 17
+        },
+        {
+          "from": 10,
+          "to": 8,
+          "count": 8
+        },
+        {
+          "from": 10,
+          "to": 0,
+          "count": 6
+        },
+        {
+          "from": 10,
+          "to": 9,
+          "count": 12
+        },
+        {
+          "from": 10,
+          "to": 5,
+          "count": 7
+        },
+        {
+          "from": 10,
+          "to": 4,
+          "count": 7
         },
         {
           "from": 10,
@@ -678,8 +678,8 @@
       "transfers": [
         {
           "from": 4,
-          "to": 0,
-          "count": 33
+          "to": 3,
+          "count": 23
         },
         {
           "from": 4,
@@ -688,33 +688,8 @@
         },
         {
           "from": 4,
-          "to": 2,
-          "count": 15
-        },
-        {
-          "from": 4,
-          "to": 3,
-          "count": 23
-        },
-        {
-          "from": 4,
-          "to": 5,
-          "count": 7
-        },
-        {
-          "from": 4,
           "to": 6,
           "count": 13
-        },
-        {
-          "from": 4,
-          "to": 8,
-          "count": 16
-        },
-        {
-          "from": 4,
-          "to": 9,
-          "count": 11
         },
         {
           "from": 4,
@@ -723,8 +698,33 @@
         },
         {
           "from": 4,
+          "to": 2,
+          "count": 15
+        },
+        {
+          "from": 4,
           "to": 13,
           "count": 8
+        },
+        {
+          "from": 4,
+          "to": 8,
+          "count": 16
+        },
+        {
+          "from": 4,
+          "to": 0,
+          "count": 33
+        },
+        {
+          "from": 4,
+          "to": 9,
+          "count": 11
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "count": 7
         },
         {
           "from": 4,
@@ -782,8 +782,8 @@
       "transfers": [
         {
           "from": 5,
-          "to": 0,
-          "count": 35
+          "to": 3,
+          "count": 23
         },
         {
           "from": 5,
@@ -792,18 +792,28 @@
         },
         {
           "from": 5,
+          "to": 6,
+          "count": 16
+        },
+        {
+          "from": 5,
+          "to": 11,
+          "count": 35
+        },
+        {
+          "from": 5,
           "to": 2,
           "count": 7
         },
         {
           "from": 5,
-          "to": 3,
-          "count": 23
+          "to": 13,
+          "count": 9
         },
         {
           "from": 5,
-          "to": 6,
-          "count": 16
+          "to": 0,
+          "count": 35
         },
         {
           "from": 5,
@@ -814,16 +824,6 @@
           "from": 5,
           "to": 9,
           "count": 51
-        },
-        {
-          "from": 5,
-          "to": 11,
-          "count": 35
-        },
-        {
-          "from": 5,
-          "to": 13,
-          "count": 9
         },
         {
           "from": 5,
@@ -877,8 +877,8 @@
       "transfers": [
         {
           "from": 9,
-          "to": 0,
-          "count": 16
+          "to": 3,
+          "count": 80
         },
         {
           "from": 9,
@@ -887,23 +887,8 @@
         },
         {
           "from": 9,
-          "to": 2,
-          "count": 41
-        },
-        {
-          "from": 9,
-          "to": 3,
-          "count": 80
-        },
-        {
-          "from": 9,
           "to": 6,
           "count": 48
-        },
-        {
-          "from": 9,
-          "to": 8,
-          "count": 19
         },
         {
           "from": 9,
@@ -912,8 +897,23 @@
         },
         {
           "from": 9,
+          "to": 2,
+          "count": 41
+        },
+        {
+          "from": 9,
           "to": 13,
           "count": 22
+        },
+        {
+          "from": 9,
+          "to": 8,
+          "count": 19
+        },
+        {
+          "from": 9,
+          "to": 0,
+          "count": 16
         },
         {
           "from": 9,
@@ -963,18 +963,13 @@
       "transfers": [
         {
           "from": 0,
-          "to": 1,
-          "count": 137
-        },
-        {
-          "from": 0,
-          "to": 2,
-          "count": 59
-        },
-        {
-          "from": 0,
           "to": 3,
           "count": 108
+        },
+        {
+          "from": 0,
+          "to": 1,
+          "count": 137
         },
         {
           "from": 0,
@@ -983,18 +978,23 @@
         },
         {
           "from": 0,
-          "to": 8,
-          "count": 32
-        },
-        {
-          "from": 0,
           "to": 11,
           "count": 56
         },
         {
           "from": 0,
+          "to": 2,
+          "count": 59
+        },
+        {
+          "from": 0,
           "to": 13,
           "count": 25
+        },
+        {
+          "from": 0,
+          "to": 8,
+          "count": 32
         },
         {
           "from": 0,
@@ -1040,18 +1040,13 @@
       "transfers": [
         {
           "from": 8,
-          "to": 1,
-          "count": 107
-        },
-        {
-          "from": 8,
-          "to": 2,
-          "count": 46
-        },
-        {
-          "from": 8,
           "to": 3,
           "count": 131
+        },
+        {
+          "from": 8,
+          "to": 1,
+          "count": 107
         },
         {
           "from": 8,
@@ -1065,6 +1060,11 @@
         },
         {
           "from": 8,
+          "to": 2,
+          "count": 46
+        },
+        {
+          "from": 8,
           "to": 13,
           "count": 35
         },
@@ -1072,69 +1072,6 @@
           "from": 8,
           "to": "X",
           "count": 259
-        }
-      ]
-    },
-    {
-      "allocations": [
-        {
-          "allocatee": 3,
-          "votes": 7201
-        },
-        {
-          "allocatee": 1,
-          "votes": 6333
-        },
-        {
-          "allocatee": 6,
-          "votes": 3989
-        },
-        {
-          "allocatee": 11,
-          "votes": 1222
-        },
-        {
-          "allocatee": 2,
-          "votes": 1218
-        },
-        {
-          "allocatee": "X",
-          "votes": 5094
-        }
-      ],
-      "undervote": 4726,
-      "overvote": 368,
-      "continuingBallots": 19963,
-      "transfers": [
-        {
-          "from": 13,
-          "to": 1,
-          "count": 232
-        },
-        {
-          "from": 13,
-          "to": 2,
-          "count": 70
-        },
-        {
-          "from": 13,
-          "to": 3,
-          "count": 162
-        },
-        {
-          "from": 13,
-          "to": 6,
-          "count": 107
-        },
-        {
-          "from": 13,
-          "to": 11,
-          "count": 22
-        },
-        {
-          "from": 13,
-          "to": "X",
-          "count": 246
         }
       ]
     },
@@ -1163,43 +1100,63 @@
       "transfers": [
         {
           "from": 2,
-          "to": 1,
-          "count": 279
-        },
-        {
-          "from": 2,
           "to": 3,
-          "count": 308
-        },
-        {
-          "from": 2,
-          "to": 6,
-          "count": 157
-        },
-        {
-          "from": 2,
-          "to": "X",
-          "count": 474
-        },
-        {
-          "from": 11,
-          "to": 1,
-          "count": 89
+          "count": 300
         },
         {
           "from": 11,
           "to": 3,
-          "count": 258
+          "count": 256
+        },
+        {
+          "from": 13,
+          "to": 3,
+          "count": 172
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 269
+        },
+        {
+          "from": 11,
+          "to": 1,
+          "count": 86
+        },
+        {
+          "from": 13,
+          "to": 1,
+          "count": 245
+        },
+        {
+          "from": 2,
+          "to": 6,
+          "count": 147
         },
         {
           "from": 11,
           "to": 6,
-          "count": 188
+          "count": 187
+        },
+        {
+          "from": 13,
+          "to": 6,
+          "count": 118
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 432
         },
         {
           "from": 11,
           "to": "X",
-          "count": 687
+          "count": 671
+        },
+        {
+          "from": 13,
+          "to": "X",
+          "count": 304
         }
       ]
     },
@@ -1224,13 +1181,13 @@
       "transfers": [
         {
           "from": 6,
-          "to": 1,
-          "count": 827
+          "to": 3,
+          "count": 1098
         },
         {
           "from": 6,
-          "to": 3,
-          "count": 1098
+          "to": 1,
+          "count": 827
         },
         {
           "from": 6,
@@ -1259,19 +1216,19 @@
       "candidate": 6,
       "firstRoundVotes": 3605,
       "transferVotes": 729,
-      "roundEliminated": 12
+      "roundEliminated": 11
     },
     {
       "candidate": 11,
       "firstRoundVotes": 947,
-      "transferVotes": 275,
-      "roundEliminated": 11
+      "transferVotes": 253,
+      "roundEliminated": 10
     },
     {
       "candidate": 2,
       "firstRoundVotes": 960,
-      "transferVotes": 258,
-      "roundEliminated": 11
+      "transferVotes": 188,
+      "roundEliminated": 10
     },
     {
       "candidate": 13,

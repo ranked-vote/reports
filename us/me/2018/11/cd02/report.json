@@ -83,18 +83,18 @@
       "transfers": [
         {
           "from": 2,
-          "to": 0,
-          "count": 3117
-        },
-        {
-          "from": 2,
           "to": 1,
           "count": 7862
         },
         {
+          "from": 3,
+          "to": 1,
+          "count": 2565
+        },
+        {
           "from": 2,
-          "to": "X",
-          "count": 5573
+          "to": 0,
+          "count": 3117
         },
         {
           "from": 3,
@@ -102,9 +102,9 @@
           "count": 1630
         },
         {
-          "from": 3,
-          "to": 1,
-          "count": 2565
+          "from": 2,
+          "to": "X",
+          "count": 5573
         },
         {
           "from": 3,

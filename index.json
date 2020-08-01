@@ -156,7 +156,7 @@
           "name": "Board of Supervisors, District 10",
           "winner": "Shamann Walton",
           "numCandidates": 6,
-          "numRounds": 4
+          "numRounds": 3
         }
       ]
     },
@@ -172,7 +172,7 @@
           "name": "Mayor",
           "winner": "Ed Holder",
           "numCandidates": 14,
-          "numRounds": 11
+          "numRounds": 4
         },
         {
           "office": "cw01",
@@ -300,7 +300,7 @@
           "name": "Congressional District 2 - Democrat",
           "winner": "Jared F.  Golden",
           "numCandidates": 8,
-          "numRounds": 4
+          "numRounds": 2
         },
         {
           "office": "gov",
@@ -308,7 +308,7 @@
           "name": "Governor",
           "winner": "Janet T.  Mills",
           "numCandidates": 15,
-          "numRounds": 9
+          "numRounds": 4
         }
       ]
     },
@@ -324,7 +324,7 @@
           "name": "Mayor",
           "winner": "London Breed",
           "numCandidates": 8,
-          "numRounds": 4
+          "numRounds": 3
         },
         {
           "office": "supervisor-d08",
@@ -396,7 +396,7 @@
           "name": "Board of Supervisors, District 1",
           "winner": "Sandra Lee Fewer",
           "numCandidates": 10,
-          "numRounds": 7
+          "numRounds": 2
         },
         {
           "office": "supervisor-d03",
@@ -436,7 +436,7 @@
           "name": "Board of Supervisors, District 11",
           "winner": "Ahsha Safai",
           "numCandidates": 5,
-          "numRounds": 3
+          "numRounds": 2
         }
       ]
     },
@@ -508,7 +508,7 @@
           "name": "Board of Supervisors, District 7",
           "winner": "Norman Yee",
           "numCandidates": 9,
-          "numRounds": 7
+          "numRounds": 6
         }
       ]
     },
@@ -532,7 +532,7 @@
           "name": "Mayor",
           "winner": "Ed Lee",
           "numCandidates": 16,
-          "numRounds": 18
+          "numRounds": 12
         },
         {
           "office": "sheriff",
@@ -556,7 +556,7 @@
           "name": "Board of Supervisors, District 2",
           "winner": "Mark Farrell",
           "numCandidates": 6,
-          "numRounds": 3
+          "numRounds": 2
         },
         {
           "office": "supervisor-d06",
@@ -564,7 +564,7 @@
           "name": "Board of Supervisors, District 6",
           "winner": "Jane Kim",
           "numCandidates": 14,
-          "numRounds": 13
+          "numRounds": 12
         },
         {
           "office": "supervisor-d08",
@@ -612,7 +612,7 @@
           "name": "Board of Supervisors, District 1",
           "winner": "Eric Mar",
           "numCandidates": 9,
-          "numRounds": 6
+          "numRounds": 2
         },
         {
           "office": "supervisor-d03",
@@ -652,7 +652,7 @@
           "name": "Board of Supervisors, District 9",
           "winner": "David Campos",
           "numCandidates": 7,
-          "numRounds": 4
+          "numRounds": 3
         },
         {
           "office": "supervisor-d11",
@@ -660,7 +660,7 @@
           "name": "Board of Supervisors, District 11",
           "winner": "John Avalos",
           "numCandidates": 8,
-          "numRounds": 6
+          "numRounds": 4
         }
       ]
     }

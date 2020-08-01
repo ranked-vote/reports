@@ -87,24 +87,24 @@
           "count": 245
         },
         {
-          "from": 1,
-          "to": 3,
-          "count": 139
-        },
-        {
-          "from": 1,
-          "to": "X",
-          "count": 263
-        },
-        {
           "from": 2,
           "to": 0,
           "count": 233
         },
         {
+          "from": 1,
+          "to": 3,
+          "count": 139
+        },
+        {
           "from": 2,
           "to": 3,
           "count": 132
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 263
         },
         {
           "from": 2,

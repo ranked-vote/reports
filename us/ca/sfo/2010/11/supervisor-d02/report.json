@@ -92,110 +92,6 @@
     {
       "allocations": [
         {
-          "allocatee": 0,
-          "votes": 10030
-        },
-        {
-          "allocatee": 3,
-          "votes": 9920
-        },
-        {
-          "allocatee": 4,
-          "votes": 2165
-        },
-        {
-          "allocatee": 5,
-          "votes": 1815
-        },
-        {
-          "allocatee": "X",
-          "votes": 4981
-        }
-      ],
-      "undervote": 4893,
-      "overvote": 88,
-      "continuingBallots": 23930,
-      "transfers": [
-        {
-          "from": 1,
-          "to": 0,
-          "count": 34
-        },
-        {
-          "from": 1,
-          "to": 3,
-          "count": 39
-        },
-        {
-          "from": 1,
-          "to": 4,
-          "count": 20
-        },
-        {
-          "from": 1,
-          "to": 5,
-          "count": 23
-        },
-        {
-          "from": 1,
-          "to": "X",
-          "count": 44
-        },
-        {
-          "from": 2,
-          "to": 0,
-          "count": 97
-        },
-        {
-          "from": 2,
-          "to": 3,
-          "count": 179
-        },
-        {
-          "from": 2,
-          "to": 4,
-          "count": 70
-        },
-        {
-          "from": 2,
-          "to": 5,
-          "count": 83
-        },
-        {
-          "from": 2,
-          "to": "X",
-          "count": 108
-        },
-        {
-          "from": 6,
-          "to": 0,
-          "count": 1
-        },
-        {
-          "from": 6,
-          "to": 3,
-          "count": 2
-        },
-        {
-          "from": 6,
-          "to": 4,
-          "count": 1
-        },
-        {
-          "from": 6,
-          "to": 5,
-          "count": 2
-        },
-        {
-          "from": 6,
-          "to": "X",
-          "count": 12
-        }
-      ]
-    },
-    {
-      "allocations": [
-        {
           "allocatee": 3,
           "votes": 11426
         },
@@ -213,34 +109,79 @@
       "continuingBallots": 22594,
       "transfers": [
         {
-          "from": 4,
-          "to": 0,
-          "count": 668
+          "from": 1,
+          "to": 3,
+          "count": 46
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 215
         },
         {
           "from": 4,
           "to": 3,
-          "count": 769
-        },
-        {
-          "from": 4,
-          "to": "X",
-          "count": 728
-        },
-        {
-          "from": 5,
-          "to": 0,
-          "count": 470
+          "count": 750
         },
         {
           "from": 5,
           "to": 3,
-          "count": 737
+          "count": 712
+        },
+        {
+          "from": 6,
+          "to": 3,
+          "count": 3
+        },
+        {
+          "from": 1,
+          "to": 0,
+          "count": 39
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 133
+        },
+        {
+          "from": 4,
+          "to": 0,
+          "count": 651
+        },
+        {
+          "from": 5,
+          "to": 0,
+          "count": 445
+        },
+        {
+          "from": 6,
+          "to": 0,
+          "count": 2
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 75
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 189
+        },
+        {
+          "from": 4,
+          "to": "X",
+          "count": 673
         },
         {
           "from": 5,
           "to": "X",
-          "count": 608
+          "count": 550
+        },
+        {
+          "from": 6,
+          "to": "X",
+          "count": 13
         }
       ]
     }
@@ -263,14 +204,14 @@
     {
       "candidate": 4,
       "firstRoundVotes": 2074,
-      "transferVotes": 91,
-      "roundEliminated": 2
+      "transferVotes": 0,
+      "roundEliminated": 1
     },
     {
       "candidate": 5,
       "firstRoundVotes": 1707,
-      "transferVotes": 108,
-      "roundEliminated": 2
+      "transferVotes": 0,
+      "roundEliminated": 1
     },
     {
       "candidate": 2,

@@ -94,8 +94,8 @@
       "transfers": [
         {
           "from": 1,
-          "to": 0,
-          "count": 1611
+          "to": 3,
+          "count": 2017
         },
         {
           "from": 1,
@@ -104,8 +104,8 @@
         },
         {
           "from": 1,
-          "to": 3,
-          "count": 2017
+          "to": 0,
+          "count": 1611
         },
         {
           "from": 1,
@@ -135,13 +135,13 @@
       "transfers": [
         {
           "from": 0,
-          "to": 2,
-          "count": 20787
+          "to": 3,
+          "count": 14118
         },
         {
           "from": 0,
-          "to": 3,
-          "count": 14118
+          "to": 2,
+          "count": 20787
         },
         {
           "from": 0,

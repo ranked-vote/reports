@@ -143,68 +143,8 @@
       "transfers": [
         {
           "from": 2,
-          "to": 0,
-          "count": 3
-        },
-        {
-          "from": 2,
-          "to": 1,
-          "count": 19
-        },
-        {
-          "from": 2,
-          "to": 3,
-          "count": 10
-        },
-        {
-          "from": 2,
-          "to": 4,
-          "count": 12
-        },
-        {
-          "from": 2,
-          "to": 6,
-          "count": 7
-        },
-        {
-          "from": 2,
           "to": 7,
           "count": 31
-        },
-        {
-          "from": 2,
-          "to": 8,
-          "count": 47
-        },
-        {
-          "from": 2,
-          "to": "X",
-          "count": 59
-        },
-        {
-          "from": 5,
-          "to": 0,
-          "count": 18
-        },
-        {
-          "from": 5,
-          "to": 1,
-          "count": 13
-        },
-        {
-          "from": 5,
-          "to": 3,
-          "count": 11
-        },
-        {
-          "from": 5,
-          "to": 4,
-          "count": 22
-        },
-        {
-          "from": 5,
-          "to": 6,
-          "count": 7
         },
         {
           "from": 5,
@@ -212,9 +152,69 @@
           "count": 9
         },
         {
+          "from": 2,
+          "to": 8,
+          "count": 47
+        },
+        {
           "from": 5,
           "to": 8,
           "count": 10
+        },
+        {
+          "from": 2,
+          "to": 1,
+          "count": 19
+        },
+        {
+          "from": 5,
+          "to": 1,
+          "count": 13
+        },
+        {
+          "from": 2,
+          "to": 6,
+          "count": 7
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "count": 7
+        },
+        {
+          "from": 2,
+          "to": 4,
+          "count": 12
+        },
+        {
+          "from": 5,
+          "to": 4,
+          "count": 22
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 3
+        },
+        {
+          "from": 5,
+          "to": 0,
+          "count": 18
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "count": 10
+        },
+        {
+          "from": 5,
+          "to": 3,
+          "count": 11
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 59
         },
         {
           "from": 5,
@@ -260,8 +260,13 @@
       "transfers": [
         {
           "from": 3,
-          "to": 0,
-          "count": 41
+          "to": 7,
+          "count": 39
+        },
+        {
+          "from": 3,
+          "to": 8,
+          "count": 57
         },
         {
           "from": 3,
@@ -270,23 +275,18 @@
         },
         {
           "from": 3,
-          "to": 4,
-          "count": 50
-        },
-        {
-          "from": 3,
           "to": 6,
           "count": 51
         },
         {
           "from": 3,
-          "to": 7,
-          "count": 39
+          "to": 4,
+          "count": 50
         },
         {
           "from": 3,
-          "to": 8,
-          "count": 57
+          "to": 0,
+          "count": 41
         },
         {
           "from": 3,
@@ -328,13 +328,18 @@
       "transfers": [
         {
           "from": 0,
-          "to": 1,
-          "count": 44
+          "to": 7,
+          "count": 42
         },
         {
           "from": 0,
-          "to": 4,
-          "count": 54
+          "to": 8,
+          "count": 56
+        },
+        {
+          "from": 0,
+          "to": 1,
+          "count": 44
         },
         {
           "from": 0,
@@ -343,13 +348,8 @@
         },
         {
           "from": 0,
-          "to": 7,
-          "count": 42
-        },
-        {
-          "from": 0,
-          "to": 8,
-          "count": 56
+          "to": 4,
+          "count": 54
         },
         {
           "from": 0,
@@ -387,16 +387,6 @@
       "transfers": [
         {
           "from": 4,
-          "to": 1,
-          "count": 74
-        },
-        {
-          "from": 4,
-          "to": 6,
-          "count": 91
-        },
-        {
-          "from": 4,
           "to": 7,
           "count": 124
         },
@@ -404,6 +394,16 @@
           "from": 4,
           "to": 8,
           "count": 168
+        },
+        {
+          "from": 4,
+          "to": 1,
+          "count": 74
+        },
+        {
+          "from": 4,
+          "to": 6,
+          "count": 91
         },
         {
           "from": 4,
@@ -437,24 +437,24 @@
           "count": 268
         },
         {
-          "from": 1,
-          "to": 8,
-          "count": 301
-        },
-        {
-          "from": 1,
-          "to": "X",
-          "count": 603
-        },
-        {
           "from": 6,
           "to": 7,
           "count": 197
         },
         {
+          "from": 1,
+          "to": 8,
+          "count": 301
+        },
+        {
           "from": 6,
           "to": 8,
           "count": 179
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 603
         },
         {
           "from": 6,

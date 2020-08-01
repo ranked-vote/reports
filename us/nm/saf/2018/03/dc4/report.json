@@ -76,13 +76,13 @@
       "transfers": [
         {
           "from": 0,
-          "to": 1,
-          "count": 511
+          "to": 2,
+          "count": 449
         },
         {
           "from": 0,
-          "to": 2,
-          "count": 449
+          "to": 1,
+          "count": 511
         },
         {
           "from": 0,
