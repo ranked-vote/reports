@@ -12,7 +12,8 @@
     "electionName": "Municipal Election",
     "loaderParams": {
       "rcr": "1 Mayor.rcr"
-    }
+    },
+    "website": null
   },
   "ballotCount": 97947,
   "candidates": [

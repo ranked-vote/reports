@@ -15,7 +15,8 @@
       "contest": "22",
       "masterLookup": "D5-MasterLookup.txt",
       "zipFile": "D5.zip"
-    }
+    },
+    "website": "https://sfelections.org/results/20121106/index.php#english_detail"
   },
   "ballotCount": 40253,
   "candidates": [

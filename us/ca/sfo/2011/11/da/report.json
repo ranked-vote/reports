@@ -15,7 +15,8 @@
       "contest": "1",
       "masterLookup": "DA-MasterLookUp.txt",
       "zipFile": "DA.zip"
-    }
+    },
+    "website": "https://sfelections.org/results/20111108/"
   },
   "ballotCount": 197242,
   "candidates": [

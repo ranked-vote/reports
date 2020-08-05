@@ -15,7 +15,8 @@
       "contest": "8",
       "masterLookup": "CityWide_MasterLookup.txt",
       "zipFile": "Nov08_RCV_CityWide_BallotImage_20081202.zip"
-    }
+    },
+    "website": "https://sfelections.sfgov.org/election-summary-november-4-2008"
   },
   "ballotCount": 36669,
   "candidates": [

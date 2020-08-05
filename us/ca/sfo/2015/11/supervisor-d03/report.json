@@ -14,7 +14,8 @@
       "ballotImage": "20151119_ballotimage.txt",
       "contest": "3",
       "masterLookup": "20151119_masterlookup.txt"
-    }
+    },
+    "website": "https://sfelections.org/results/20151103/#english_detail"
   },
   "ballotCount": 17554,
   "candidates": [

@@ -12,7 +12,8 @@
     "electionName": "Primary Election",
     "loaderParams": {
       "files": "cg2-1.xlsx;cg2-2.xlsx;cg2-3.xlsx;cg2-4.xlsx;cg2-uocava.xlsx"
-    }
+    },
+    "website": "https://www.maine.gov/sos/cec/elec/results/results20.html#julytab"
   },
   "ballotCount": 46805,
   "candidates": [

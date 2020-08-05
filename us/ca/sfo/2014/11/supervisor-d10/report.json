@@ -15,7 +15,8 @@
       "contest": "33",
       "masterLookup": "D10_MasterLookup.txt",
       "zipFile": "D10.zip"
-    }
+    },
+    "website": "https://www.sfelections.org/results/20141104/#english_detail"
   },
   "ballotCount": 16342,
   "candidates": [

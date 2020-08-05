@@ -15,7 +15,8 @@
       "contest": "7",
       "masterLookup": "MasterLookup-D2.txt",
       "zipFile": "D2.zip"
-    }
+    },
+    "website": "https://sfelections.org/results/20101102/"
   },
   "ballotCount": 28911,
   "candidates": [

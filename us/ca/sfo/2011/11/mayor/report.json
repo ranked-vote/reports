@@ -15,7 +15,8 @@
       "contest": "3",
       "masterLookup": "Mayor-MasterLookup.txt",
       "zipFile": "Mayor.zip"
-    }
+    },
+    "website": "https://sfelections.org/results/20111108/"
   },
   "ballotCount": 197242,
   "candidates": [

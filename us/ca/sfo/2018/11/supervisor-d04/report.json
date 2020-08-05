@@ -14,7 +14,8 @@
       "ballotImage": "20181127_d4_ballotimage.txt",
       "contest": "36",
       "masterLookup": "20181127_masterlookup.txt"
-    }
+    },
+    "website": "https://sfelections.sfgov.org/november-6-2018-election-results-detailed-reports"
   },
   "ballotCount": 31412,
   "candidates": [

@@ -14,7 +14,8 @@
       "ballotImage": "20161206_ballotimage.txt",
       "contest": "14",
       "masterLookup": "20161206_masterlookup.txt"
-    }
+    },
+    "website": "https://sfelections.sfgov.org/november-8-2016-election-results-detailed-reports"
   },
   "ballotCount": 28010,
   "candidates": [

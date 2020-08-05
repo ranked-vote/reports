@@ -14,7 +14,8 @@
       "ballotImage": "20180627_ballotimage.txt",
       "contest": "20",
       "masterLookup": "20180627_masterlookup.txt"
-    }
+    },
+    "website": "https://sfelections.sfgov.org/june-5-2018-election-results-detailed-reports"
   },
   "ballotCount": 254016,
   "candidates": [

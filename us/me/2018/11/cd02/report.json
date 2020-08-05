@@ -12,7 +12,8 @@
     "electionName": "General Election",
     "loaderParams": {
       "files": "Nov18CVRExportFINAL1.xlsx;Nov18CVRExportFINAL2.xlsx;Nov18CVRExportFINAL3.xlsx;AUXCVRProofedCVR95RepCD2.xlsx;RepCD2-8final.xlsx;UOCAVA-AUX-CVRRepCD2.xlsx;UOCAVA-FINALRepCD2.xlsx;UOCAVA2CVRRepCD2.xlsx"
-    }
+    },
+    "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#Nov6"
   },
   "ballotCount": 296077,
   "candidates": [

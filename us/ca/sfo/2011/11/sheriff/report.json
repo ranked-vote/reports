@@ -15,7 +15,8 @@
       "contest": "2",
       "masterLookup": "Sheriff-MasterLookUp.txt",
       "zipFile": "Sheriff.zip"
-    }
+    },
+    "website": "https://sfelections.org/results/20111108/"
   },
   "ballotCount": 197242,
   "candidates": [

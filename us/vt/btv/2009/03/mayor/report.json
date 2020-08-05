@@ -13,7 +13,8 @@
     "loaderParams": {
       "archive": "2009 Mayor Reports.zip",
       "ballots": "Reports/2009 Burlington Mayor Final Piles Report.txt"
-    }
+    },
+    "website": null
   },
   "ballotCount": 8980,
   "candidates": [

@@ -12,7 +12,8 @@
     "electionName": "Primary Election",
     "loaderParams": {
       "files": "congressd2-1.xlsx;congressd2-2.xlsx;congressd2-3.xlsx;congressd2-4.xlsx"
-    }
+    },
+    "website": "https://www.maine.gov/sos/cec/elec/results/results18.html#june18"
   },
   "ballotCount": 50845,
   "candidates": [

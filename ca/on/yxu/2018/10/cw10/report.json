@@ -12,7 +12,8 @@
     "electionName": "Municipal Election",
     "loaderParams": {
       "rcr": "12 Councillor Ward 10.rcr"
-    }
+    },
+    "website": null
   },
   "ballotCount": 8555,
   "candidates": [

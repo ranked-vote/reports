@@ -12,7 +12,8 @@
     "electionName": "Municipal Election",
     "loaderParams": {
       "rcr": "7 Councillor Ward 5.rcr"
-    }
+    },
+    "website": null
   },
   "ballotCount": 9299,
   "candidates": [
