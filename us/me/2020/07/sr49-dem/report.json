@@ -1,13 +1,13 @@
 {
   "info": {
-    "name": "State Representative - District 49 - Democrat",
+    "name": "State Representative - District 49 (D)",
     "date": "2020-07-14",
     "dataFormat": "us_me",
     "tabulation": "eager_irv",
     "jurisdictionPath": "us/me",
     "electionPath": "2020/07",
     "office": "sr49-dem",
-    "officeName": "State Representative - District 49 - Democrat",
+    "officeName": "State Representative - District 49 (D)",
     "jurisdictionName": "Maine",
     "electionName": "Primary Election",
     "loaderParams": {

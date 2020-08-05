@@ -8,48 +8,48 @@
       "contests": [
         {
           "office": "cd02-primary-rep",
-          "officeName": "Congressional District 2 - Republican",
-          "name": "Congressional District 2 - Republican",
+          "officeName": "Congressional District 2 (R)",
+          "name": "Congressional District 2 (R)",
           "winner": "Dale John Crafts",
           "numCandidates": 3,
           "numRounds": 2
         },
         {
           "office": "ss11-dem",
-          "officeName": "State Senate - District 11 - Democrat",
-          "name": "State Senate - District 11 - Democrat",
+          "officeName": "State Senate - District 11 (D)",
+          "name": "State Senate - District 11 (D)",
           "winner": "Glenn Chip Curry",
           "numCandidates": 3,
           "numRounds": 2
         },
         {
           "office": "sr41-dem",
-          "officeName": "State Representative - District 41 - Democrat",
-          "name": "State Representative - District 41 - Democrat",
+          "officeName": "State Representative - District 41 (D)",
+          "name": "State Representative - District 41 (D)",
           "winner": "Samuel Lewis Zager",
           "numCandidates": 3,
           "numRounds": 2
         },
         {
           "office": "sr47-dem",
-          "officeName": "State Representative - District 47 - Democrat",
-          "name": "State Representative - District 47 - Democrat",
+          "officeName": "State Representative - District 47 (D)",
+          "name": "State Representative - District 47 (D)",
           "winner": "Arthur L. Bell",
           "numCandidates": 3,
           "numRounds": 2
         },
         {
           "office": "sr49-dem",
-          "officeName": "State Representative - District 49 - Democrat",
-          "name": "State Representative - District 49 - Democrat",
+          "officeName": "State Representative - District 49 (D)",
+          "name": "State Representative - District 49 (D)",
           "winner": "Poppy Arford",
           "numCandidates": 3,
           "numRounds": 2
         },
         {
           "office": "sr90-dem",
-          "officeName": "State Representative - District 90 - Democrat",
-          "name": "State Representative - District 90 - Democrat",
+          "officeName": "State Representative - District 90 (D)",
+          "name": "State Representative - District 90 (D)",
           "winner": "Lydia V. Crafts",
           "numCandidates": 3,
           "numRounds": 1
@@ -336,8 +336,8 @@
       "contests": [
         {
           "office": "cd02-primary-dem",
-          "officeName": "Congressional District 2 - Democrat",
-          "name": "Congressional District 2 - Democrat",
+          "officeName": "Congressional District 2 (D)",
+          "name": "Congressional District 2 (D)",
           "winner": "Jared F. Golden",
           "numCandidates": 4,
           "numRounds": 2

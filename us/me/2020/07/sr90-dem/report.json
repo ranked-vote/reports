@@ -1,13 +1,13 @@
 {
   "info": {
-    "name": "State Representative - District 90 - Democrat",
+    "name": "State Representative - District 90 (D)",
     "date": "2020-07-14",
     "dataFormat": "us_me",
     "tabulation": "eager_irv",
     "jurisdictionPath": "us/me",
     "electionPath": "2020/07",
     "office": "sr90-dem",
-    "officeName": "State Representative - District 90 - Democrat",
+    "officeName": "State Representative - District 90 (D)",
     "jurisdictionName": "Maine",
     "electionName": "Primary Election",
     "loaderParams": {

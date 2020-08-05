@@ -1,13 +1,13 @@
 {
   "info": {
-    "name": "Congressional District 2 - Republican",
+    "name": "Congressional District 2 (R)",
     "date": "2020-07-14",
     "dataFormat": "us_me",
     "tabulation": "eager_irv",
     "jurisdictionPath": "us/me",
     "electionPath": "2020/07",
     "office": "cd02-primary-rep",
-    "officeName": "Congressional District 2 - Republican",
+    "officeName": "Congressional District 2 (R)",
     "jurisdictionName": "Maine",
     "electionName": "Primary Election",
     "loaderParams": {

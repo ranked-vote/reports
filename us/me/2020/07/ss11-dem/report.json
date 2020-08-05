@@ -1,13 +1,13 @@
 {
   "info": {
-    "name": "State Senate - District 11 - Democrat",
+    "name": "State Senate - District 11 (D)",
     "date": "2020-07-14",
     "dataFormat": "us_me",
     "tabulation": "eager_irv",
     "jurisdictionPath": "us/me",
     "electionPath": "2020/07",
     "office": "ss11-dem",
-    "officeName": "State Senate - District 11 - Democrat",
+    "officeName": "State Senate - District 11 (D)",
     "jurisdictionName": "Maine",
     "electionName": "Primary Election",
     "loaderParams": {

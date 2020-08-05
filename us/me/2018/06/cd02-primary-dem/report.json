@@ -1,13 +1,13 @@
 {
   "info": {
-    "name": "Congressional District 2 - Democrat",
+    "name": "Congressional District 2 (D)",
     "date": "2018-06-12",
     "dataFormat": "us_me",
     "tabulation": "eager_irv",
     "jurisdictionPath": "us/me",
     "electionPath": "2018/06",
     "office": "cd02-primary-dem",
-    "officeName": "Congressional District 2 - Democrat",
+    "officeName": "Congressional District 2 (D)",
     "jurisdictionName": "Maine",
     "electionName": "Primary Election",
     "loaderParams": {
