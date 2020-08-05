@@ -1,0 +1,253 @@
+{
+  "info": {
+    "name": "State Representative - District 47 - Democrat",
+    "date": "2020-07-14",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2020/07",
+    "office": "sr47-dem",
+    "officeName": "State Representative - District 47 - Democrat",
+    "jurisdictionName": "Maine",
+    "electionName": "Primary Election",
+    "loaderParams": {
+      "files": "sr47-1.xlsx;sr47-2.xlsx;sr47-uocava.xlsx"
+    }
+  },
+  "ballotCount": 2547,
+  "candidates": [
+    {
+      "name": "Heather Abbott",
+      "write_in": false
+    },
+    {
+      "name": "Arthur L. Bell",
+      "write_in": false
+    },
+    {
+      "name": "Peter J. Fromuth",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 970
+        },
+        {
+          "allocatee": 0,
+          "votes": 873
+        },
+        {
+          "allocatee": 2,
+          "votes": 582
+        },
+        {
+          "allocatee": "X",
+          "votes": 122
+        }
+      ],
+      "undervote": 119,
+      "overvote": 3,
+      "continuingBallots": 2425,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 1253
+        },
+        {
+          "allocatee": 0,
+          "votes": 1101
+        },
+        {
+          "allocatee": "X",
+          "votes": 193
+        }
+      ],
+      "undervote": 188,
+      "overvote": 5,
+      "continuingBallots": 2354,
+      "transfers": [
+        {
+          "from": 2,
+          "to": 1,
+          "count": 283
+        },
+        {
+          "from": 2,
+          "to": 0,
+          "count": 228
+        },
+        {
+          "from": 2,
+          "to": "X",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "winner": 1,
+  "condorcet": 1,
+  "numCandidates": 3,
+  "totalVotes": [
+    {
+      "candidate": 1,
+      "firstRoundVotes": 970,
+      "transferVotes": 283,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 0,
+      "firstRoundVotes": 873,
+      "transferVotes": 228,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 582,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      1,
+      0,
+      2
+    ],
+    "cols": [
+      1,
+      0,
+      2
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.53228545,
+          "count": 2354
+        },
+        {
+          "frac": 0.62913907,
+          "count": 2265
+        }
+      ],
+      [
+        {
+          "frac": 0.46771452,
+          "count": 2354
+        },
+        null,
+        {
+          "frac": 0.5825545,
+          "count": 2247
+        }
+      ],
+      [
+        {
+          "frac": 0.37086093,
+          "count": 2265
+        },
+        {
+          "frac": 0.41744548,
+          "count": 2247
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      1,
+      0,
+      2
+    ],
+    "cols": [
+      1,
+      0,
+      2,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.44948453,
+          "count": 970
+        },
+        {
+          "frac": 0.3670103,
+          "count": 970
+        },
+        {
+          "frac": 0.18350515,
+          "count": 970
+        }
+      ],
+      [
+        {
+          "frac": 0.5211913,
+          "count": 873
+        },
+        null,
+        {
+          "frac": 0.29553264,
+          "count": 873
+        },
+        {
+          "frac": 0.18327606,
+          "count": 873
+        }
+      ],
+      [
+        {
+          "frac": 0.4862543,
+          "count": 582
+        },
+        {
+          "frac": 0.39175257,
+          "count": 582
+        },
+        null,
+        {
+          "frac": 0.121993124,
+          "count": 582
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [
+      2
+    ],
+    "cols": [
+      1,
+      0,
+      "X"
+    ],
+    "entries": [
+      [
+        {
+          "frac": 0.4862543,
+          "count": 582
+        },
+        {
+          "frac": 0.39175257,
+          "count": 582
+        },
+        {
+          "frac": 0.121993124,
+          "count": 582
+        }
+      ]
+    ]
+  },
+  "smithSet": [
+    1
+  ]
+}

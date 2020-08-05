@@ -1,0 +1,253 @@
+{
+  "info": {
+    "name": "State Senate - District 11 - Democrat",
+    "date": "2020-07-14",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2020/07",
+    "office": "ss11-dem",
+    "officeName": "State Senate - District 11 - Democrat",
+    "jurisdictionName": "Maine",
+    "electionName": "Primary Election",
+    "loaderParams": {
+      "files": "ss11-1.xlsx;ss11-2.xlsx;ss11-uocava.xlsx"
+    }
+  },
+  "ballotCount": 4474,
+  "candidates": [
+    {
+      "name": "Glenn Chip Curry",
+      "write_in": false
+    },
+    {
+      "name": "Charles F. Pattavina",
+      "write_in": false
+    },
+    {
+      "name": "Robyn M. Stanicki",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 1858
+        },
+        {
+          "allocatee": 2,
+          "votes": 1280
+        },
+        {
+          "allocatee": 1,
+          "votes": 1030
+        },
+        {
+          "allocatee": "X",
+          "votes": 306
+        }
+      ],
+      "undervote": 298,
+      "overvote": 8,
+      "continuingBallots": 4168,
+      "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 2244
+        },
+        {
+          "allocatee": 2,
+          "votes": 1711
+        },
+        {
+          "allocatee": "X",
+          "votes": 519
+        }
+      ],
+      "undervote": 506,
+      "overvote": 13,
+      "continuingBallots": 3955,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 386
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "count": 431
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 213
+        }
+      ]
+    }
+  ],
+  "winner": 0,
+  "condorcet": 0,
+  "numCandidates": 3,
+  "totalVotes": [
+    {
+      "candidate": 0,
+      "firstRoundVotes": 1858,
+      "transferVotes": 386,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 1280,
+      "transferVotes": 431,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 1,
+      "firstRoundVotes": 1030,
+      "transferVotes": 0,
+      "roundEliminated": 1
+    }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.56738305,
+          "count": 3955
+        },
+        {
+          "frac": 0.6358669,
+          "count": 4026
+        }
+      ],
+      [
+        {
+          "frac": 0.43261695,
+          "count": 3955
+        },
+        null,
+        {
+          "frac": 0.5542615,
+          "count": 3778
+        }
+      ],
+      [
+        {
+          "frac": 0.36413315,
+          "count": 4026
+        },
+        {
+          "frac": 0.4457385,
+          "count": 3778
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      0,
+      2,
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.4381055,
+          "count": 1858
+        },
+        {
+          "frac": 0.3519914,
+          "count": 1858
+        },
+        {
+          "frac": 0.20990312,
+          "count": 1858
+        }
+      ],
+      [
+        {
+          "frac": 0.5484375,
+          "count": 1280
+        },
+        null,
+        {
+          "frac": 0.340625,
+          "count": 1280
+        },
+        {
+          "frac": 0.1109375,
+          "count": 1280
+        }
+      ],
+      [
+        {
+          "frac": 0.3747573,
+          "count": 1030
+        },
+        {
+          "frac": 0.4184466,
+          "count": 1030
+        },
+        null,
+        {
+          "frac": 0.20679611,
+          "count": 1030
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [
+      1
+    ],
+    "cols": [
+      0,
+      2,
+      "X"
+    ],
+    "entries": [
+      [
+        {
+          "frac": 0.3747573,
+          "count": 1030
+        },
+        {
+          "frac": 0.4184466,
+          "count": 1030
+        },
+        {
+          "frac": 0.20679611,
+          "count": 1030
+        }
+      ]
+    ]
+  },
+  "smithSet": [
+    0
+  ]
+}

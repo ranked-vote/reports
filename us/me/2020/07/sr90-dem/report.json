@@ -1,0 +1,201 @@
+{
+  "info": {
+    "name": "State Representative - District 90 - Democrat",
+    "date": "2020-07-14",
+    "dataFormat": "us_me",
+    "tabulation": "eager_irv",
+    "jurisdictionPath": "us/me",
+    "electionPath": "2020/07",
+    "office": "sr90-dem",
+    "officeName": "State Representative - District 90 - Democrat",
+    "jurisdictionName": "Maine",
+    "electionName": "Primary Election",
+    "loaderParams": {
+      "files": "sr90-1.xlsx;sr90-2.xlsx;sr90-uocava.xlsx"
+    }
+  },
+  "ballotCount": 1838,
+  "candidates": [
+    {
+      "name": "Wendy Pieh",
+      "write_in": false
+    },
+    {
+      "name": "Lydia V. Crafts",
+      "write_in": false
+    },
+    {
+      "name": "David J. Levesque",
+      "write_in": false
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 1,
+          "votes": 920
+        },
+        {
+          "allocatee": 0,
+          "votes": 611
+        },
+        {
+          "allocatee": 2,
+          "votes": 252
+        },
+        {
+          "allocatee": "X",
+          "votes": 55
+        }
+      ],
+      "undervote": 51,
+      "overvote": 4,
+      "continuingBallots": 1783,
+      "transfers": []
+    }
+  ],
+  "winner": 1,
+  "condorcet": 1,
+  "numCandidates": 3,
+  "totalVotes": [
+    {
+      "candidate": 1,
+      "firstRoundVotes": 920,
+      "transferVotes": 0,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 0,
+      "firstRoundVotes": 611,
+      "transferVotes": 0,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 2,
+      "firstRoundVotes": 252,
+      "transferVotes": 0,
+      "roundEliminated": null
+    }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      1,
+      0,
+      2
+    ],
+    "cols": [
+      1,
+      0,
+      2
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.60149086,
+          "count": 1744
+        },
+        {
+          "frac": 0.76638347,
+          "count": 1648
+        }
+      ],
+      [
+        {
+          "frac": 0.39850917,
+          "count": 1744
+        },
+        null,
+        {
+          "frac": 0.67391306,
+          "count": 1656
+        }
+      ],
+      [
+        {
+          "frac": 0.2336165,
+          "count": 1648
+        },
+        {
+          "frac": 0.32608697,
+          "count": 1656
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      1,
+      0,
+      2
+    ],
+    "cols": [
+      1,
+      0,
+      2,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.54891306,
+          "count": 920
+        },
+        {
+          "frac": 0.31304348,
+          "count": 920
+        },
+        {
+          "frac": 0.13804348,
+          "count": 920
+        }
+      ],
+      [
+        {
+          "frac": 0.5613748,
+          "count": 611
+        },
+        null,
+        {
+          "frac": 0.21767594,
+          "count": 611
+        },
+        {
+          "frac": 0.22094926,
+          "count": 611
+        }
+      ],
+      [
+        {
+          "frac": 0.5119048,
+          "count": 252
+        },
+        {
+          "frac": 0.33333334,
+          "count": 252
+        },
+        null,
+        {
+          "frac": 0.15476191,
+          "count": 252
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      1,
+      0,
+      2,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    1
+  ]
+}
