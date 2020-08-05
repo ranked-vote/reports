@@ -13,6 +13,46 @@
           "winner": "Dale John Crafts",
           "numCandidates": 3,
           "numRounds": 2
+        },
+        {
+          "office": "ss11-dem",
+          "officeName": "State Senate - District 11 - Democrat",
+          "name": "State Senate - District 11 - Democrat",
+          "winner": "Glenn Chip Curry",
+          "numCandidates": 3,
+          "numRounds": 2
+        },
+        {
+          "office": "sr41-dem",
+          "officeName": "State Representative - District 41 - Democrat",
+          "name": "State Representative - District 41 - Democrat",
+          "winner": "Samuel Lewis Zager",
+          "numCandidates": 3,
+          "numRounds": 2
+        },
+        {
+          "office": "sr47-dem",
+          "officeName": "State Representative - District 47 - Democrat",
+          "name": "State Representative - District 47 - Democrat",
+          "winner": "Arthur L. Bell",
+          "numCandidates": 3,
+          "numRounds": 2
+        },
+        {
+          "office": "sr49-dem",
+          "officeName": "State Representative - District 49 - Democrat",
+          "name": "State Representative - District 49 - Democrat",
+          "winner": "Poppy Arford",
+          "numCandidates": 3,
+          "numRounds": 2
+        },
+        {
+          "office": "sr90-dem",
+          "officeName": "State Representative - District 90 - Democrat",
+          "name": "State Representative - District 90 - Democrat",
+          "winner": "Lydia V. Crafts",
+          "numCandidates": 3,
+          "numRounds": 1
         }
       ]
     },
