@@ -79,13 +79,15 @@
         null,
         {
           "frac": 0.6836041,
-          "count": 6770
+          "numerator": 4628,
+          "denominator": 6770
         }
       ],
       [
         {
           "frac": 0.31639588,
-          "count": 6770
+          "numerator": 2142,
+          "denominator": 6770
         },
         null
       ]
@@ -106,11 +108,13 @@
         null,
         {
           "frac": 0.00064822816,
-          "count": 4628
+          "numerator": 3,
+          "denominator": 4628
         },
         {
           "frac": 0.9993518,
-          "count": 4628
+          "numerator": 4625,
+          "denominator": 4628
         }
       ],
       [
@@ -118,7 +122,8 @@
         null,
         {
           "frac": 1.0,
-          "count": 2142
+          "numerator": 2142,
+          "denominator": 2142
         }
       ]
     ]

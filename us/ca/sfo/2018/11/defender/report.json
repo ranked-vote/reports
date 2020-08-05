@@ -82,7 +82,8 @@
         null,
         {
           "frac": 1.0,
-          "count": 292864
+          "numerator": 292864,
+          "denominator": 292864
         }
       ]
     ]

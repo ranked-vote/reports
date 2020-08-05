@@ -95,32 +95,38 @@
         null,
         {
           "frac": 0.61742175,
-          "count": 6004
+          "numerator": 3707,
+          "denominator": 6004
         },
         {
           "frac": 0.79498744,
-          "count": 5985
+          "numerator": 4758,
+          "denominator": 5985
         }
       ],
       [
         {
           "frac": 0.38257828,
-          "count": 6004
+          "numerator": 2297,
+          "denominator": 6004
         },
         null,
         {
           "frac": 0.7379529,
-          "count": 5686
+          "numerator": 4196,
+          "denominator": 5686
         }
       ],
       [
         {
           "frac": 0.20501253,
-          "count": 5985
+          "numerator": 1227,
+          "denominator": 5985
         },
         {
           "frac": 0.26204714,
-          "count": 5686
+          "numerator": 1490,
+          "denominator": 5686
         },
         null
       ]
@@ -143,45 +149,54 @@
         null,
         {
           "frac": 0.655287,
-          "count": 3310
+          "numerator": 2169,
+          "denominator": 3310
         },
         {
           "frac": 0.1712991,
-          "count": 3310
+          "numerator": 567,
+          "denominator": 3310
         },
         {
           "frac": 0.1734139,
-          "count": 3310
+          "numerator": 574,
+          "denominator": 3310
         }
       ],
       [
         {
           "frac": 0.7143562,
-          "count": 2027
+          "numerator": 1448,
+          "denominator": 2027
         },
         null,
         {
           "frac": 0.14997533,
-          "count": 2027
+          "numerator": 304,
+          "denominator": 2027
         },
         {
           "frac": 0.13566847,
-          "count": 2027
+          "numerator": 275,
+          "denominator": 2027
         }
       ],
       [
         {
           "frac": 0.4301192,
-          "count": 923
+          "numerator": 397,
+          "denominator": 923
         },
         {
           "frac": 0.29252437,
-          "count": 923
+          "numerator": 270,
+          "denominator": 923
         },
         null,
         {
           "frac": 0.27735645,
-          "count": 923
+          "numerator": 256,
+          "denominator": 923
         }
       ]
     ]

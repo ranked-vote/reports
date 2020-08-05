@@ -234,94 +234,114 @@
         null,
         {
           "frac": 0.6226359,
-          "count": 161001
+          "numerator": 100245,
+          "denominator": 161001
         },
         {
           "frac": 0.5502615,
-          "count": 165594
+          "numerator": 91120,
+          "denominator": 165594
         },
         {
           "frac": 0.6963459,
-          "count": 146466
+          "numerator": 101991,
+          "denominator": 146466
         },
         {
           "frac": 0.8706444,
-          "count": 125901
+          "numerator": 109615,
+          "denominator": 125901
         }
       ],
       [
         {
           "frac": 0.37736413,
-          "count": 161001
+          "numerator": 60756,
+          "denominator": 161001
         },
         null,
         {
           "frac": 0.44912693,
-          "count": 138649
+          "numerator": 62271,
+          "denominator": 138649
         },
         {
           "frac": 0.57075757,
-          "count": 129230
+          "numerator": 73759,
+          "denominator": 129230
         },
         {
           "frac": 0.7914699,
-          "count": 101194
+          "numerator": 80092,
+          "denominator": 101194
         }
       ],
       [
         {
           "frac": 0.4497385,
-          "count": 165594
+          "numerator": 74474,
+          "denominator": 165594
         },
         {
           "frac": 0.55087304,
-          "count": 138649
+          "numerator": 76378,
+          "denominator": 138649
         },
         null,
         {
           "frac": 0.6886731,
-          "count": 142201
+          "numerator": 97930,
+          "denominator": 142201
         },
         {
           "frac": 0.8719393,
-          "count": 124113
+          "numerator": 108219,
+          "denominator": 124113
         }
       ],
       [
         {
           "frac": 0.3036541,
-          "count": 146466
+          "numerator": 44475,
+          "denominator": 146466
         },
         {
           "frac": 0.42924243,
-          "count": 129230
+          "numerator": 55471,
+          "denominator": 129230
         },
         {
           "frac": 0.31132692,
-          "count": 142201
+          "numerator": 44271,
+          "denominator": 142201
         },
         null,
         {
           "frac": 0.77447367,
-          "count": 94428
+          "numerator": 73132,
+          "denominator": 94428
         }
       ],
       [
         {
           "frac": 0.12935561,
-          "count": 125901
+          "numerator": 16286,
+          "denominator": 125901
         },
         {
           "frac": 0.20853014,
-          "count": 101194
+          "numerator": 21102,
+          "denominator": 101194
         },
         {
           "frac": 0.12806071,
-          "count": 124113
+          "numerator": 15894,
+          "denominator": 124113
         },
         {
           "frac": 0.22552633,
-          "count": 94428
+          "numerator": 21296,
+          "denominator": 94428
         },
         null
       ]
@@ -348,115 +368,140 @@
         null,
         {
           "frac": 0.12011386,
-          "count": 76236
+          "numerator": 9157,
+          "denominator": 76236
         },
         {
           "frac": 0.29505745,
-          "count": 76236
+          "numerator": 22494,
+          "denominator": 76236
         },
         {
           "frac": 0.2149116,
-          "count": 76236
+          "numerator": 16384,
+          "denominator": 76236
         },
         {
           "frac": 0.03754132,
-          "count": 76236
+          "numerator": 2862,
+          "denominator": 76236
         },
         {
           "frac": 0.3323758,
-          "count": 76236
+          "numerator": 25339,
+          "denominator": 76236
         }
       ],
       [
         {
           "frac": 0.11848472,
-          "count": 43398
+          "numerator": 5142,
+          "denominator": 43398
         },
         null,
         {
           "frac": 0.6187382,
-          "count": 43398
+          "numerator": 26852,
+          "denominator": 43398
         },
         {
           "frac": 0.075740814,
-          "count": 43398
+          "numerator": 3287,
+          "denominator": 43398
         },
         {
           "frac": 0.030277893,
-          "count": 43398
+          "numerator": 1314,
+          "denominator": 43398
         },
         {
           "frac": 0.15675838,
-          "count": 43398
+          "numerator": 6803,
+          "denominator": 43398
         }
       ],
       [
         {
           "frac": 0.2917774,
-          "count": 38005
+          "numerator": 11089,
+          "denominator": 38005
         },
         {
           "frac": 0.22486515,
-          "count": 38005
+          "numerator": 8546,
+          "denominator": 38005
         },
         null,
         {
           "frac": 0.15724246,
-          "count": 38005
+          "numerator": 5976,
+          "denominator": 38005
         },
         {
           "frac": 0.08267333,
-          "count": 38005
+          "numerator": 3142,
+          "denominator": 38005
         },
         {
           "frac": 0.24344166,
-          "count": 38005
+          "numerator": 9252,
+          "denominator": 38005
         }
       ],
       [
         {
           "frac": 0.29898193,
-          "count": 19252
+          "numerator": 5756,
+          "denominator": 19252
         },
         {
           "frac": 0.13707666,
-          "count": 19252
+          "numerator": 2639,
+          "denominator": 19252
         },
         {
           "frac": 0.21093912,
-          "count": 19252
+          "numerator": 4061,
+          "denominator": 19252
         },
         null,
         {
           "frac": 0.058175772,
-          "count": 19252
+          "numerator": 1120,
+          "denominator": 19252
         },
         {
           "frac": 0.2948265,
-          "count": 19252
+          "numerator": 5676,
+          "denominator": 19252
         }
       ],
       [
         {
           "frac": 0.20133415,
-          "count": 6596
+          "numerator": 1328,
+          "denominator": 6596
         },
         {
           "frac": 0.17828988,
-          "count": 6596
+          "numerator": 1176,
+          "denominator": 6596
         },
         {
           "frac": 0.2589448,
-          "count": 6596
+          "numerator": 1708,
+          "denominator": 6596
         },
         {
           "frac": 0.105821714,
-          "count": 6596
+          "numerator": 698,
+          "denominator": 6596
         },
         null,
         {
           "frac": 0.25560945,
-          "count": 6596
+          "numerator": 1686,
+          "denominator": 6596
         }
       ]
     ]
@@ -476,43 +521,52 @@
       [
         {
           "frac": 0.37876594,
-          "count": 38005
+          "numerator": 14395,
+          "denominator": 38005
         },
         {
           "frac": 0.2992501,
-          "count": 38005
+          "numerator": 11373,
+          "denominator": 38005
         },
         {
           "frac": 0.32198396,
-          "count": 38005
+          "numerator": 12237,
+          "denominator": 38005
         }
       ],
       [
         {
           "frac": 0.39486808,
-          "count": 19252
+          "numerator": 7602,
+          "denominator": 19252
         },
         {
           "frac": 0.2100561,
-          "count": 19252
+          "numerator": 4044,
+          "denominator": 19252
         },
         {
           "frac": 0.39507583,
-          "count": 19252
+          "numerator": 7606,
+          "denominator": 19252
         }
       ],
       [
         {
           "frac": 0.30503336,
-          "count": 6596
+          "numerator": 2012,
+          "denominator": 6596
         },
         {
           "frac": 0.29426926,
-          "count": 6596
+          "numerator": 1941,
+          "denominator": 6596
         },
         {
           "frac": 0.40069738,
-          "count": 6596
+          "numerator": 2643,
+          "denominator": 6596
         }
       ]
     ]
