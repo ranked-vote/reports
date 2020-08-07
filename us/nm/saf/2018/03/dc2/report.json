@@ -20,15 +20,15 @@
   "candidates": [
     {
       "name": "Nate Downey",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Carol Romero-Wirth",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joe H. Arellano",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Melanie O'Brien",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Bud Polhill",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Michael Van Holst",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

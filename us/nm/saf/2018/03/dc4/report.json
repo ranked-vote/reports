@@ -20,15 +20,15 @@
   "candidates": [
     {
       "name": "Eric John Holmes",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Greg Scargall",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joanne Vigil Coppler",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

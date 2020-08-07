@@ -21,47 +21,47 @@
   "candidates": [
     {
       "name": "Samuel Kwong",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sherman R. D'Silva",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Marjan Philhour",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Richie Greenberg",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Lee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Brian J. Larkin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jonathan Lyens",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sandra Lee Fewer",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Andy Thornley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jason Jungreis",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

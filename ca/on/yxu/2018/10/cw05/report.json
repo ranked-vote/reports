@@ -19,27 +19,27 @@
   "candidates": [
     {
       "name": "Maureen Cassidy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Shiv Chokhani",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Shane Clarke",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Charles Knott",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Stephanie Marentette Di Battista",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Randy Warden",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

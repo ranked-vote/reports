@@ -21,19 +21,19 @@
   "candidates": [
     {
       "name": "Vicki Hennessy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Robinson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ross Mirkarimi",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

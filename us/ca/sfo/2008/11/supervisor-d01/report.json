@@ -22,43 +22,43 @@
   "candidates": [
     {
       "name": "Eric Mar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Alicia Wang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jason Jungreis",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Brian J. Larkin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sue Lee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sherman R. D'Silva",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "George Flamik",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Fidel Chrys Gakuba",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nicholas C. Belloni",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

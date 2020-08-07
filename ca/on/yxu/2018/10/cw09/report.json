@@ -19,23 +19,23 @@
   "candidates": [
     {
       "name": "Ben Charlebois",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Anna Hopkins",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matt Millar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kyle Thompson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Veronica Marie Warner",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

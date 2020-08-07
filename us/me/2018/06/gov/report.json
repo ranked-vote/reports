@@ -19,35 +19,35 @@
   "candidates": [
     {
       "name": "Mark N. Dion",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Janet T. Mills",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Adam Roland Cote",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mark W. Eves",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Elizabeth A. Sweet",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Diane Marie Russell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Donna J. Dion",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

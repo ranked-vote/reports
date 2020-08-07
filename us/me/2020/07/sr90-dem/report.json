@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Wendy Pieh",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lydia V. Crafts",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David J. Levesque",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

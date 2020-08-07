@@ -20,23 +20,23 @@
   "candidates": [
     {
       "name": "Suzy Loftus",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Leif Dautch",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nancy Tung",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Chesa Boudin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

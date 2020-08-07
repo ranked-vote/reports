@@ -22,23 +22,23 @@
   "candidates": [
     {
       "name": "Scott Wiener",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rebecca Prozan",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rafael Mandelman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Bill Hemenger",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

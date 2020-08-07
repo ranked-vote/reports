@@ -19,27 +19,27 @@
   "candidates": [
     {
       "name": "Gord Evans",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jesse Haidar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Faisal Mahmood",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rowa Mohamed",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Elizabeth Peloza",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eric Weniger",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

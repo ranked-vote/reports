@@ -22,19 +22,19 @@
   "candidates": [
     {
       "name": "Ron Dudum",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dave Ferguson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Carmen Chu",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

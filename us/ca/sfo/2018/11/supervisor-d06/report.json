@@ -21,19 +21,19 @@
   "candidates": [
     {
       "name": "Christine Johnson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matt Haney",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sonja Trauss",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

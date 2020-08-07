@@ -19,19 +19,19 @@
   "candidates": [
     {
       "name": "Bruce Poliquin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jared F. Golden",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tiffany L. Bond",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "William R.S. Hoar",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

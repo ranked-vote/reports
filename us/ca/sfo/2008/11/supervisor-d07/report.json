@@ -22,19 +22,19 @@
   "candidates": [
     {
       "name": "Billy Bob Whitmer",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Julian P. Lagos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sean R. Elsbernd",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

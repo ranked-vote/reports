@@ -21,55 +21,55 @@
   "candidates": [
     {
       "name": "Francisco Herrera",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ed Lee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Reed Martin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Amy Farah Weiss",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kent Graham",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Stuart Schuffman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - John E. Fitch",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - Karla Gottschalk (a.k.a Belle Starr)",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - Robert L. Jordan, Jr.",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - Daniel C Kappler",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - Ignacio L. Nunez",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In - Michael Petrelis",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

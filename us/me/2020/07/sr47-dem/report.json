@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Heather Abbott",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Arthur L. Bell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Peter J. Fromuth",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

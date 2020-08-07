@@ -21,15 +21,15 @@
   "candidates": [
     {
       "name": "Carmen Chu",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Bellar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

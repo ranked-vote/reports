@@ -20,35 +20,35 @@
   "candidates": [
     {
       "name": "Joel Ventresca",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Wilma Pang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Robert L. Jordan, Jr.",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Ybarra Robertson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ellen Lee Zhou",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "London N. Breed",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Marc Roth",
-      "write_in": true
+      "candidate_type": "QualifiedWriteIn"
     }
   ],
   "rounds": [
@@ -95,7 +95,7 @@
   ],
   "winner": 5,
   "condorcet": 5,
-  "numCandidates": 6,
+  "numCandidates": 7,
   "totalVotes": [
     {
       "candidate": 5,

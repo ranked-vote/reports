@@ -21,23 +21,23 @@
   "candidates": [
     {
       "name": "Melissa San Miguel",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Hillary Ronen",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Iswari España",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joshua Arce",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

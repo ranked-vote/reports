@@ -20,27 +20,27 @@
   "candidates": [
     {
       "name": "Bob Kiss",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Andy Montroll",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "James Simpson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dan Smith",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kurt Wright",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

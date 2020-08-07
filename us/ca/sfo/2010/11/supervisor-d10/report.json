@@ -22,91 +22,91 @@
   "candidates": [
     {
       "name": "Ashley H Rhodes",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Marlene Tran",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Malia Cohen",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "James M. Calloway",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Stephen Weber",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Diane Wesley Smith",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tony Kelly",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kristine Enea",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nyese Joshua",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ellsworth “Ell” Jennison",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Chris Jackson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dewitt M. Lacy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "M.J. Marie Franklin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lynette Sweet",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eric Smith",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jackie Norman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Geoffrea Morris",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Steve Moss",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ed Donaldson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Teresa Duque",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rodney Hampton, Jr.",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

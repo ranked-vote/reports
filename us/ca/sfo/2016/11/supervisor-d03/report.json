@@ -21,15 +21,15 @@
   "candidates": [
     {
       "name": "Tim E. Donnelly",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Aaron Peskin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

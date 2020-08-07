@@ -22,35 +22,35 @@
   "candidates": [
     {
       "name": "Eva Royale",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Vern Mathews",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mark Sanchez",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eric Storey",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tom Valtin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Campos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eric Quezada",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

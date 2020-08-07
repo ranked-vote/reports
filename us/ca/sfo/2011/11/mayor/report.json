@@ -22,103 +22,103 @@
   "candidates": [
     {
       "name": "Leland Yee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Chiu",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Currier",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tony Hall",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dennis Herrera",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Phil Ting",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Terry Joan Baum",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Cesar Ascarrunz",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Avalos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Michela Alioto-Pier",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jeff Adachi",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Emil Lawrence",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ed Lee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joanna Rees",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Bevan Dufty",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Wilma Pang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In John Edward Fitch",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Gilbert Louis Francis",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Rodney Hauge",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Robert 'Bobby' Jordan",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Harold Miller",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Patrick Monette-Shaw",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Lea Sherman",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In David Villa-Lobos",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

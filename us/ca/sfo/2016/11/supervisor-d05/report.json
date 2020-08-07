@@ -21,15 +21,15 @@
   "candidates": [
     {
       "name": "Dean Preston",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "London Breed",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

@@ -21,27 +21,27 @@
   "candidates": [
     {
       "name": "Joel Engardio",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Farrell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mike Young",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Norman Yee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ben Matranga",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

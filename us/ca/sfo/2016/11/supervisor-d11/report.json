@@ -21,27 +21,27 @@
   "candidates": [
     {
       "name": "Ahsha Safai",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Magdalena De Guzman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Francisco Herrera",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Berta Hernandez",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kim Alvarenga",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

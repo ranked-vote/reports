@@ -21,23 +21,23 @@
   "candidates": [
     {
       "name": "Nick Josefowitz",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Dennis",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Schuyler Hudak",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Catherine Stefani",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

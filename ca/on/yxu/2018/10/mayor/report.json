@@ -19,59 +19,59 @@
   "candidates": [
     {
       "name": "Vahide Bahramporian",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Cheng",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ali Hamadi",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ed Holder",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dan Lenart",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nina Mccutcheon",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Millie",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jordan Minter",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mohamed Moussa",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Carlos Murray",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sean M. O'Connell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Paolatto",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tanya Park",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jonas White",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

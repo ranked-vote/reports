@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Samuel Lewis Zager",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Benjamin K. Grant",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Laurie J. Davis",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

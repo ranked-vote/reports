@@ -19,27 +19,27 @@
   "candidates": [
     {
       "name": "Paul-Michael Anderson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eric H Deleeuw",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Menno Meijer",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rachel Powell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Stephen Turner",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Vicki Van Linden",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -19,11 +19,11 @@
   "candidates": [
     {
       "name": "Mike Bloxam",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Phil Squire",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -22,19 +22,19 @@
   "candidates": [
     {
       "name": "Ross Mirkarimi",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rob Anderson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Owen P. O'Donnell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Glenn Chip Curry",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Charles F. Pattavina",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Robyn M. Stanicki",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

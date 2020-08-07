@@ -19,39 +19,39 @@
   "candidates": [
     {
       "name": "Osam Ali",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Bill Downie",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matthew Greer",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nour Hamid",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Morena Hernandez",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Moon Inthavong",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tariq Khan",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Steve Lehman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matt Reid",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

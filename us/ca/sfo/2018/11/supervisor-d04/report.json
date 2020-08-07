@@ -21,39 +21,39 @@
   "candidates": [
     {
       "name": "Jessica Ho",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Adam Kim",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tuan Nguyen",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Arthur Tom",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Trevor Mcneil",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Gordon Mar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mike Murphy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lou Ann Bassan",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

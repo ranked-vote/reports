@@ -21,43 +21,43 @@
   "candidates": [
     {
       "name": "Michelle Bravo",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "London Breed",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mark Leno",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jane Kim",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Richie Greenberg",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Angela Alioto",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Amy Farah Weiss",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ellen Lee Zhou",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Antoine R. Rogers",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

@@ -21,19 +21,19 @@
   "candidates": [
     {
       "name": "Jeff Sheehy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lawrence “Stark” Dagesse",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rafael Mandelman",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

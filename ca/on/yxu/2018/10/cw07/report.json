@@ -19,11 +19,11 @@
   "candidates": [
     {
       "name": "Joe Kolenko",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Josh Morgan",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -19,23 +19,23 @@
   "candidates": [
     {
       "name": "Connor Garrett",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jesse Helmer",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Xuemei Jiang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tricia Lystar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Stephen William Orser",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

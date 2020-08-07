@@ -20,11 +20,11 @@
   "candidates": [
     {
       "name": "Signe I. Lindell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Marie Campos",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

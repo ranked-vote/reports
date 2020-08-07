@@ -21,19 +21,19 @@
   "candidates": [
     {
       "name": "Aaron Peskin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Wilma Pang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Julie Christensen",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

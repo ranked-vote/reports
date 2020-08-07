@@ -22,31 +22,31 @@
   "candidates": [
     {
       "name": "Janet Reilly",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Vilma B. Guinto Peoro",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Barbara Berwick",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mark Farrell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Abraham Simmons",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kat Anderson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

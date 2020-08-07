@@ -22,23 +22,23 @@
   "candidates": [
     {
       "name": "Chris Cunnie",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Wong",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Miyamoto",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ross Mirkarimi",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

@@ -20,11 +20,11 @@
   "candidates": [
     {
       "name": "Dennis J. Herrera",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

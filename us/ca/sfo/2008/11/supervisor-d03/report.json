@@ -22,43 +22,43 @@
   "candidates": [
     {
       "name": "Denise Mccarthy",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lynn Jefferson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joseph Alioto, Jr.",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mike Denunzio",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tony Gantner",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Chiu",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Claudine Cheng",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Wilma Pang",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mark Quessey",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

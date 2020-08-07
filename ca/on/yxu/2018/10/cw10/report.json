@@ -19,23 +19,23 @@
   "candidates": [
     {
       "name": "Gary Manley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kevin May",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Virginia Ridley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Thomas Risley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Paul Van Meerbergen",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -22,43 +22,43 @@
   "candidates": [
     {
       "name": "Julio Ramos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ahsha Safai",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Myrna Lim",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Eli M. Horn",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Avalos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mary Goodnature",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Randy Knox",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Adrian Bermudez",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "A. Jackson Matteson",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

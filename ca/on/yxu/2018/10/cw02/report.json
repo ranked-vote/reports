@@ -19,15 +19,15 @@
   "candidates": [
     {
       "name": "Bill Armstrong",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Alan Jackson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Shawn Lewis",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

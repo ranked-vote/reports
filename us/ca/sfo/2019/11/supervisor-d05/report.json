@@ -20,23 +20,23 @@
   "candidates": [
     {
       "name": "Ryan Lam",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Dean Preston",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Nomvula O'Meara",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Vallie Brown",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-in",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

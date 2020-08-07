@@ -22,63 +22,63 @@
   "candidates": [
     {
       "name": "Dean Clark",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Debra Walker",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "James Keys",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jane Kim",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "H. Brown",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "George Vazhappally",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Theresa Sparks",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Fortunate “Nate” Payne",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Elaine Zamora",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jim Meko",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matt Ashe",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Matt Drake",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "George Davis",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Glendon “Anna Conda” Hyde",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

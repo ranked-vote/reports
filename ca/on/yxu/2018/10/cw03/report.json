@@ -19,11 +19,11 @@
   "candidates": [
     {
       "name": "Harry Prince",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Mo Mohamed Salih",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

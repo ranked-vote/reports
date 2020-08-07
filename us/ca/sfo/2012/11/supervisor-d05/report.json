@@ -22,39 +22,39 @@
   "candidates": [
     {
       "name": "Christina Olague",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Thea Selby",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Julian Davis",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Rizzo",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Andrew “Ellard” Resignato",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Hope Johnson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Daniel Everett",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "London Breed",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

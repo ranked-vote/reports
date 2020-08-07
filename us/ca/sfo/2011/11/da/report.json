@@ -22,27 +22,27 @@
   "candidates": [
     {
       "name": "Bill Fazio",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Onek",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Vu Vuong Trinh",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "George Gascón",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Sharmin Bock",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

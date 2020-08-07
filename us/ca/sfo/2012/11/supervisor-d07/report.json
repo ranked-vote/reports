@@ -22,43 +22,43 @@
   "candidates": [
     {
       "name": "F. X. Francis Xavier Crowley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Robert J. Squeri",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lynn Gavin",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Michael Garcia",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Glenn Rogers",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Julian P. Lagos",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Norman Yee",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joel Engardio",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Andrew Bley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

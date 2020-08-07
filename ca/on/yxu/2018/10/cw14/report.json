@@ -19,19 +19,19 @@
   "candidates": [
     {
       "name": "Steve Hillier",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Annette Swalwell",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Allan Tipping",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jared Zaifman",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

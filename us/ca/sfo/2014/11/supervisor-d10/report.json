@@ -22,27 +22,27 @@
   "candidates": [
     {
       "name": "Shawn M. Richard",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Malia Cohen",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ed Donaldson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Marlene Tran",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tony Kelly",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

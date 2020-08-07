@@ -21,35 +21,35 @@
   "candidates": [
     {
       "name": "Asale Chandler",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Uzuri Pease-Greene",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Tony Kelly",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Shamann Walton",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Theo Ellington",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Gloria Berry",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Write-In",
-      "write_in": true
+      "candidate_type": "WriteIn"
     },
     {
       "name": "Write-In Neo Veavea",
-      "write_in": true
+      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [

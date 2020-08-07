@@ -19,35 +19,35 @@
   "candidates": [
     {
       "name": "Ben Benedict",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "John Fyfe-Millar",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jonathan Hughes",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Arielle Kayabaga",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "David Lundquist",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Rod Morley",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Gil Warren",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kevin Wilbee",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

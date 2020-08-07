@@ -19,19 +19,19 @@
   "candidates": [
     {
       "name": "Craig R. Olson",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jared F. Golden",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Lucas R. St. Clair",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Jonathan S. Fulford",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [

@@ -20,23 +20,23 @@
   "candidates": [
     {
       "name": "Peter N. Ives",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Alan Webber",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Kate I. Noble",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Joseph M. Maestas",
-      "write_in": false
+      "candidate_type": "Regular"
     },
     {
       "name": "Ronald S. Trujillo",
-      "write_in": false
+      "candidate_type": "Regular"
     }
   ],
   "rounds": [
