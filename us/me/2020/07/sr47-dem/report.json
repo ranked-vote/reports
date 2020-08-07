@@ -3,7 +3,9 @@
     "name": "State Representative - District 47 (D)",
     "date": "2020-07-14",
     "dataFormat": "us_me",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/me",
     "electionPath": "2020/07",
     "office": "sr47-dem",

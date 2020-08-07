@@ -3,7 +3,9 @@
     "name": "Sheriff",
     "date": "2019-11-05",
     "dataFormat": "nist_sp_1500",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2019/11",
     "office": "sheriff",
@@ -12,7 +14,8 @@
     "electionName": "Consolidated Municipal Election",
     "loaderParams": {
       "contest": "350",
-      "cvr": "CVR_Export_20191125163446.zip"
+      "cvr": "CVR_Export_20191125163446.zip",
+      "dropUnqualifiedWriteIn": "true"
     },
     "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
   },
@@ -21,10 +24,6 @@
     {
       "name": "Paul Miyamoto",
       "candidate_type": "Regular"
-    },
-    {
-      "name": "Write-in",
-      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [
@@ -32,20 +31,16 @@
       "allocations": [
         {
           "allocatee": 0,
-          "votes": 148536
-        },
-        {
-          "allocatee": 1,
-          "votes": 1856
+          "votes": 148945
         },
         {
           "allocatee": "X",
-          "votes": 55725
+          "votes": 57172
         }
       ],
-      "undervote": 55548,
-      "overvote": 177,
-      "continuingBallots": 150392,
+      "undervote": 56991,
+      "overvote": 181,
+      "continuingBallots": 148945,
       "transfers": []
     }
   ],
@@ -55,80 +50,39 @@
   "totalVotes": [
     {
       "candidate": 0,
-      "firstRoundVotes": 148536,
-      "transferVotes": 0,
-      "roundEliminated": null
-    },
-    {
-      "candidate": 1,
-      "firstRoundVotes": 1856,
+      "firstRoundVotes": 148945,
       "transferVotes": 0,
       "roundEliminated": null
     }
   ],
   "pairwisePreferences": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
-      0,
-      1
+      0
     ],
     "entries": [
       [
-        null,
-        {
-          "frac": 0.9876589,
-          "numerator": 148536,
-          "denominator": 150392
-        }
-      ],
-      [
-        {
-          "frac": 0.012341082,
-          "numerator": 1856,
-          "denominator": 150392
-        },
         null
       ]
     ]
   },
   "firstAlternate": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": [
       [
         null,
         {
-          "frac": 0.0060254754,
-          "numerator": 895,
-          "denominator": 148536
-        },
-        {
-          "frac": 0.9939745,
-          "numerator": 147641,
-          "denominator": 148536
-        }
-      ],
-      [
-        {
-          "frac": 0.22036637,
-          "numerator": 409,
-          "denominator": 1856
-        },
-        null,
-        {
-          "frac": 0.77963364,
-          "numerator": 1447,
-          "denominator": 1856
+          "frac": 1.0,
+          "numerator": 148945,
+          "denominator": 148945
         }
       ]
     ]
@@ -137,7 +91,6 @@
     "rows": [],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": []

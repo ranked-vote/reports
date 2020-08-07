@@ -3,7 +3,9 @@
     "name": "Board of Supervisors, District 10",
     "date": "2010-11-02",
     "dataFormat": "us_ca_sfo",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2010/11",
     "office": "supervisor-d10",

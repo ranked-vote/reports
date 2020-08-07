@@ -3,7 +3,9 @@
     "name": "Governor",
     "date": "2018-06-12",
     "dataFormat": "us_me",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/me",
     "electionPath": "2018/06",
     "office": "gov",

@@ -3,7 +3,9 @@
     "name": "Ward 9 Councilor",
     "date": "2018-10-22",
     "dataFormat": "dominion_rcr",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "ca/on/yxu",
     "electionPath": "2018/10",
     "office": "cw09",

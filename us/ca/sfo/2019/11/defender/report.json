@@ -3,7 +3,9 @@
     "name": "Public Defender",
     "date": "2019-11-05",
     "dataFormat": "nist_sp_1500",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2019/11",
     "office": "defender",
@@ -12,7 +14,8 @@
     "electionName": "Consolidated Municipal Election",
     "loaderParams": {
       "contest": "360",
-      "cvr": "CVR_Export_20191125163446.zip"
+      "cvr": "CVR_Export_20191125163446.zip",
+      "dropUnqualifiedWriteIn": "true"
     },
     "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
   },
@@ -21,10 +24,6 @@
     {
       "name": "Manohar “Mano” Raju",
       "candidate_type": "Regular"
-    },
-    {
-      "name": "Write-in",
-      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [
@@ -32,20 +31,16 @@
       "allocations": [
         {
           "allocatee": 0,
-          "votes": 160749
-        },
-        {
-          "allocatee": 1,
-          "votes": 1578
+          "votes": 161222
         },
         {
           "allocatee": "X",
-          "votes": 43790
+          "votes": 44895
         }
       ],
-      "undervote": 43615,
-      "overvote": 175,
-      "continuingBallots": 162327,
+      "undervote": 44717,
+      "overvote": 178,
+      "continuingBallots": 161222,
       "transfers": []
     }
   ],
@@ -55,80 +50,39 @@
   "totalVotes": [
     {
       "candidate": 0,
-      "firstRoundVotes": 160749,
-      "transferVotes": 0,
-      "roundEliminated": null
-    },
-    {
-      "candidate": 1,
-      "firstRoundVotes": 1578,
+      "firstRoundVotes": 161222,
       "transferVotes": 0,
       "roundEliminated": null
     }
   ],
   "pairwisePreferences": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
-      0,
-      1
+      0
     ],
     "entries": [
       [
-        null,
-        {
-          "frac": 0.9902789,
-          "numerator": 160749,
-          "denominator": 162327
-        }
-      ],
-      [
-        {
-          "frac": 0.009721118,
-          "numerator": 1578,
-          "denominator": 162327
-        },
         null
       ]
     ]
   },
   "firstAlternate": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": [
       [
         null,
         {
-          "frac": 0.0058227424,
-          "numerator": 936,
-          "denominator": 160749
-        },
-        {
-          "frac": 0.9941773,
-          "numerator": 159813,
-          "denominator": 160749
-        }
-      ],
-      [
-        {
-          "frac": 0.2997465,
-          "numerator": 473,
-          "denominator": 1578
-        },
-        null,
-        {
-          "frac": 0.7002535,
-          "numerator": 1105,
-          "denominator": 1578
+          "frac": 1.0,
+          "numerator": 161222,
+          "denominator": 161222
         }
       ]
     ]
@@ -137,7 +91,6 @@
     "rows": [],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": []

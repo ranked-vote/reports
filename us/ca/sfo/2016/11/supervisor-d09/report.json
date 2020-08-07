@@ -3,7 +3,9 @@
     "name": "Board of Supervisors, District 9",
     "date": "2016-11-08",
     "dataFormat": "us_ca_sfo",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2016/11",
     "office": "supervisor-d09",

@@ -3,7 +3,9 @@
     "name": "City Attorney",
     "date": "2019-11-05",
     "dataFormat": "nist_sp_1500",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2019/11",
     "office": "city-atty",
@@ -12,7 +14,8 @@
     "electionName": "Consolidated Municipal Election",
     "loaderParams": {
       "contest": "352",
-      "cvr": "CVR_Export_20191125163446.zip"
+      "cvr": "CVR_Export_20191125163446.zip",
+      "dropUnqualifiedWriteIn": "true"
     },
     "website": "https://sfelections.sfgov.org/november-5-2019-election-results-detailed-reports"
   },
@@ -21,10 +24,6 @@
     {
       "name": "Dennis J. Herrera",
       "candidate_type": "Regular"
-    },
-    {
-      "name": "Write-in",
-      "candidate_type": "WriteIn"
     }
   ],
   "rounds": [
@@ -32,20 +31,16 @@
       "allocations": [
         {
           "allocatee": 0,
-          "votes": 163272
-        },
-        {
-          "allocatee": 1,
-          "votes": 1704
+          "votes": 163830
         },
         {
           "allocatee": "X",
-          "votes": 41141
+          "votes": 42287
         }
       ],
-      "undervote": 40993,
-      "overvote": 148,
-      "continuingBallots": 164976,
+      "undervote": 42134,
+      "overvote": 153,
+      "continuingBallots": 163830,
       "transfers": []
     }
   ],
@@ -55,80 +50,39 @@
   "totalVotes": [
     {
       "candidate": 0,
-      "firstRoundVotes": 163272,
-      "transferVotes": 0,
-      "roundEliminated": null
-    },
-    {
-      "candidate": 1,
-      "firstRoundVotes": 1704,
+      "firstRoundVotes": 163830,
       "transferVotes": 0,
       "roundEliminated": null
     }
   ],
   "pairwisePreferences": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
-      0,
-      1
+      0
     ],
     "entries": [
       [
-        null,
-        {
-          "frac": 0.98967123,
-          "numerator": 163272,
-          "denominator": 164976
-        }
-      ],
-      [
-        {
-          "frac": 0.010328775,
-          "numerator": 1704,
-          "denominator": 164976
-        },
         null
       ]
     ]
   },
   "firstAlternate": {
     "rows": [
-      0,
-      1
+      0
     ],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": [
       [
         null,
         {
-          "frac": 0.007202705,
-          "numerator": 1176,
-          "denominator": 163272
-        },
-        {
-          "frac": 0.9927973,
-          "numerator": 162096,
-          "denominator": 163272
-        }
-      ],
-      [
-        {
-          "frac": 0.3274648,
-          "numerator": 558,
-          "denominator": 1704
-        },
-        null,
-        {
-          "frac": 0.67253524,
-          "numerator": 1146,
-          "denominator": 1704
+          "frac": 1.0,
+          "numerator": 163830,
+          "denominator": 163830
         }
       ]
     ]
@@ -137,7 +91,6 @@
     "rows": [],
     "cols": [
       0,
-      1,
       "X"
     ],
     "entries": []

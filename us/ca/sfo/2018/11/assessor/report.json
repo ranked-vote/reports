@@ -3,7 +3,9 @@
     "name": "Assessor-Recorder",
     "date": "2018-11-06",
     "dataFormat": "us_ca_sfo",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2018/11",
     "office": "assessor",

@@ -3,7 +3,9 @@
     "name": "Board of Supervisors, District 8",
     "date": "2018-06-05",
     "dataFormat": "us_ca_sfo",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2018/06",
     "office": "supervisor-d08",

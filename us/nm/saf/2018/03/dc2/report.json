@@ -3,7 +3,9 @@
     "name": "District 2 Councilor",
     "date": "2018-03-06",
     "dataFormat": "nist_sp_1500",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/nm/saf",
     "electionPath": "2018/03",
     "office": "dc2",

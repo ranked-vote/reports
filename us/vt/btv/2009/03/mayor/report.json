@@ -3,7 +3,9 @@
     "name": "Mayor",
     "date": "2009-03-03",
     "dataFormat": "us_vt_btv",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/vt/btv",
     "electionPath": "2009/03",
     "office": "mayor",

@@ -3,7 +3,9 @@
     "name": "Mayor",
     "date": "2011-11-08",
     "dataFormat": "us_ca_sfo",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/ca/sfo",
     "electionPath": "2011/11",
     "office": "mayor",

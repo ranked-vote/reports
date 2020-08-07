@@ -3,7 +3,9 @@
     "name": "Congressional District 2",
     "date": "2018-11-06",
     "dataFormat": "us_me",
-    "tabulation": "eager_irv",
+    "tabulationOptions": {
+      "eager": true
+    },
     "jurisdictionPath": "us/me",
     "electionPath": "2018/11",
     "office": "cd02",
