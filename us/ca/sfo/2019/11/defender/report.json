@@ -31,16 +31,16 @@
       "allocations": [
         {
           "allocatee": 0,
-          "votes": 161222
+          "votes": 161109
         },
         {
           "allocatee": "X",
-          "votes": 44895
+          "votes": 45008
         }
       ],
-      "undervote": 44717,
-      "overvote": 178,
-      "continuingBallots": 161222,
+      "undervote": 44878,
+      "overvote": 130,
+      "continuingBallots": 161109,
       "transfers": []
     }
   ],
@@ -50,7 +50,7 @@
   "totalVotes": [
     {
       "candidate": 0,
-      "firstRoundVotes": 161222,
+      "firstRoundVotes": 161109,
       "transferVotes": 0,
       "roundEliminated": null
     }
@@ -81,8 +81,8 @@
         null,
         {
           "frac": 1.0,
-          "numerator": 161222,
-          "denominator": 161222
+          "numerator": 161109,
+          "denominator": 161109
         }
       ]
     ]

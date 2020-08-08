@@ -42,7 +42,7 @@
         },
         {
           "allocatee": 0,
-          "votes": 2027
+          "votes": 2023
         },
         {
           "allocatee": 2,
@@ -50,12 +50,12 @@
         },
         {
           "allocatee": "X",
-          "votes": 173
+          "votes": 177
         }
       ],
       "undervote": 173,
-      "overvote": 0,
-      "continuingBallots": 6260,
+      "overvote": 4,
+      "continuingBallots": 6256,
       "transfers": []
     }
   ],
@@ -71,7 +71,7 @@
     },
     {
       "candidate": 0,
-      "firstRoundVotes": 2027,
+      "firstRoundVotes": 2023,
       "transferVotes": 0,
       "roundEliminated": null
     },
@@ -97,39 +97,39 @@
       [
         null,
         {
-          "frac": 0.61742175,
+          "frac": 0.6182455,
           "numerator": 3707,
-          "denominator": 6004
+          "denominator": 5996
         },
         {
-          "frac": 0.79498744,
-          "numerator": 4758,
-          "denominator": 5985
+          "frac": 0.79498327,
+          "numerator": 4754,
+          "denominator": 5980
         }
       ],
       [
         {
-          "frac": 0.38257828,
-          "numerator": 2297,
-          "denominator": 6004
+          "frac": 0.38175452,
+          "numerator": 2289,
+          "denominator": 5996
         },
         null,
         {
-          "frac": 0.7379529,
-          "numerator": 4196,
-          "denominator": 5686
+          "frac": 0.7379736,
+          "numerator": 4188,
+          "denominator": 5675
         }
       ],
       [
         {
-          "frac": 0.20501253,
-          "numerator": 1227,
-          "denominator": 5985
+          "frac": 0.20501672,
+          "numerator": 1226,
+          "denominator": 5980
         },
         {
-          "frac": 0.26204714,
-          "numerator": 1490,
-          "denominator": 5686
+          "frac": 0.26202643,
+          "numerator": 1487,
+          "denominator": 5675
         },
         null
       ]
@@ -151,37 +151,37 @@
       [
         null,
         {
-          "frac": 0.655287,
-          "numerator": 2169,
+          "frac": 0.65407854,
+          "numerator": 2165,
           "denominator": 3310
         },
         {
-          "frac": 0.1712991,
-          "numerator": 567,
+          "frac": 0.17039275,
+          "numerator": 564,
           "denominator": 3310
         },
         {
-          "frac": 0.1734139,
-          "numerator": 574,
+          "frac": 0.1755287,
+          "numerator": 581,
           "denominator": 3310
         }
       ],
       [
         {
-          "frac": 0.7143562,
-          "numerator": 1448,
-          "denominator": 2027
+          "frac": 0.7137914,
+          "numerator": 1444,
+          "denominator": 2023
         },
         null,
         {
-          "frac": 0.14997533,
-          "numerator": 304,
-          "denominator": 2027
+          "frac": 0.14977756,
+          "numerator": 303,
+          "denominator": 2023
         },
         {
-          "frac": 0.13566847,
-          "numerator": 275,
-          "denominator": 2027
+          "frac": 0.13643104,
+          "numerator": 276,
+          "denominator": 2023
         }
       ],
       [
@@ -191,14 +191,14 @@
           "denominator": 923
         },
         {
-          "frac": 0.29252437,
-          "numerator": 270,
+          "frac": 0.2881907,
+          "numerator": 266,
           "denominator": 923
         },
         null,
         {
-          "frac": 0.27735645,
-          "numerator": 256,
+          "frac": 0.28169015,
+          "numerator": 260,
           "denominator": 923
         }
       ]

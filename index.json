@@ -343,9 +343,9 @@
           "numRounds": 2
         },
         {
-          "office": "gov",
-          "officeName": "Governor",
-          "name": "Governor",
+          "office": "gov-primary-dem",
+          "officeName": "Governor (D)",
+          "name": "Governor (D)",
           "winner": "Janet T. Mills",
           "numCandidates": 8,
           "numRounds": 4
