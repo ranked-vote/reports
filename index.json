@@ -57,6 +57,22 @@
       ]
     },
     {
+      "path": "us/wy-dem/2020/04",
+      "jurisdictionName": "Wyoming Democrats",
+      "electionName": "Democratic Caucus",
+      "date": "2020-04-18",
+      "contests": [
+        {
+          "office": "president",
+          "officeName": "Presidential Nominee",
+          "name": "Presidential Nominee",
+          "winner": "Joe Biden",
+          "numCandidates": 9,
+          "numRounds": 1
+        }
+      ]
+    },
+    {
       "path": "us/ca/sfo/2019/11",
       "jurisdictionName": "San Francisco",
       "electionName": "Consolidated Municipal Election",
