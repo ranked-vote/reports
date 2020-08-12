@@ -62,6 +62,42 @@
       "overvote": 41,
       "continuingBallots": 16694,
       "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 8921
+        },
+        {
+          "allocatee": 2,
+          "votes": 7495
+        },
+        {
+          "allocatee": "X",
+          "votes": 1138
+        }
+      ],
+      "undervote": 1097,
+      "overvote": 41,
+      "continuingBallots": 16416,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 0,
+          "count": 154
+        },
+        {
+          "from": 1,
+          "to": 2,
+          "count": 228
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 278
+        }
+      ]
     }
   ],
   "winner": 0,
@@ -71,20 +107,20 @@
     {
       "candidate": 0,
       "firstRoundVotes": 8767,
-      "transferVotes": 0,
+      "transferVotes": 154,
       "roundEliminated": null
     },
     {
       "candidate": 2,
       "firstRoundVotes": 7267,
-      "transferVotes": 0,
+      "transferVotes": 228,
       "roundEliminated": null
     },
     {
       "candidate": 1,
       "firstRoundVotes": 660,
       "transferVotes": 0,
-      "roundEliminated": null
+      "roundEliminated": 1
     }
   ],
   "pairwisePreferences": {
@@ -210,14 +246,33 @@
     ]
   },
   "firstFinal": {
-    "rows": [],
+    "rows": [
+      1
+    ],
     "cols": [
       0,
       2,
-      1,
       "X"
     ],
-    "entries": []
+    "entries": [
+      [
+        {
+          "frac": 0.23333333,
+          "numerator": 154,
+          "denominator": 660
+        },
+        {
+          "frac": 0.34545454,
+          "numerator": 228,
+          "denominator": 660
+        },
+        {
+          "frac": 0.4212121,
+          "numerator": 278,
+          "denominator": 660
+        }
+      ]
+    ]
   },
   "smithSet": [
     0

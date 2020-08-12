@@ -67,6 +67,57 @@
       "overvote": 83,
       "continuingBallots": 29439,
       "transfers": []
+    },
+    {
+      "allocations": [
+        {
+          "allocatee": 2,
+          "votes": 16649
+        },
+        {
+          "allocatee": 0,
+          "votes": 11881
+        },
+        {
+          "allocatee": "X",
+          "votes": 3098
+        }
+      ],
+      "undervote": 3009,
+      "overvote": 89,
+      "continuingBallots": 28530,
+      "transfers": [
+        {
+          "from": 1,
+          "to": 2,
+          "count": 1237
+        },
+        {
+          "from": 3,
+          "to": 2,
+          "count": 7
+        },
+        {
+          "from": 1,
+          "to": 0,
+          "count": 1520
+        },
+        {
+          "from": 3,
+          "to": 0,
+          "count": 15
+        },
+        {
+          "from": 1,
+          "to": "X",
+          "count": 878
+        },
+        {
+          "from": 3,
+          "to": "X",
+          "count": 31
+        }
+      ]
     }
   ],
   "winner": 2,
@@ -76,26 +127,26 @@
     {
       "candidate": 2,
       "firstRoundVotes": 15405,
-      "transferVotes": 0,
+      "transferVotes": 1244,
       "roundEliminated": null
     },
     {
       "candidate": 0,
       "firstRoundVotes": 10346,
-      "transferVotes": 0,
+      "transferVotes": 1535,
       "roundEliminated": null
     },
     {
       "candidate": 1,
       "firstRoundVotes": 3635,
       "transferVotes": 0,
-      "roundEliminated": null
+      "roundEliminated": 1
     },
     {
       "candidate": 3,
       "firstRoundVotes": 53,
       "transferVotes": 0,
-      "roundEliminated": null
+      "roundEliminated": 1
     }
   ],
   "pairwisePreferences": {
@@ -296,15 +347,51 @@
     ]
   },
   "firstFinal": {
-    "rows": [],
+    "rows": [
+      1,
+      3
+    ],
     "cols": [
       2,
       0,
-      1,
-      3,
       "X"
     ],
-    "entries": []
+    "entries": [
+      [
+        {
+          "frac": 0.34030262,
+          "numerator": 1237,
+          "denominator": 3635
+        },
+        {
+          "frac": 0.4181568,
+          "numerator": 1520,
+          "denominator": 3635
+        },
+        {
+          "frac": 0.24154058,
+          "numerator": 878,
+          "denominator": 3635
+        }
+      ],
+      [
+        {
+          "frac": 0.13207547,
+          "numerator": 7,
+          "denominator": 53
+        },
+        {
+          "frac": 0.28301886,
+          "numerator": 15,
+          "denominator": 53
+        },
+        {
+          "frac": 0.5849057,
+          "numerator": 31,
+          "denominator": 53
+        }
+      ]
+    ]
   },
   "smithSet": [
     2

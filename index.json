@@ -52,7 +52,7 @@
           "name": "State Representative - District 90 (D)",
           "winner": "Lydia V. Crafts",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         }
       ]
     },
@@ -68,7 +68,7 @@
           "name": "Presidential Nominee",
           "winner": "Joe Biden",
           "numCandidates": 9,
-          "numRounds": 1
+          "numRounds": 2
         }
       ]
     },
@@ -84,7 +84,7 @@
           "name": "Mayor",
           "winner": "London N. Breed",
           "numCandidates": 7,
-          "numRounds": 1
+          "numRounds": 3
         },
         {
           "office": "supervisor-d05",
@@ -196,7 +196,7 @@
           "name": "Board of Supervisors, District 6",
           "winner": "Matt Haney",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d08",
@@ -236,7 +236,7 @@
           "name": "Ward 1 Councilor",
           "winner": "Michael Van Holst",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "cw02",
@@ -244,7 +244,7 @@
           "name": "Ward 2 Councilor",
           "winner": "Shawn Lewis",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "cw03",
@@ -260,7 +260,7 @@
           "name": "Ward 4 Councilor",
           "winner": "Jesse Helmer",
           "numCandidates": 5,
-          "numRounds": 1
+          "numRounds": 3
         },
         {
           "office": "cw05",
@@ -300,7 +300,7 @@
           "name": "Ward 9 Councilor",
           "winner": "Anna Hopkins",
           "numCandidates": 5,
-          "numRounds": 2
+          "numRounds": 3
         },
         {
           "office": "cw10",
@@ -308,7 +308,7 @@
           "name": "Ward 10 Councilor",
           "winner": "Paul Van Meerbergen",
           "numCandidates": 5,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "cw11",
@@ -316,7 +316,7 @@
           "name": "Ward 11 Councilor",
           "winner": "Stephen Turner",
           "numCandidates": 6,
-          "numRounds": 1
+          "numRounds": 3
         },
         {
           "office": "cw12",
@@ -324,7 +324,7 @@
           "name": "Ward 12 Councilor",
           "winner": "Elizabeth Peloza",
           "numCandidates": 6,
-          "numRounds": 2
+          "numRounds": 3
         },
         {
           "office": "cw13",
@@ -388,7 +388,7 @@
           "name": "Board of Supervisors, District 8",
           "winner": "Rafael Mandelman",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         }
       ]
     },
@@ -420,7 +420,7 @@
           "name": "District 2 Councilor",
           "winner": "Carol Romero-Wirth",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "dc3",
@@ -484,7 +484,7 @@
           "name": "Board of Supervisors, District 9",
           "winner": "Hillary Ronen",
           "numCandidates": 4,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d11",
@@ -508,7 +508,7 @@
           "name": "Mayor",
           "winner": "Ed Lee",
           "numCandidates": 6,
-          "numRounds": 1
+          "numRounds": 4
         },
         {
           "office": "sheriff",
@@ -516,7 +516,7 @@
           "name": "Sheriff",
           "winner": "Vicki Hennessy",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d03",
@@ -524,7 +524,7 @@
           "name": "Board of Supervisors, District 3",
           "winner": "Aaron Peskin",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         }
       ]
     },
@@ -540,7 +540,7 @@
           "name": "Board of Supervisors, District 10",
           "winner": "Malia Cohen",
           "numCandidates": 5,
-          "numRounds": 2
+          "numRounds": 3
         }
       ]
     },
@@ -684,7 +684,7 @@
           "name": "Board of Supervisors, District 4",
           "winner": "Carmen Chu",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d05",
@@ -692,7 +692,7 @@
           "name": "Board of Supervisors, District 5",
           "winner": "Ross Mirkarimi",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d07",
@@ -700,7 +700,7 @@
           "name": "Board of Supervisors, District 7",
           "winner": "Sean R. Elsbernd",
           "numCandidates": 3,
-          "numRounds": 1
+          "numRounds": 2
         },
         {
           "office": "supervisor-d09",
