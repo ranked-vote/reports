@@ -1,0 +1,151 @@
+{
+  "info": {
+    "name": "Board of Supervisors, District 9",
+    "date": "2020-11-03",
+    "dataFormat": "nist_sp_1500",
+    "tabulationOptions": {
+      "eager": true
+    },
+    "jurisdictionPath": "us/ca/sfo",
+    "electionPath": "2020/11",
+    "office": "supervisor-d09",
+    "officeName": "Board of Supervisors, District 9",
+    "jurisdictionName": "San Francisco",
+    "electionName": "Consolidated General Election",
+    "loaderParams": {
+      "contest": "16",
+      "cvr": "CVR_Export_20201201091840.zip",
+      "dropUnqualifiedWriteIn": "true"
+    },
+    "website": "https://sfelections.sfgov.org/november-3-2020-election-results-detailed-reports"
+  },
+  "ballotCount": 36969,
+  "candidates": [
+    {
+      "name": "Hillary Ronen",
+      "candidate_type": "Regular"
+    },
+    {
+      "name": "Bud Ryerson",
+      "candidate_type": "QualifiedWriteIn"
+    }
+  ],
+  "rounds": [
+    {
+      "allocations": [
+        {
+          "allocatee": 0,
+          "votes": 29212
+        },
+        {
+          "allocatee": 1,
+          "votes": 63
+        },
+        {
+          "allocatee": "X",
+          "votes": 7694
+        }
+      ],
+      "undervote": 7692,
+      "overvote": 2,
+      "continuingBallots": 29275,
+      "transfers": []
+    }
+  ],
+  "winner": 0,
+  "condorcet": 0,
+  "numCandidates": 2,
+  "totalVotes": [
+    {
+      "candidate": 0,
+      "firstRoundVotes": 29212,
+      "transferVotes": 0,
+      "roundEliminated": null
+    },
+    {
+      "candidate": 1,
+      "firstRoundVotes": 63,
+      "transferVotes": 0,
+      "roundEliminated": null
+    }
+  ],
+  "pairwisePreferences": {
+    "rows": [
+      0,
+      1
+    ],
+    "cols": [
+      0,
+      1
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.997848,
+          "numerator": 29212,
+          "denominator": 29275
+        }
+      ],
+      [
+        {
+          "frac": 0.0021520068,
+          "numerator": 63,
+          "denominator": 29275
+        },
+        null
+      ]
+    ]
+  },
+  "firstAlternate": {
+    "rows": [
+      0,
+      1
+    ],
+    "cols": [
+      0,
+      1,
+      "X"
+    ],
+    "entries": [
+      [
+        null,
+        {
+          "frac": 0.000068465015,
+          "numerator": 2,
+          "denominator": 29212
+        },
+        {
+          "frac": 0.9999315,
+          "numerator": 29210,
+          "denominator": 29212
+        }
+      ],
+      [
+        {
+          "frac": 0.06349207,
+          "numerator": 4,
+          "denominator": 63
+        },
+        null,
+        {
+          "frac": 0.93650794,
+          "numerator": 59,
+          "denominator": 63
+        }
+      ]
+    ]
+  },
+  "firstFinal": {
+    "rows": [],
+    "cols": [
+      0,
+      1,
+      "X"
+    ],
+    "entries": []
+  },
+  "smithSet": [
+    0
+  ]
+}

@@ -1,6 +1,62 @@
 {
   "elections": [
     {
+      "path": "us/ca/sfo/2020/11",
+      "jurisdictionName": "San Francisco",
+      "electionName": "Consolidated General Election",
+      "date": "2020-11-03",
+      "contests": [
+        {
+          "office": "supervisor-d01",
+          "officeName": "Board of Supervisors, District 1",
+          "name": "Board of Supervisors, District 1",
+          "winner": "Connie Chan",
+          "numCandidates": 7,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d03",
+          "officeName": "Board of Supervisors, District 3",
+          "name": "Board of Supervisors, District 3",
+          "winner": "Aaron Peskin",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d05",
+          "officeName": "Board of Supervisors, District 5",
+          "name": "Board of Supervisors, District 5",
+          "winner": "Dean Preston",
+          "numCandidates": 4,
+          "numRounds": 2
+        },
+        {
+          "office": "supervisor-d07",
+          "officeName": "Board of Supervisors, District 7",
+          "name": "Board of Supervisors, District 7",
+          "winner": "Myrna Melgar",
+          "numCandidates": 7,
+          "numRounds": 5
+        },
+        {
+          "office": "supervisor-d09",
+          "officeName": "Board of Supervisors, District 9",
+          "name": "Board of Supervisors, District 9",
+          "winner": "Hillary Ronen",
+          "numCandidates": 2,
+          "numRounds": 1
+        },
+        {
+          "office": "supervisor-d11",
+          "officeName": "Board of Supervisors, District 11",
+          "name": "Board of Supervisors, District 11",
+          "winner": "Ahsha Safai",
+          "numCandidates": 4,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
       "path": "us/me/2020/07",
       "jurisdictionName": "Maine",
       "electionName": "Primary Election",
