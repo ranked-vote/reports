@@ -1,6 +1,22 @@
 {
   "elections": [
     {
+      "path": "us/ny/nyc/2021/06",
+      "jurisdictionName": "New York City",
+      "electionName": "Democratic Caucus",
+      "date": "2021-06-22",
+      "contests": [
+        {
+          "office": "mayor-primary-dem",
+          "officeName": "Mayor Nominee (Dem)",
+          "name": "Mayor Nominee (Dem)",
+          "winner": "Eric L. Adams",
+          "numCandidates": 13,
+          "numRounds": 8
+        }
+      ]
+    },
+    {
       "path": "us/ca/sfo/2020/11",
       "jurisdictionName": "San Francisco",
       "electionName": "Consolidated General Election",
