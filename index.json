@@ -1,6 +1,22 @@
 {
   "elections": [
     {
+      "path": "us/ak/2022/08",
+      "jurisdictionName": "Alaska",
+      "electionName": "Special Election",
+      "date": "2022-08-16",
+      "contests": [
+        {
+          "office": "cd",
+          "officeName": "At-large Congressional District",
+          "name": "At-large Congressional District",
+          "winner": "Peltola, Mary S.",
+          "numCandidates": 3,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
       "path": "us/ny/nyc/2021/06",
       "jurisdictionName": "New York City",
       "electionName": "Democratic Caucus",
@@ -412,22 +428,6 @@
           "name": "Ward 14 Councilor",
           "winner": "Steve Hillier",
           "numCandidates": 4,
-          "numRounds": 2
-        }
-      ]
-    },
-    {
-      "path": "us/ak/2022/08",
-      "jurisdictionName": "Alaska",
-      "electionName": "Special Election",
-      "date": "2018-08-16",
-      "contests": [
-        {
-          "office": "cd",
-          "officeName": "At-large Congressional District",
-          "name": "At-large Congressional District",
-          "winner": "Peltola, Mary S.",
-          "numCandidates": 3,
           "numRounds": 2
         }
       ]
