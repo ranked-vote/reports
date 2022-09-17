@@ -417,6 +417,22 @@
       ]
     },
     {
+      "path": "us/ak/2022/08",
+      "jurisdictionName": "Alaska",
+      "electionName": "Special Election",
+      "date": "2018-08-16",
+      "contests": [
+        {
+          "office": "cd",
+          "officeName": "At-large Congressional District",
+          "name": "At-large Congressional District",
+          "winner": "Peltola, Mary S.",
+          "numCandidates": 3,
+          "numRounds": 2
+        }
+      ]
+    },
+    {
       "path": "us/me/2018/06",
       "jurisdictionName": "Maine",
       "electionName": "Primary Election",
